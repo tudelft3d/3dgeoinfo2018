@@ -4,7 +4,7 @@ layout: default_3dgi18
 
 <div class="container">
 <?php
-	$repository_path = '/var/www/3dgeoinfo';
+	$repository_path = '/var/www/3dgeoinfo2018';
 ?>
 
 <h1>Git pull</h1>
