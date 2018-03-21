@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_3dgi18
 ---
 
 <div class="container">
