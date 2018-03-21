@@ -15,7 +15,7 @@ permalink: /committee
 
     <tr>
       <td>
-        Jantien Stoter (local co-chair)
+        Jantien Stoter (co-chair)
       </td>
       <td>
         Delft University of Technology
