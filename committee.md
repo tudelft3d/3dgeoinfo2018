@@ -177,7 +177,7 @@ permalink: /committee
         Pawel Boguslawski
       </td>
       <td>
-        University of the West of England
+        Wroclaw University of Science and Technology
       </td>
     </tr>
     <tr>
