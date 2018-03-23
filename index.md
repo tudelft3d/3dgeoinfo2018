@@ -14,4 +14,6 @@ The conference will focus on developments and applications in advanced 3D data a
 
 In case of questions, you can contact the co-chairs [Jantien Stoter](mailto:j.e.stoter@tudelft.nl) and [Mila Koeva](mailto:m.n.koeva@utwente.nl).
 
+Conference information as a PDF can be accessed [here](https://3dgeoinfo2018.nl/Call.pdf).
+
 <img class="image img-responsive" src="img/Delft-Hall.jpg" /><br />
