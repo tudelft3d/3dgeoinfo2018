@@ -12,7 +12,6 @@ permalink: /committee
         <h2>Organising committee</h2>
       </td>
     </tr>
-
     <tr>
       <td>
         Jantien Stoter (co-chair)
@@ -77,21 +76,20 @@ permalink: /committee
         Delft University of Technology
       </td>
     </tr>
-
     <tr>
       <td colspan="2">
         <a name="programme" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
         <h2>Scientific committee</h2>
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Giorgio Agugiaro
       </td>
       <td>
         Austrian Institute of Technology
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         Alias Abdul-Rahman
@@ -100,7 +98,7 @@ permalink: /committee
         Universiti Teknologi Malaysia
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Mulhim Al-Doori
       </td>
@@ -123,7 +121,7 @@ permalink: /committee
       <td>
         University of Melbourne
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         Ken Arroyo Ohori
@@ -132,7 +130,7 @@ permalink: /committee
         Delft University of Technology
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Apostolos Arvanitis
       </td>
@@ -155,7 +153,7 @@ permalink: /committee
       <td>
         Universiti Technologi Malaysia
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         Filip Biljecki
@@ -164,7 +162,7 @@ permalink: /committee
         National University of Singapore
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Lars Bodum
       </td>
@@ -179,47 +177,55 @@ permalink: /committee
       <td>
         Wroclaw University of Science and Technology
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         Martin Breunig
       </td>
       <td>
-        Karlsruhe Institute of Technology (KIT)
+        Karlsruhe Institute of Technology
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Volker Coors
       </td>
       <td>
         HFT Stuttgart
       </td>
-    </tr>
+    </tr> -->
     <tr>
+      <td>
+        Sophie Crommelinck
+      </td>
+      <td>
+        University of Twente
+      </td>
+    </tr>
+    <!-- <tr>
       <td>
         Rémi Cura
       </td>
       <td>
         IGN / THALES
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         Sagi Dalyot
       </td>
       <td>
-        IKG
+        Technion – Israel Institute of Technology
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Philippe De Maeyer
       </td>
       <td>
         Ghent University
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         Efi Dimopoulou
@@ -230,7 +236,7 @@ permalink: /committee
     </tr>
     <tr>
       <td>
-        José-Paulo Duarte de Almeida
+        José Paulo de Almeida
       </td>
       <td>
         University of Coimbra
@@ -270,6 +276,14 @@ permalink: /committee
     </tr>
     <tr>
       <td>
+        Christopher Gold
+      </td>
+      <td>
+        University of Glamorgan
+      </td>
+    </tr>
+    <!-- <tr>
+      <td>
         Gerhard Groeger
       </td>
       <td>
@@ -299,7 +313,7 @@ permalink: /committee
       <td>
         National Technical University of Athens
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         Umit Isikdag
@@ -308,7 +322,7 @@ permalink: /committee
         Mimar Sinan Fine Arts University
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Martin Kada
       </td>
@@ -363,6 +377,14 @@ permalink: /committee
       <td>
         University of Twente
       </td>
+    </tr> -->
+    <tr>
+      <td>
+        Divyani Kohli
+      </td>
+      <td>
+        University of Twente
+      </td>
     </tr>
     <tr>
       <td>
@@ -382,13 +404,21 @@ permalink: /committee
     </tr>
     <tr>
       <td>
+        Martijn Meijers
+      </td>
+      <td>
+        Delft University of Technology
+      </td>
+    </tr>
+    <tr>
+      <td>
         Claudine Metral
       </td>
       <td>
         University of Geneva
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Ivin Amri Musliman
       </td>
@@ -403,7 +433,7 @@ permalink: /committee
       <td>
         Land Use Victoria
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         Sander Oude Elberink
@@ -412,15 +442,23 @@ permalink: /committee
         University of Twente
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Nicolas Paparoditis
       </td>
       <td>
         IGN
       </td>
-    </tr>
+    </tr> -->
     <tr>
+      <td>
+        Claudio Persello
+      </td>
+      <td>
+        University of Twente
+      </td>
+    </tr>
+    <!-- <tr>
       <td>
         Michael Peter
       </td>
@@ -467,15 +505,23 @@ permalink: /committee
       <td>
         Land Use Victoria
       </td>
-    </tr>
+    </tr> -->
     <tr>
+      <td>
+        Claudia Stöcker
+      </td>
+      <td>
+        University of Twente
+      </td>
+    </tr>
+    <!-- <tr>
       <td>
         Jantien Stoter
       </td>
       <td>
         Delft University of Technology
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         Edward Verbree
@@ -485,6 +531,14 @@ permalink: /committee
       </td>
     </tr>
     <tr>
+      <td>
+        George Vosselman
+      </td>
+      <td>
+        University of Twente
+      </td>
+    </tr>
+    <!-- <tr>
       <td>
         Shen Ying
       </td>
@@ -499,6 +553,6 @@ permalink: /committee
       <td>
         University of New South Wales
       </td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
