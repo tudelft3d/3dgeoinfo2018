@@ -98,7 +98,7 @@ permalink: /committee
         Universiti Teknologi Malaysia
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>
         Mulhim Al-Doori
       </td>
@@ -106,7 +106,7 @@ permalink: /committee
         American University in Dubai
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Ali Aien
       </td>
@@ -145,7 +145,7 @@ permalink: /committee
       <td>
         University of Melbourne
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         Siddique Ullah Baig
@@ -153,7 +153,7 @@ permalink: /committee
       <td>
         Universiti Technologi Malaysia
       </td>
-    </tr> -->
+    </tr>
     <tr>
       <td>
         Filip Biljecki
@@ -169,7 +169,7 @@ permalink: /committee
       <td>
         Aalborg University
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         Pawel Boguslawski
@@ -177,7 +177,7 @@ permalink: /committee
       <td>
         Wroclaw University of Science and Technology
       </td>
-    </tr> -->
+    </tr>
     <tr>
       <td>
         Martin Breunig
@@ -282,7 +282,7 @@ permalink: /committee
         University of Glamorgan
       </td>
     </tr>
-    <!-- <tr>
+    tr>
       <td>
         Gerhard Groeger
       </td>
@@ -290,14 +290,14 @@ permalink: /committee
         Bonn University
       </td>
     </tr>
-    <tr>
+    <!-- <<tr>
       <td>
         Eric Guilbert
       </td>
       <td>
         Université Laval
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         Ihab Hijazi
@@ -306,7 +306,7 @@ permalink: /committee
         An-Najah National University
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Charalabos Ioannidis
       </td>
@@ -322,7 +322,7 @@ permalink: /committee
         Mimar Sinan Fine Arts University
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>
         Martin Kada
       </td>
@@ -330,7 +330,7 @@ permalink: /committee
         Technische Universität Berlin
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Mohsen Kalantari
       </td>
@@ -418,7 +418,7 @@ permalink: /committee
         University of Geneva
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>
         Ivin Amri Musliman
       </td>
@@ -426,7 +426,7 @@ permalink: /committee
         Universiti Teknologi Malaysia
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Hamed Olfat
       </td>
@@ -434,6 +434,14 @@ permalink: /committee
         Land Use Victoria
       </td>
     </tr> -->
+    <tr>
+      <td>
+        Peter van Oosterom
+      </td>
+      <td>
+        Delft University of Technology
+      </td>
+    </tr>
     <tr>
       <td>
         Sander Oude Elberink
@@ -465,7 +473,7 @@ permalink: /committee
       <td>
         University of Twente
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         Jacynthe Pouliot
@@ -474,7 +482,7 @@ permalink: /committee
         Laval University
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Siva Ravada
       </td>
@@ -514,14 +522,14 @@ permalink: /committee
         University of Twente
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>
         Jantien Stoter
       </td>
       <td>
         Delft University of Technology
       </td>
-    </tr> -->
+    </tr>
     <tr>
       <td>
         Edward Verbree
@@ -538,7 +546,7 @@ permalink: /committee
         University of Twente
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>
         Shen Ying
       </td>
@@ -546,7 +554,7 @@ permalink: /committee
         Wuhan University
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Sisi Zlatanova
       </td>
