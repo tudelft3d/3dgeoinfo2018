@@ -6,7 +6,8 @@ permalink: /venue
 
 ## Venue
 
-The conference will be held at the Aula Congress Centre and at the Faculty of Architecture and the Built Environment within the Delft University of Technology. Both buildings are just south of the city centre of Delft and a 5-minute walk from each other.
+The conference will be held at the Aula Congress Centre and at the Faculty of Architecture and the Built Environment within the Delft University of Technology.
+Both buildings are just south of the city centre of Delft (15 minutes by foot from the Markt Square) and a 5-minute walk from each other.
 
 <div class="row">
 	<div class="col-xs-8"><img class="image img-responsive" src="img/csm_Aula_99825cc2fd.jpg" /></div>
@@ -102,8 +103,8 @@ The conference will be held at the Aula Congress Centre and at the Faculty of Ar
 
 ### About Delft
 
-Delft is a small university city located about 50 km south-west of Amsterdam, very close to The Hague and Rotterdam.
-It is a lovely city with a rich history, famous for its canals, Delft Blue pottery (Delftware), painter Johannes Vermeer, and its association with the Dutch royal family.
+Delft is a small university city located about 60 km south-west of Amsterdam, very close to The Hague and Rotterdam.
+It is a lovely city with a rich history, famous for its canals, Delft Blue pottery (Delftware), the painter Johannes Vermeer, and its association with the Dutch royal family.
 You can read more about the city and its attractions in the [website](https://www.delft.com) of the municipality of Delft.
 
 <img class="image img-responsive" src="img/0359_2-23.jpg" /><br />
@@ -159,6 +160,14 @@ Other less convenient options include the airports in Brussels (BRU) and Eindhov
   });
 </script>
 <br />
+
+**Flying to Amsterdam**: Schiphol Airport is 50 km north-east of Delft and has excellent connections to Europe and the rest of the world.
+From the airport, you can take a direct train to Delft every 30 minutes throughout during the day and every hour during the night.
+The train takes roughly 40 minutes.
+
+**Flying to Rotterdam**: Rotterdam The Hague Airport is 10 km south of Delft and has connections to several airports in Europe.
+From the airport, you can take a bus towards Rotterdam Central Station, then a train or bus to Delft.
+The combined trip takes roughly 40 minutes.
 
 <!-- https://www.connexxion.nl/data/upload/Lijnennetkaart%20Delft.pdf -->
 
