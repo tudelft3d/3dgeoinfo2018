@@ -282,7 +282,7 @@ permalink: /committee
         University of Glamorgan
       </td>
     </tr>
-    tr>
+    <tr>
       <td>
         Gerhard Groeger
       </td>
