@@ -5,6 +5,7 @@ permalink: /
 ---
 
 <div class="well"><b>Recent news</b><br/><br/>
+	<p><small><span class="post-date">Mar 29</span></small> We are glad to be hosting a <a href="http://www.eurosdr.net">EuroSDR</a> track at 3D GeoInfo. This track will include papers that are of particular interest to National Mapping and Cadastral Agencies.</p>
 	<p><small><span class="post-date">Mar 23</span></small> You can now follow us on <a href="https://twitter.com/3DDelft2018"><i class="fa fa-twitter"></i> Twitter</a>.</p>
   <p><small><span class="post-date">Mar 21</span></small> The new website of the 3D GeoInfo conference is online.</p>
 </div>
