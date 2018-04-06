@@ -15,7 +15,7 @@ The detailed programme will be online later this year. For the time being, you c
 	      <th class="col-xs-2">Day</th>
 	      <th class="col-xs-2">Time</th>
 	      <th class="col-xs-2 info">ISPRS</th>
-	      <th class="col-xs-2 success">3D Geoinfo</th>
+	      <th class="col-xs-2 success">3D GeoInfo</th>
 	      <th class="col-xs-2 danger">3D Cadastres</th>
 	      <th class="col-xs-2 warning">SDSC</th>
 	    </tr>
