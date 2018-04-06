@@ -6,7 +6,7 @@ permalink: /registration
 
 ## Registration
 
-We are glad to be offering a variety of registration options. The following are the relevant ones if you just want to attend the 3D GeoInfo conference.
+We are glad to be offering a variety of registration options. The following are the relevant ones if you just want to present a paper or to attend the 3D GeoInfo conference.
 
 <ul>
 	<li><strong>3D GeoInfo registration</strong>: includes access to all the Geo Delft conferences throughout the duration of the 3D GeoInfo conference (October 1-2), the possibility to present two papers at the 3D GeoInfo conference, access to the conference reception (October 1) and the conference dinner (October 2). The standard fee is €250 early, €300 late. For PhD candidates it is €200 early, €250 late.</li>
@@ -14,7 +14,7 @@ We are glad to be offering a variety of registration options. The following are 
 	<li><strong>Day pass for MSc or BSc students</strong>: includes access to all the Geo Delft conferences during your chosen day(s) of the Geo Delft conferences (October 1-5). Note that it does not include the possibility to present a paper, access to the conference reception or dinner. €20 per day.</li>
 </ul>
 
-If you want to attend the rest of the conferences, you can also consider the following option.
+If you want to present a paper at 3D GeoInfo but want to attend the rest of the conferences too, you can also consider the following option.
 
 <ul>
 	<li><strong>Joint registration</strong>: includes access to all the Geo Delft conferences (October 1-5), the possibility to present one paper at each Geo Delft conference (ISPRS, 3D GeoInfo, 3D Cadastres, SDSC), access to the conference reception (October 1) and one conference dinner (October 2 or 4). The standard fee is €650 early, €700 late. For PhD candidates it is €400 early, €450 late.</li>
