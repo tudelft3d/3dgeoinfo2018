@@ -130,7 +130,7 @@ permalink: /committee
         Delft University of Technology
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>
         Apostolos Arvanitis
       </td>
@@ -138,7 +138,7 @@ permalink: /committee
         Aristotle University of Thessaloniki
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Behnam Atazadeh
       </td>
@@ -162,14 +162,14 @@ permalink: /committee
         National University of Singapore
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>
         Lars Bodum
       </td>
       <td>
         Aalborg University
       </td>
-    </tr> -->
+    </tr>
     <tr>
       <td>
         Pawel Boguslawski
@@ -306,6 +306,14 @@ permalink: /committee
         An-Najah National University
       </td>
     </tr>
+    <tr>
+      <td>
+        Mike Horhammer
+      </td>
+      <td>
+        Oracle
+      </td>
+    </tr>
     <!-- <tr>
       <td>
         Charalabos Ioannidis
@@ -330,15 +338,15 @@ permalink: /committee
         Technische Universität Berlin
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>
         Mohsen Kalantari
       </td>
       <td>
-        The University of Melbourne
+        University of Melbourne
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Zhizhong Kang
       </td>
@@ -400,6 +408,14 @@ permalink: /committee
       </td>
       <td>
         Delft University of Technology
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Marc Olivier Löwner
+      </td>
+      <td>
+        TU Braunschweig
       </td>
     </tr>
     <tr>
