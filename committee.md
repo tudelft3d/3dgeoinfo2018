@@ -92,6 +92,14 @@ permalink: /committee
     </tr> -->
     <tr>
       <td>
+        Rosa Aguilar
+      </td>
+      <td>
+        University of Twente
+      </td>
+    </tr>
+    <tr>
+      <td>
         Alias Abdul-Rahman
       </td>
       <td>
@@ -202,14 +210,14 @@ permalink: /committee
         University of Twente
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>
         Rémi Cura
       </td>
       <td>
         IGN / THALES
       </td>
-    </tr> -->
+    </tr>
     <tr>
       <td>
         Sagi Dalyot
@@ -248,6 +256,14 @@ permalink: /committee
       </td>
       <td>
         Universidad de Vigo
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Elmar Eisemann
+      </td>
+      <td>
+        Delft University of Technology
       </td>
     </tr>
     <tr>
@@ -498,7 +514,7 @@ permalink: /committee
         Laval University
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>
         Siva Ravada
       </td>
@@ -506,7 +522,7 @@ permalink: /committee
         Oracle
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Carl Reed
       </td>
@@ -570,13 +586,13 @@ permalink: /committee
         Wuhan University
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>
         Sisi Zlatanova
       </td>
       <td>
         University of New South Wales
       </td>
-    </tr> -->
+    </tr>
   </tbody>
 </table>
