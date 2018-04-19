@@ -48,7 +48,7 @@ Both buildings are just south of the city centre of Delft (15 minutes by foot fr
 </div>
 
 <script>
-  mapboxgl.accessToken = 'pk.eyJ1Ijoia2Vub2hvcmkiLCJhIjoiTlQyblc2ayJ9.cxdc2HKXV1ZsDL5A-GSHFA';
+  mapboxgl.accessToken = 'pk.eyJ1Ijoia2Vub2hvcmkiLCJhIjoiY2pnNnc1bDJkMjcxNzMzeGZjOGI4aW5ibyJ9.gonBY78tu7tCtqUAQr5YfA';
   var venuemap = new mapboxgl.Map({
     container: 'venuemap',
     style: 'mapbox://styles/kenohori/civ755tht00282il15wzp492x',
@@ -120,7 +120,7 @@ Other less convenient options include the airports in Brussels (BRU) and Eindhov
 	<div class="col-md-12" id="regionmap" style="height: 350px;"></div>
 </div>
 <script>
-  mapboxgl.accessToken = 'pk.eyJ1Ijoia2Vub2hvcmkiLCJhIjoiTlQyblc2ayJ9.cxdc2HKXV1ZsDL5A-GSHFA';
+  mapboxgl.accessToken = 'pk.eyJ1Ijoia2Vub2hvcmkiLCJhIjoiY2pnNnc1bDJkMjcxNzMzeGZjOGI4aW5ibyJ9.gonBY78tu7tCtqUAQr5YfA';
   var regionmap = new mapboxgl.Map({
     container: 'regionmap',
     style: 'mapbox://styles/kenohori/civ755tht00282il15wzp492x',
