@@ -5,6 +5,7 @@ permalink: /
 ---
 
 <div class="well"><b>Recent news</b><br/><br/>
+	<p><small><span class="post-date">Apr 20</span></small> It is now possible to <a href="registration.html">register</a> for the conference.</p>
 	<p><small><span class="post-date">Apr 12</span></small> The deadline to submit a full paper has been extended to May 15.</p>
 	<p><small><span class="post-date">Apr 6</span></small> The final <a href="registration.html">registration info</a> is online. The form will be available very soon.</p>
 	<p><small><span class="post-date">Mar 29</span></small> We are glad to be hosting a <a href="http://www.eurosdr.net">EuroSDR</a> track at 3D GeoInfo. This track will include papers that are of particular interest to National Mapping and Cadastral Agencies.</p>
