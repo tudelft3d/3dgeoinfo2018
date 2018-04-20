@@ -28,6 +28,6 @@ All the above mentioned options include lunch, as well as tea and coffee during 
 	<li><strong>Partner registration</strong>: access for your partner to the conference reception (October 1) and to a conference dinner (October 2 or 4). €80.</li>
 </ul>
 
-#### Registration form
+### Registration form
 
-The registration form will be available later this month. We will link to it here.
+The registration form is available [here](https://www.eventure-online.com/eventure/login.form?Pe0ba5462-6cc1-4da7-a5a5-aa5d86e21c42).
