@@ -5,12 +5,10 @@ permalink: /
 ---
 
 <div class="well"><b>Recent news</b><br/><br/>
-	<p><small><span class="post-date">Apr 20</span></small> It is now possible to <a href="registration.html">register</a> for the conference.</p>
-	<p><small><span class="post-date">Apr 12</span></small> The deadline to submit a full paper has been extended to May 15.</p>
-	<p><small><span class="post-date">Apr 6</span></small> The final <a href="registration.html">registration info</a> is online. The form will be available very soon.</p>
-	<p><small><span class="post-date">Mar 29</span></small> We are glad to be hosting a <a href="http://www.eurosdr.net">EuroSDR</a> track at 3D GeoInfo. This track will include papers that are of particular interest to National Mapping and Cadastral Agencies.</p>
-	<p><small><span class="post-date">Mar 23</span></small> You can now follow us on <a href="https://twitter.com/3DDelft2018"><i class="fa fa-twitter"></i> Twitter</a>.</p>
-  <p><small><span class="post-date">Mar 21</span></small> The new website of the 3D GeoInfo conference is online.</p>
+	{% assign sorted = site.data.news | sort: 'date' | reverse %}
+  {% for news in sorted %}
+  	<p><small><span class="post-date">{{ news.date | date: "%b %d" }}</span></small> {{ news.news }}</p>
+  {% endfor %}
 </div>
 
 We are pleased to invite you to the 2018 3D GeoInfo Conference hosted in Delft, Netherlands! Aiming to bring together international researchers from academia, industry and government in the field of 3D geoinformation, the conference offers an interdisciplinary forum to researchers in the fields of data collection, advanced modelling approaches, data analysis and visualisation.
