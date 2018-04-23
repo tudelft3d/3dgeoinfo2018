@@ -6,9 +6,10 @@ permalink: /
 
 <div class="well"><b>Recent news</b><br/><br/>
 	{% assign sorted = site.data.news | sort: 'date' | reverse %}
-  {% for news in sorted %}
+  {% for news in sorted limit:4 %}
   	<p><small><span class="post-date">{{ news.date | date: "%b %d" }}</span></small> {{ news.news }}</p>
   {% endfor %}
+  <a href="news.html">All news</a>
 </div>
 
 We are pleased to invite you to the 2018 3D GeoInfo Conference hosted in Delft, Netherlands! Aiming to bring together international researchers from academia, industry and government in the field of 3D geoinformation, the conference offers an interdisciplinary forum to researchers in the fields of data collection, advanced modelling approaches, data analysis and visualisation.
