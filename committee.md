@@ -212,14 +212,6 @@ permalink: /committee
     </tr>
     <tr>
       <td>
-        Rémi Cura
-      </td>
-      <td>
-        IGN / THALES
-      </td>
-    </tr>
-    <tr>
-      <td>
         Sagi Dalyot
       </td>
       <td>
