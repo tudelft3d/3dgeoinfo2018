@@ -6,7 +6,7 @@ permalink: /
 
 <div class="well"><b>Recent news</b><br/><br/>
 	{% assign sorted = site.data.news | sort: 'date' | reverse %}
-  {% for news in sorted limit:4 %}
+  {% for news in sorted limit:3 %}
   	<p><small><span class="post-date">{{ news.date | date: "%b %d" }}</span></small> {{ news.news }}</p>
   {% endfor %}
   <a href="news.html">All news</a>
