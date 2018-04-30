@@ -17,4 +17,7 @@
   news: <s>It is now possible to <a href="registration.html">register</a> for the conference.</s>
 
 - date: 2018-04-25
-  news: The registration is temporarily closed while some issues are resolved. It will be open again soon.
+  news: <s>The registration is temporarily closed while some issues are resolved. It will be open again soon.</s>
+  
+- date: 2018-04-30
+  news: The <a href="registration.html">registration form</a> is available again.
