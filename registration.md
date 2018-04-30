@@ -30,4 +30,4 @@ All the above mentioned options include lunch, as well as tea and coffee during 
 
 ### Registration form
 
-<!-- The registration form is available <a href="https://www.eventure-online.com/eventure/login.form?Pe0ba5462-6cc1-4da7-a5a5-aa5d86e21c42">here</a>. -->The registration form is temporarily closed while some issues are resolved. It will be open again soon.
+The registration form is available <a href="https://www.eventure-online.com/eventure/login.form?Pe0ba5462-6cc1-4da7-a5a5-aa5d86e21c42">here</a>.
