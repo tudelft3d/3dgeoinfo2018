@@ -420,6 +420,14 @@ permalink: /committee
     </tr>
     <tr>
       <td>
+        Carl Peter Leslie Schultz
+      </td>
+      <td>
+        Aarhus University
+      </td>
+    </tr>
+    <tr>
+      <td>
         Marc Olivier Löwner
       </td>
       <td>
@@ -458,6 +466,14 @@ permalink: /committee
         Land Use Victoria
       </td>
     </tr> -->
+    <tr>
+      <td>
+        Leon Olde Scholtenhuis
+      </td>
+      <td>
+        University of Twente
+      </td>
+    </tr>
     <tr>
       <td>
         Peter van Oosterom
