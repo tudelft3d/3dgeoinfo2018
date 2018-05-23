@@ -82,14 +82,14 @@ permalink: /committee
         <h2>Scientific committee</h2>
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>
         Giorgio Agugiaro
       </td>
       <td>
         Austrian Institute of Technology
       </td>
-    </tr> -->
+    </tr>
     <tr>
       <td>
         Rosa Aguilar
@@ -212,6 +212,14 @@ permalink: /committee
     </tr>
     <tr>
       <td>
+        Rémi Cura
+      </td>
+      <td>
+        <!-- IGN / THALES -->
+      </td>
+    </tr>
+    <tr>
+      <td>
         Sagi Dalyot
       </td>
       <td>
@@ -322,14 +330,14 @@ permalink: /committee
         Oracle
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>
-        Charalabos Ioannidis
+        Charalampos Ioannidis
       </td>
       <td>
         National Technical University of Athens
       </td>
-    </tr> -->
+    </tr>
     <tr>
       <td>
         Umit Isikdag
@@ -369,23 +377,23 @@ permalink: /committee
       <td>
         Karabük University
       </td>
-    </tr>
+    </tr>  -->
     <tr>
       <td>
         Baris Kazar
       </td>
       <td>
-        Oracle America
+        Oracle
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Kourosh Khoshelham
       </td>
       <td>
         University of Melbourne
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         Mila Koeva
@@ -393,7 +401,7 @@ permalink: /committee
       <td>
         University of Twente
       </td>
-    </tr> -->
+    </tr>
     <tr>
       <td>
         Divyani Kohli
@@ -456,6 +464,14 @@ permalink: /committee
       </td>
       <td>
         Universiti Teknologi Malaysia
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Francesco Nex
+      </td>
+      <td>
+        University of Twente
       </td>
     </tr>
     <!-- <tr>
