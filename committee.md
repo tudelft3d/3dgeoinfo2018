@@ -84,6 +84,14 @@ permalink: /committee
     </tr>
     <tr>
       <td>
+        Alias Abdul-Rahman
+      </td>
+      <td>
+        Universiti Teknologi Malaysia
+      </td>
+    </tr>
+    <tr>
+      <td>
         Giorgio Agugiaro
       </td>
       <td>
@@ -96,14 +104,6 @@ permalink: /committee
       </td>
       <td>
         University of Twente
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Alias Abdul-Rahman
-      </td>
-      <td>
-        Universiti Teknologi Malaysia
       </td>
     </tr>
     <tr>
