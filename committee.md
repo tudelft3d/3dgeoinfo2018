@@ -194,14 +194,14 @@ permalink: /committee
         Karlsruhe Institute of Technology
       </td>
     </tr>
-    <!-- <tr>
+    <tr>
       <td>
         Volker Coors
       </td>
       <td>
         HFT Stuttgart
       </td>
-    </tr> -->
+    </tr>
     <tr>
       <td>
         Sophie Crommelinck
