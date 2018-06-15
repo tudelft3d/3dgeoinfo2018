@@ -114,22 +114,6 @@ permalink: /committee
         American University in Dubai
       </td>
     </tr>
-    <!-- <tr>
-      <td>
-        Ali Aien
-      </td>
-      <td>
-        University of Melbourne
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Sam Amirebrahimi
-      </td>
-      <td>
-        University of Melbourne
-      </td>
-    </tr> -->
     <tr>
       <td>
         Ken Arroyo Ohori
@@ -146,14 +130,6 @@ permalink: /committee
         Aristotle University of Thessaloniki
       </td>
     </tr>
-    <!-- <tr>
-      <td>
-        Behnam Atazadeh
-      </td>
-      <td>
-        University of Melbourne
-      </td>
-    </tr> -->
     <tr>
       <td>
         Siddique Ullah Baig
@@ -226,14 +202,6 @@ permalink: /committee
         Technion – Israel Institute of Technology
       </td>
     </tr>
-    <!-- <tr>
-      <td>
-        Philippe De Maeyer
-      </td>
-      <td>
-        Ghent University
-      </td>
-    </tr> -->
     <tr>
       <td>
         Efi Dimopoulou
@@ -306,14 +274,6 @@ permalink: /committee
         Bonn University
       </td>
     </tr>
-    <!-- <<tr>
-      <td>
-        Eric Guilbert
-      </td>
-      <td>
-        Université Laval
-      </td>
-    </tr> -->
     <tr>
       <td>
         Ihab Hijazi
@@ -362,22 +322,6 @@ permalink: /committee
         University of Melbourne
       </td>
     </tr>
-    <!-- <tr>
-      <td>
-        Zhizhong Kang
-      </td>
-      <td>
-        China University of Geosciences (Beijing)
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Ismail Rakip Karas
-      </td>
-      <td>
-        Karabük University
-      </td>
-    </tr>  -->
     <tr>
       <td>
         Baris Kazar
@@ -386,14 +330,6 @@ permalink: /committee
         Oracle
       </td>
     </tr>
-    <!-- <tr>
-      <td>
-        Kourosh Khoshelham
-      </td>
-      <td>
-        University of Melbourne
-      </td>
-    </tr> -->
     <tr>
       <td>
         Mila Koeva
@@ -474,14 +410,6 @@ permalink: /committee
         University of Twente
       </td>
     </tr>
-    <!-- <tr>
-      <td>
-        Hamed Olfat
-      </td>
-      <td>
-        Land Use Victoria
-      </td>
-    </tr> -->
     <tr>
       <td>
         Leon Olde Scholtenhuis
@@ -506,14 +434,6 @@ permalink: /committee
         University of Twente
       </td>
     </tr>
-    <!-- <tr>
-      <td>
-        Nicolas Paparoditis
-      </td>
-      <td>
-        IGN
-      </td>
-    </tr> -->
     <tr>
       <td>
         Claudio Persello
@@ -522,14 +442,6 @@ permalink: /committee
         University of Twente
       </td>
     </tr>
-    <!-- <tr>
-      <td>
-        Michael Peter
-      </td>
-      <td>
-        University of Twente
-      </td>
-    </tr> -->
     <tr>
       <td>
         Jacynthe Pouliot
@@ -546,30 +458,6 @@ permalink: /committee
         Oracle
       </td>
     </tr>
-    <!-- <tr>
-      <td>
-        Carl Reed
-      </td>
-      <td>
-        OGC
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Soheil Sabri
-      </td>
-      <td>
-        University of Melbourne
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Davood Shojaei
-      </td>
-      <td>
-        Land Use Victoria
-      </td>
-    </tr> -->
     <tr>
       <td>
         Claudia Stöcker
