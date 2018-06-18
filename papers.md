@@ -238,11 +238,6 @@ permalink: /papers
 	    	<td>Digital Obstacle Data For Aviation And CityGML</td>
 	    </tr>
 	    <tr>
-	    	<td>53</td>
-	    	<td>Stylianos Providakis, Christopher Rogers and David Chapman</td>
-	    	<td>Tunnelling-induced Ground Settlement Risk Assessment Based On The Integration Of BIM With 3D Geospatial Modelling Tools</td>
-	    </tr>
-	    <tr>
 	    	<td>54</td>
 	    	<td>Trias Aditya, Dany Laksono and Nur Izzahuddin</td>
 	    	<td>Usability Evaluation On 3D Pedestrian Navigation</td>
@@ -301,11 +296,6 @@ permalink: /papers
 	    	<td>69</td>
 	    	<td>Claire Ellul and Jantien Stoter</td>
 	    	<td>Investigating The State-of-play Of GeoBIM In Europe</td>
-	    </tr>
-	    <tr>
-	    	<td>71</td>
-	    	<td>Ziya Usta, Muhammet Emre Yıldırım and Çetin Cömert</td>
-	    	<td>A 3D Tiling Scheme For Web Based Management Of 3D Spatial Data Using Only Open Source Components And Open Formats</td>
 	    </tr>
 	    <tr>
 	    	<td>72</td>
