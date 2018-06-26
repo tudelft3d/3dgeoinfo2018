@@ -6,7 +6,7 @@ permalink: /papers
 
 <a name="accepted" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-## Accepted papers
+## Accepted papers, abstracts and presentations
 
 ### Full papers for ISPRS Annals
 
@@ -142,11 +142,6 @@ permalink: /papers
 	    	<td>Towards An Operational Intelligent Urban Positioning - Does LOD2 Make A Difference?</td>
 	    </tr>
 	    <tr>
-	    	<td>30</td>
-	    	<td>Anna Labetski, Kavisha Kumar, Hugo Ledoux and Jantien Stoter</td>
-	    	<td>A Metadata ADE For CityGML</td>
-	    </tr>
-	    <tr>
 	    	<td>31</td>
 	    	<td>Ihab Hijazi, Andreas Donaubauer, Thomas Kolbe and Vanessa Ebert</td>
 	    	<td>Combining Urban Metabolism Methods And Semantic 3D City Models</td>
@@ -160,7 +155,7 @@ permalink: /papers
   </table>
 </div>
 
-### Abstracts
+### Abstracts to be extended for ISPRS Archives
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -226,11 +221,6 @@ permalink: /papers
 	    	<td>48</td>
 	    	<td>Kavisha Kumar, Hugo Ledoux and Jantien Stoter</td>
 	    	<td>Dynamic 3D Visualization Of Floods: Case Of The Netherlands</td>
-	    </tr>
-	    <tr>
-	    	<td>49</td>
-	    	<td>Ruba Jaljolie, Yerach Doytsher, Kirsikka Riekkinen and Sagi Dalyot</td>
-	    	<td>An Applicative Approach For Spatial Relationships Determination Of 3D Volumetric Parcels In 3D Cadastral Systems</td>
 	    </tr>
 	    <tr>
 	    	<td>51</td>
@@ -335,6 +325,27 @@ permalink: /papers
   	</tbody>
   </table>
 </div>
+
+<!-- ### Presentations (so far)
+
+<div class="table-responsive">
+	<table class="table table-hover table-condensed">
+	  <thead>
+	  	<tr>
+	      <th class="col-xs-1">#</th>
+	      <th class="col-xs-5">Authors</th>
+	      <th class="col-xs-6">Title</th>
+	    </tr>
+	  </thead>
+    <tbody>
+	    <tr>
+	    	<td>37</td>
+	    	<td>Chen Shechter, Yarin Puor and Sagi Dalyot</td>
+	    	<td>An Augmented Viewshed Analysis Of Complex 3-dimensional Environments</td>
+	    </tr>
+  	</tbody>
+  </table>
+</div> -->
 
 <a name="call" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
