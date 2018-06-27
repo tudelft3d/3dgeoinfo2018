@@ -1,0 +1,189 @@
+
+- surname: Noardo
+  name: Francesca
+  title: Postdoc
+  photo: francesca.jpg
+  email: f.noardo@tudelft.nl
+  homepage: 3d.bk.tudelft.nl/fnoardo
+  description: "Integration of IFC and CityGML"
+
+
+- surname: Dukai
+  name: Balázs
+  title: Scientific developer
+  photo: balazs.jpg
+  email: b.dukai@tudelft.nl
+  twitter: BalazsDukai
+  homepage: 3d.bk.tudelft.nl/bdukai
+  projects:
+    - name: workshop-3dcitymodels
+      role: Contributor
+
+
+- surname: Janssen
+  name: Patrick
+  title: Associate-prof. (external)
+  photo: patrick.jpg
+  homepage: patrick.janssen.name
+  # description: "[Homepage at the National University of Singapore](http://www.arch.nus.edu.sg/people/cv/pj.htm)"
+  email: patrick.janssen@nus.edu.sg
+  address: "Dept of Architecture, National University of Singapore, Singapore 117566"
+  projects:
+  - name: workshop-3dcitymodels
+    role: Contributor
+
+- surname: Gao
+  name: Weixiao
+  title: PhD candidate 
+  photo: weixiao.jpg
+  homepage: 3d.bk.tudelft.nl/weixiao
+  description: "Topic: Automatic generation of semantic 3D city models from 3D textured meshes. Working in collaboration with [CycloMedia](https://www.cyclomedia.com)."
+  email: w.gao-1@tudelft.nl
+  projects:
+  - name: workshop-3dcitymodels
+    role: Contributor
+  # phone: "+31 6 52046328"
+
+
+- surname: Heester
+  name: Bob
+  title: PhD candidate (external)
+  photo: bob.jpg
+  email: b.a.heester@tudelft.nl
+  phone: "+31 6 52046328"
+  homepage: 3d.bk.tudelft.nl/bheester
+  description: "Integration of GIS and BIM thought the use of Blockchain technology"
+
+- surname: Vitalis
+  name: Stelios
+  title: PhD candidate
+  photo: stelios.jpg
+  email: s.vitalis@tudelft.nl
+  homepage: 3d.bk.tudelft.nl/svitalis
+  description: "Topic: 4D data structure to model semantically rich 3D+LoD GIS data in 4D. Working on the [UMnD project](https://3d.bk.tudelft.nl/projects/umnd/)."
+  twitter: liberostelios
+  projects:
+    - name: workshop-3dcitymodels
+      role: Organiser
+  # phone: "+31 15 27 81298"
+
+- surname: Helm 
+  van: van der
+  name: Margo
+  title: Secretary
+  photo: margo.jpg
+  email: j.m.vanderhelm@tudelft.nl
+  phone: "+31 15 27 81298"
+
+- surname: Labetski
+  name: Anna
+  title: PhD candidate
+  photo: anna.png
+  homepage: 3d.bk.tudelft.nl/alabetski
+  email: a.labetski@tudelft.nl
+  twitter: BigLabetski
+  description: "Topic: Generalisation of 3D City Models, working on the [UMnD project](https://3d.bk.tudelft.nl/projects/umnd/).<br><br>I have an HBA in Human Geography and GIS from the University of Toronto and an MSc in Geospatial Analysis from University College London. <br><br>My interests include: Cartographic Generalisation, Levels of Detail, Transportation Networks, Active Transportation, and Metadata (automation, storage and update)."
+  projects:
+    - name: workshop-3dcitymodels
+      role: Organiser
+
+- surname: Altena 
+  van: van
+  name: Vincent
+  title: PhD candidate (external)
+  photo: vincent.jpg
+  email: vincent.altenavan@kadaster.nl
+  homepage: 3d.bk.tudelft.nl/vpvanaltena
+  # description: "Topic: An interdisciplinary investigation on using spatial-temporal research in new testament exegesis"
+  # pagetext: I am an bla bla bla Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae magnam at eum ad veniam dolorem excepturi odit, in, voluptatibus, ut, autem ipsam. Pariatur vitae, consectetur! Consectetur, aut cum laboriosam nihil.
+  
+- surname: Commandeur
+  name: Tom
+  title: Researcher
+  photo: tom.jpg
+  email: t.j.f.commandeur@tudelft.nl
+  projects:
+    - name: workshop-3dcitymodels
+      role: Contributor
+
+- surname: Kavisha  
+  title: PhD candidate
+  photo: kavisha.jpg
+  email: k.kavisha@tudelft.nl
+  homepage: 3d.bk.tudelft.nl/kavisha
+  description: "Topic: Storage and dissemination of massive 3D city models.<br>Working on the [3D4EM project](http://www.3d4em.nl)."
+
+- surname: Arroyo Ohori
+  name: Ken
+  title: Postdoc
+  photo: ken.jpg
+  homepage: tudelft.nl/kenohori
+  email: g.a.k.arroyoohori@tudelft.nl
+  projects:
+    - name: workshop-3dcitymodels
+      role: Contributor
+  # phone: +31 15 27 85154
+
+- surname: Brink
+  name: Linda
+  van: van den
+  title: PhD candidate (external)
+  photo: linda.png
+  email: l.vandenbrink@geonovum.nl
+  twitter: brinkwoman
+
+- surname: Ledoux
+  name: Hugo
+  title: Associate-prof.
+  photo: hugo.jpg
+  homepage: tudelft.nl/hledoux
+  email: h.ledoux@tudelft.nl
+  twitter: hugoledoux
+  projects:
+    - name: workshop-3dcitymodels
+      role: Contributor
+
+- surname: Peters
+  name: Ravi
+  title: Postdoc
+  photo: ravi.jpg
+  homepage: tudelft.nl/rypeters
+  email: r.y.peters@tudelft.nl
+  projects:
+    - name: workshop-3dcitymodels
+      role: Contributor
+
+- surname: Stoter
+  name: Jantien
+  title: Professor
+  longtitle: Professor 3D geoinformation
+  description: "I am a full professor in Spatial Data Infrastructure, at the Faculty of Architecture and The Built Environment and I am leading the [3D GeoInformation](http://3d.bk.tudelft.nl) group at the Department of [Urbanism](http://www.bk.tudelft.nl/en/about-faculty/departments/urbanism/).
+  I obtained my PhD degree ([3D Cadastre](http://www.itc.nl/library/Papers_2004/phd/stoter.pdf)) in 2004. 
+  For this work I received the Tienstra award. 
+  After my PhD I worked several years at ITC, University of Twente (2004-2009) and led there a research group on “automated generalisation”.
+  I combine my professorship with jobs as researcher at both the [Kadaster](http://www.kadaster.nl/web/english.htm) and [Geonovum](http://www.geonovum.nl).
+  I am chair of the [EuroSDR](www.eurosdr.net) Commission “Data Modelling AND Processing” and leader of the [national 3D SIG](http://www.geonovum.nl/onderwerpen/3d-geo-informatie) (Special Interest Group) as well as of the [EuroSDR 3D SIG](http://www.eurosdr.net/research/project/eurosdr-special-interest-group-3d-3d-sig).
+  Since March 2015, I am vice-chair of the OGC 3D Information Management Domain Working Group [(OGC 3DIM DWG)](http://www.opengeospatial.org/projects/groups/3dimdwg). 
+  In December 2016, I became a Principal Investigator at the [Amsterdam Institute of Advanced Metropolitan Solutions](http://www.ams-amsterdam.com)
+ 
+  My research interests are 3D, automated generalization and information modelling. 
+  For my research on [5D data modelling](http://3d.bk.tudelft.nl/projects/geo5d/) I received the prestigious Vidi award of the Netherlands Scientific Foundation ([NWO](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme/awards/vidi+awards/vidi+awards+2010)).
+  In addition I received a Starting Grant from the European Research Council for my proposal Urban Modelling in higher dimensions ([ERC](https://erc.europa.eu/sites/default/files/document/file/erc_2015_stg_results_all_domains.pdf)).
+  I am (co)author of over 350 academic and professional articles and appeared several times in regional and national media.
+  I am a member of the editorial boards of several journals: [CEUS](http://www.journals.elsevier.com/computers-environment-and-urban-systems/), the [Geography Journal](http://www.hindawi.com/journals/geography/) and the [International Journal of 3D Information Modelling](http://www.irma-international.org/journal/international-journal-information-modeling-ij3dim/41967/)"
+  pagetext: These are my publications since 2013. My older publications can be seen [here](https://repository.tudelft.nl/islandora/search/author%3Astoter%2Cj.e.?sort=mods_originInfo_dateSort_dt%20asc).
+  photo: jantien.jpg
+  email: j.e.stoter@tudelft.nl
+  phone: +31 15 27 81664
+  twitter: jantienstoter
+  homepage: 3d.bk.tudelft.nl/jstoter
+  projects:
+    - name: umnd
+      role: Professor
+
+- surname: Nan
+  name: Liangliang
+  title: Assistant-prof.
+  photo: liangliang.jpg
+  homepage: 3d.bk.tudelft.nl/liangliang
+  email: liangliang.nan@tudelft.nl
