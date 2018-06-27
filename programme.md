@@ -6,6 +6,10 @@ permalink: /programme
 
 ## Programme
 
+<a name="timetable" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
+
+### Timetable
+
 The detailed programme will be online later this year. For the time being, you can look at the preliminary programme of the conferences within Geo Delft 2018 below. Please keep in mind that the exact times might change.
 
 <div class="table-responsive">
@@ -169,3 +173,20 @@ The detailed programme will be online later this year. For the time being, you c
 	  </tbody>
 	</table>
 </div>
+
+<a name="workshop" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
+
+### Pre-conference Workshop
+### *Automated reconstruction of 3D city models and using them in urban applications*
+
+- **When:** *Sunday, September 30th, 2018*
+- **Where:** *TU Delft, Library (Prometheusplein 1, 2628 ZC Delft)*
+- **How:** You can register [here](https://3dgeoinfo.typeform.com/to/G8WwRm)
+
+The intention of this workshop is to guide you through the lifecycle of a 3D City Model from concept to creation, manipulation and analysis and provide you with a hands-on experience in the process.
+
+The morning session will start with an introduction to 3D City Models and their implementations: [CityGML](https://www.citygml.org) and [CityJSON](https://www.cityjson.org), and will conclude with the automatic creation of 3D datasets from 2D data and point clouds through [3dfier](https://github.com/tudelft3d/3dfier/wiki).
+
+The afternoon session will focus on the visualisation and manipulation of such models through [QGIS](https://qgis.org/en/site/), [Azul](https://itunes.apple.com/us/app/azul/id1173239678?mt=12) and the Python programming language ([GDAL](http://www.gdal.org) and [cjio](https://github.com/tudelft3d/cjio)). Finally there will be a demo of [Möbius](https://design-automation.github.io/mobius-modeller/), a visual programming environment for creating parametric scripts to generate geometric models with semantics. The workshop is jointly organised by the 3D geoinformation group at TU Delft and Patrick Janssen (of the National University of Singapore and TU Delft).
+
+A networking session with drinks and snacks will follow the workshop. The cost of this workshop is €40, lunch and coffee will be provided. You can register [here](https://3dgeoinfo.typeform.com/to/G8WwRm).
