@@ -1,10 +1,14 @@
 ---
 layout: default_3dgi18
 title: Venue | 3D GeoInfo 2018
-permalink: /venue
+permalink: /practicalinfo
 ---
 
-## Venue
+## Practical information
+
+<a name="venue" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
+
+### Venue
 
 The conference will be held at the Aula Congress Centre and at the Faculty of Architecture and the Built Environment within the Delft University of Technology.
 Both buildings are just south of the city centre of Delft (15 minutes by foot from the Markt Square) and a 5-minute walk from each other.
@@ -171,6 +175,14 @@ The combined trip takes roughly 40 minutes.
 
 <!-- https://www.connexxion.nl/data/upload/Lijnennetkaart%20Delft.pdf -->
 
+<a name="visa" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
+
+### Accommodation
+
+The most convenient option is to stay in a hotel in the Delft city centre, from which it is only a short walk to the <a href="#venue">venue</a>. Staying elsewhere in Delft is slightly less convenient since you might need to take public transit or cycle to reach the venue. Staying in a nearby city (such as the Hague or Rotterdam) and taking the train to Delft is possible as well. The Delft train station is a 15-minute walk from the venue.
+
+<a href="https://www.preferredreservations.nl/geo-delft-conference">Preferred Hotel Reservations</a> is the official provider of accommodation for the Geo Delft 2018 conference. However, you will likely find better deals by booking through your usual hotel reservations website.
+
 ### Visa
 
-If you need an invitation letter for a visa application, you can contact <a href="mailto:info@3dgeoinfo2018.nl">us</a>.
+If you have already registered for the conference and need an invitation letter for a visa application, please contact <a href="mailto:info@3dgeoinfo2018.nl">us</a>. Send us an e-mail with your name, date and place of birth, passport number and expiration date.
