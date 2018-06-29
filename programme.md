@@ -25,6 +25,14 @@ The detailed programme will be online later this year. For the time being, you c
 	    </tr>
 	  </thead>
 	  <tbody>
+	  	<tr>
+				<th>Sun 30 Sep</th>
+				<td>TBD</td>
+				<td></td>
+				<td class="success"><div class="white">Pre-conference workshop</div></td>
+				<td></td>
+				<td></td>
+	    </tr>
 	    <tr>
 				<th rowspan="5">Mon 1 Oct</th>
 				<td>9:00 - 10:30</td>
