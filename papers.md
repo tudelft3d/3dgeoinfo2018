@@ -137,11 +137,6 @@ permalink: /papers
 	    	<td>Automated Building Detection In Dense Point Cloud And Update Of Open Source Data Bases</td>
 	    </tr>
 	    <tr>
-	    	<td>29</td>
-	    	<td>Claire Ellul</td>
-	    	<td>Towards An Operational Intelligent Urban Positioning - Does LOD2 Make A Difference?</td>
-	    </tr>
-	    <tr>
 	    	<td>31</td>
 	    	<td>Ihab Hijazi, Andreas Donaubauer, Thomas Kolbe and Vanessa Ebert</td>
 	    	<td>Combining Urban Metabolism Methods And Semantic 3D City Models</td>
