@@ -198,11 +198,6 @@ permalink: /papers
 	    	<td>Refining The Specification Of Roads In CityGML's Transportation Model</td>
 	    </tr>
 	    <tr>
-	    	<td>44</td>
-	    	<td>Weixiao Gao, Malgorzata Jarzabek-Rychard, Hugo Ledoux, Thijs van Lankveld, Jantien Stoter and Martin Kada</td>
-	    	<td>Contextual Classification Of 3D Textured Meshes For Urban Scene Interpretation</td>
-	    </tr>
-	    <tr>
 	    	<td>45</td>
 	    	<td>Bruno Willenborg, Martin Pültz and Thomas H. Kolbe</td>
 	    	<td>Integration Of Semantic 3D City Models And 3D Mesh Models For Accuracy Improvements Of Solar Potential Analyses</td>
