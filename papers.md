@@ -127,11 +127,6 @@ permalink: /papers
 	    	<td>Automatic 3D Reconstruction Of Buildings Roof Tops In Densely Urbanized Areas</td>
 	    </tr>
 	    <tr>
-	    	<td>22</td>
-	    	<td>Xiucheng Yang, Arnadi Murtiyoso, Mathieu Koehl and Pierre Grussenmeyer</td>
-	    	<td>From Point Cloud And Surface Mesh Geometry To HBIM Models With Reduced Human Involvement</td>
-	    </tr>
-	    <tr>
 	    	<td>24</td>
 	    	<td>Eria Aroni and Charalambos Ioannidis</td>
 	    	<td>Automated Building Detection In Dense Point Cloud And Update Of Open Source Data Bases</td>
@@ -150,7 +145,7 @@ permalink: /papers
   </table>
 </div>
 
-### Abstracts to be extended for ISPRS Archives
+### Extended abstracts for ISPRS Archives
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -162,11 +157,6 @@ permalink: /papers
 	    </tr>
 	  </thead>
     <tbody>
-	    <tr>
-	    	<td>20</td>
-	    	<td>Costas Providakis</td>
-	    	<td>3D GIS-based Seismic Risk Scenarios With Application To The Old Town Of Chania, Greece</td>
-	    </tr>
 	    <tr>
 	    	<td>33</td>
 	    	<td>Raul Piepereit, Martina Deininger, Ursula Voß, Martin Kada and Margitta Pries</td>
@@ -243,16 +233,6 @@ permalink: /papers
 	    	<td>Combined Visual Exploration Of 2D Ground Radar And 3D Point Cloud Data For Road Environments</td>
 	    </tr>
 	    <tr>
-	    	<td>62</td>
-	    	<td>Erik Costamagna and Mario Santana Quintero</td>
-	    	<td>Point Clouds Classification Of Complex Architectural Heritage</td>
-	    </tr>
-	    <tr>
-	    	<td>63</td>
-	    	<td>Amin Mobasheri</td>
-	    	<td>The Potentials Of VGI And Crowdsensed Data For 3D GIS</td>
-	    </tr>
-	    <tr>
 	    	<td>64</td>
 	    	<td>Rob van Son, Jingya Yan, Siow Wei Jaw, Victor Khoo, Richard Loo, Sandy Teo and Gerhard Schrotter</td>
 	    	<td>A Framework For Reliable Three-dimensional Underground Utility Mapping For Urban Planning</td>
@@ -266,11 +246,6 @@ permalink: /papers
 	    	<td>66</td>
 	    	<td>Estibaliz Muñumer Herrero, Claire Ellul and Jeremy Morley</td>
 	    	<td>Testing The Impact Of 2D Generalisation On 3D City Models – Exploring Analysis Options With An Off-the-shelf Software Package</td>
-	    </tr>
-	    <tr>
-	    	<td>68</td>
-	    	<td>Eri Kawanago, Koutarou Ishizaki, Nobuaki Nagai and Yuji Yoshimura</td>
-	    	<td>3D City Models And Pedstrian Flow Data Analysis System For Shopping Street Revitalization</td>
 	    </tr>
 	    <tr>
 	    	<td>69</td>
@@ -293,19 +268,9 @@ permalink: /papers
 	    	<td>BIM-GIS Oriented Intelligent Knowledge Discovery</td>
 	    </tr>
 	    <tr>
-	    	<td>75</td>
-	    	<td>Sean William Morrish and Debra Laefer</td>
-	    	<td>Managing Historic Ireland's Built Environment, A Lesson In 3D GIS</td>
-	    </tr>
-	    <tr>
 	    	<td>76</td>
 	    	<td>Syahiirah Salleh and Uznir Ujang</td>
 	    	<td>Cell Complexes Topological Links For Buildings In CityGML</td>
-	    </tr>
-	    <tr>
-	    	<td>77</td>
-	    	<td>Ravi Peters</td>
-	    	<td>Improving The Ball Pivoting Algorithm For Surface Reconstruction By Using The 3d Medial Axis Transform</td>
 	    </tr>
 	    <tr>
 	    	<td>78</td>
