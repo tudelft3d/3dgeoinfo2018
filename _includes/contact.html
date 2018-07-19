@@ -11,21 +11,20 @@
     <img class="img-circle img-responsive" src="{{ "/img/staff/" | append: include.person.photo | prepend: site.baseurl }}" alt="{{ include.person.surname }} {{ include.person.name }} photo" />
     {% endif %}
 {% endif %}
-{% if include.person.name.size > 9 or include.person.surname.size > 9 %}
-<h5>
-{% else %}
 <h4>
+{% if include.person.name.size > 9 or include.person.surname.size > 9 %}
+<span style="letter-spacing:-1.2px">
 {% endif %}
 {% if include.person.swapnames == False %}
-    {{ include.person.name }} {{ include.person.van }} {{ include.person.surname }}<br><small>{{ include.role }}</small>
+    {{ include.person.name }} {{ include.person.van }} {{ include.person.surname }}<br>
 {% else %}
-    {{ include.person.surname }} {{ include.person.name }}<br><small>{{ include.role }}</small>
+    {{ include.person.surname }} {{ include.person.name }}<br>
 {% endif %}
 {% if include.person.name.size > 9 or include.person.surname.size > 9 %}
-</h5>
-{% else %}
-</h4>
+</span>
 {% endif %}
+<small>{{ include.role }}</small>
+</h4>
 
     <p>
     {% if include.person.homepage %}
