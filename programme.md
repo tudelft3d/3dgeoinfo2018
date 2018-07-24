@@ -29,12 +29,12 @@ The detailed programme will be online later this year. For the time being, you c
 				<th>Sun 30 Sep</th>
 				<td>TBD</td>
 				<td></td>
-				<td class="success"><div class="white">Pre-conference workshop</div></td>
+				<td class="success"><a href="programme.html#workshop"><div class="white">Pre-conference workshop</div></a></td>
 				<td></td>
 				<td></td>
 	    </tr>
 	    <tr>
-				<th rowspan="5">Mon 1 Oct</th>
+				<th rowspan="6">Mon 1 Oct</th>
 				<td>9:00 - 10:30</td>
 				<td colspan="4" class="active">Keynote: Dorine Burmanje<br />Special session: Best of the Netherlands</td>
 	    </tr>
@@ -60,11 +60,25 @@ The detailed programme will be online later this year. For the time being, you c
 	      <td></td>
 	    </tr>
 	    <tr>
+	      <td>17:00 - 18:00</td>
+	      <td></td>
+	      <td class="success"><div class="text-success">X</div></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+	    <tr>
 	      <td>18:00 - 19:30</td>
 	      <td colspan="4"  class="active">Welcome reception</td>
 	    </tr>
 			<tr>
-	      <th rowspan="5">Tue 2 Oct</th>
+	      <th rowspan="7">Tue 2 Oct</th>
+	      <td>8:00 - 9:00</td>
+	      <td></td>
+	      <td class="success"><div class="text-success">X</div></td>
+	      <td></td>
+	      <td></td>
+	    </tr>
+	    <tr>
 	      <td>9:00 - 10:30</td>
 	      <td class="info"><div class="text-info">X</div></td>
 	      <td class="success"><div class="text-success">X</div></td>
@@ -87,6 +101,13 @@ The detailed programme will be online later this year. For the time being, you c
 	      <td class="info"><div class="text-info">X</div></td>
 	      <td class="success"><div class="text-success">X</div></td>
 	      <td class="danger"><div class="text-danger">X</div></td>
+	      <td></td>
+	    </tr>
+	    <tr>
+	      <td>17:00 - 18:00</td>
+	      <td></td>
+	      <td class="success"><div class="text-success">X</div></td>
+	      <td></td>
 	      <td></td>
 	    </tr>
 	    <tr>
