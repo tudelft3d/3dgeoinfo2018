@@ -55,14 +55,13 @@ The detailed programme will be online later this year. For the time being, you c
 	    <tr>
 	      <td>15:30 - 17:00</td>
 	      <td class="info"><div class="text-info">X</div></td>
-	      <td class="success"><div class="text-success">X</div></td>
+	      <td rowspan="2" class="success"><div class="text-success">X</div></td>
 	      <td></td>
 	      <td></td>
 	    </tr>
 	    <tr>
 	      <td>17:00 - 18:00</td>
 	      <td></td>
-	      <td class="success"><div class="text-success">X</div></td>
 	      <td></td>
 	      <td></td>
 	    </tr>
@@ -74,14 +73,13 @@ The detailed programme will be online later this year. For the time being, you c
 	      <th rowspan="7">Tue 2 Oct</th>
 	      <td>8:00 - 9:00</td>
 	      <td></td>
-	      <td class="success"><div class="text-success">X</div></td>
+	      <td rowspan="2" class="success"><div class="text-success">X</div></td>
 	      <td></td>
 	      <td></td>
 	    </tr>
 	    <tr>
 	      <td>9:00 - 10:30</td>
 	      <td class="info"><div class="text-info">X</div></td>
-	      <td class="success"><div class="text-success">X</div></td>
 	      <td></td>
 	      <td></td>
 	    </tr>
@@ -99,14 +97,13 @@ The detailed programme will be online later this year. For the time being, you c
 	    <tr>
 	    	<td>15:30 - 17:00</td>
 	      <td class="info"><div class="text-info">X</div></td>
-	      <td class="success"><div class="text-success">X</div></td>
+	      <td rowspan="2" class="success"><div class="text-success">X</div></td>
 	      <td class="danger"><div class="text-danger">X</div></td>
 	      <td></td>
 	    </tr>
 	    <tr>
 	      <td>17:00 - 18:00</td>
 	      <td></td>
-	      <td class="success"><div class="text-success">X</div></td>
 	      <td></td>
 	      <td></td>
 	    </tr>
