@@ -281,7 +281,7 @@ permalink: /papers
   </table>
 </div>
 
-<!-- ### Presentations (so far)
+### Presentations (so far)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -298,9 +298,64 @@ permalink: /papers
 	    	<td>Chen Shechter, Yarin Puor and Sagi Dalyot</td>
 	    	<td>An Augmented Viewshed Analysis Of Complex 3-dimensional Environments</td>
 	    </tr>
+	    <tr>
+	    	<td>44</td>
+	    	<td>Weixiao Gao, Malgorzata Jarzabek-Rychard, Hugo Ledoux, Thijs van Lankveld, Jantien Stoter and Martin Kada</td>
+	    	<td>Contextual Classification Of 3D Textured Meshes For Urban Scene Interpretation</td>
+	    </tr>
+	    <tr>
+	    	<td>49</td>
+	    	<td>Ruba Jaljolie, Yerach Doytsher, Kirsikka Riekkinen and Sagi Dalyot</td>
+	    	<td>An Applicative Approach For Spatial Relationships Determination Of 3D Volumetric Parcels In 3D Cadastral Systems</td>
+	    </tr>
+	    <tr>
+	    	<td>52</td>
+	    	<td>Katerina Mekhlis</td>
+	    	<td>New Approaches To Data Visualisation, Automated Object Recognition And Urban Management Based On Laser Scanning And Photo Panoramas</td>
+	    </tr>
+	    <tr>
+	    	<td>53</td>
+	    	<td>Stylianos Providakis, Christopher Rogers and David Chapman</td>
+	    	<td>Tunnelling-induced Ground Settlement Risk Assessment Based On The Integration Of BIM With 3D Geospatial Modelling Tools</td>
+	    </tr>
+	    <tr>
+	    	<td>61</td>
+	    	<td>Sven Briels</td>
+	    	<td>Asbestos Roof Detection In RGB Aerial Imagery</td>
+	    </tr>
+	    <tr>
+	    	<td>68</td>
+	    	<td>Eri Kawanago, Koutarou Ishizaki, Nobuaki Nagai and Yuji Yoshimura</td>
+	    	<td>3D City Models And Pedstrian Flow Data Analysis System For Shopping Street Revitalization</td>
+	    </tr>
+	    <tr>
+	    	<td>71</td>
+	    	<td>Ziya Usta, Muhammet Emre Yıldırım and Çetin Cömert</td>
+	    	<td>A 3D Tiling Scheme For Web Based Management Of 3D Spatial Data Using Only Open Source Components And Open Formats</td>
+	    </tr>
+	    <tr>
+	    	<td>80</td>
+	    	<td>Lars Harrie, Helen Eriksson, Thomas Lithén, Perola Olsson, Jing Sun, Örjan Falk and Väino Tarandi</td>
+	    	<td>Testbed For Supporting Lifecycle 3D Geodata And Bim-data</td>
+	    </tr>
+	    <tr>
+	    	<td>81</td>
+	    	<td>Panagiotis Karydakis</td>
+	    	<td>Visualisation Of BIM Through Hololens</td>
+	    </tr>
+	    <tr>
+	    	<td>82</td>
+	    	<td>Gabriele Murchio and Cecilia Sciarretta</td>
+	    	<td>Stand Alone Presentation - Satellite, Airborne And Close Range Photogrammetry In Heracles Project</td>
+	    </tr>
+	    <tr>
+	    	<td>83</td>
+	    	<td>Tom van Tilburg</td>
+	    	<td>Creating A Simplified Large Scale 3D Model In PostGIS For Noise-calculations, Based On Lidar And Cadastral Data</td>
+	    </tr>
   	</tbody>
   </table>
-</div> -->
+</div>
 
 <a name="call" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
