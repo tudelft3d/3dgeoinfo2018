@@ -27,18 +27,18 @@ permalink: /papers
 	    </tr>
 	    <tr>
 	    	<td>7</td>
-	    	<td>Jens Ingensand, Marion Nappez and Timothée Produit</td>
+	    	<td>Jens Ingensand, Marion Nappez, Timothée Produit and Thibaud Chassin</td>
 	    	<td>Automated Reconstruction Of 3D Buildings In Historic City Centers From LIDAR Data And 2D Building Footprints</td>
 	    </tr>
 	    <tr>
 	    	<td>8</td>
 	    	<td>Jorge Chen, Keith Clarke and Omar Mora</td>
-	    	<td>Accuracy Analysis Of The US$750 Scanse Sweep 3D LiDAR Scanner</td>
+	    	<td>Assessing The Accuracy And Precision Of Imperfect Point Clouds For 3D Indoor Mapping And Modeling</td>
 	    </tr>
 	    <tr>
 	    	<td>10</td>
 	    	<td>Ioannis Pispidikis and Efi Dimopoulou</td>
-	    	<td>CityGML Restful Web Service: A New Approach On The Automatic Retrieval Of CityGML Data Based On Their Semantics Characteristics. Principles, Guidelines And Bldg Resource Conceptual Design.</td>
+	    	<td>CityGML Restful Web Service: Automatic Retrieval Of CityGML Data Based On Their Semantics. Principles, Guidelines And Bldg Conceptual Design.</td>
 	    </tr>
 	    <tr>
 	    	<td>12</td>
@@ -63,7 +63,7 @@ permalink: /papers
 	    <tr>
 	    	<td>19</td>
 	    	<td>Marc-Oliver Löwner and Yahya Ghassoun</td>
-	    	<td>The Influence Of Different Level Of Detail (LOD0-2) Representations And Buffer Sizes On Parameter Effectiveness For Fine Dust Distribution Modelling – Initial Results Of Correlation Analysis</td>
+	    	<td>The Influence Of Levels Of Detail (LOD0-2) And Buffer Sizes On Parameter Effectiveness For Fine Dust Distribution Modelling</td>
 	    </tr>
 	    <tr>
 	    	<td>23</td>
@@ -73,7 +73,7 @@ permalink: /papers
 	    <tr>
 	    	<td>27</td>
 	    	<td>Ian Lochhead and Nick Hedley</td>
-	    	<td>Locational Awareness In Multilevel Space: Developing Situated Augmented Reality Geovisualizations For The Communication Of Spatially Contextualized Evacuation Plans</td>
+	    	<td>Communicating Multilevel Evacuation Context Using Situated Augmented Reality</td>
 	    </tr>
 	    <tr>
 	    	<td>28</td>
@@ -99,7 +99,7 @@ permalink: /papers
 	    <tr>
 	    	<td>2</td>
 	    	<td>Ali Jamali and Francesc Antón Castro</td>
-	    	<td>Topological 3D Elevation Data Interpolation Based On Continuous Deformation</td>
+	    	<td>Topological 3D Elevation Data Interpolation Of ASTER GDEM Based On Continuous Deformation</td>
 	    </tr>
 	    <tr>
 	    	<td>6</td>
@@ -108,7 +108,7 @@ permalink: /papers
 	    </tr>
 	    <tr>
 	    	<td>9</td>
-	    	<td>Benshuo Wang, Gamze Z Dane and Bauke De Vries</td>
+	    	<td>Benshuo Wang, Gamze Z. Dane and Bauke de Vries</td>
 	    	<td>Increasing Awareness For Urban Cultural Heritage Based On 3D Narrative System</td>
 	    </tr>
 	    <tr>
@@ -119,7 +119,7 @@ permalink: /papers
 	    <tr>
 	    	<td>17</td>
 	    	<td>George Floros, Claire Ellul and Efi Dimopoulou</td>
-	    	<td>Towards Data Integration Between IFC And CityGML LOD 4 - Retaining Semantic Information</td>
+	    	<td>Investigating Interoperability Capabilities Between IFC And CityGML LOD 4 - Retaining Semantic Information</td>
 	    </tr>
 	    <tr>
 	    	<td>21</td>
@@ -133,7 +133,7 @@ permalink: /papers
 	    </tr>
 	    <tr>
 	    	<td>31</td>
-	    	<td>Ihab Hijazi, Andreas Donaubauer, Thomas Kolbe and Vanessa Ebert</td>
+	    	<td>Ihab Hijazi, Vanessa Ebert, Andreas Donaubauer and Thomas Kolbe</td>
 	    	<td>Combining Urban Metabolism Methods And Semantic 3D City Models</td>
 	    </tr>
 	    <tr>
@@ -159,7 +159,7 @@ permalink: /papers
     <tbody>
 	    <tr>
 	    	<td>33</td>
-	    	<td>Raul Piepereit, Martina Deininger, Ursula Voß, Martin Kada and Margitta Pries</td>
+	    	<td>Raul Piepereit, Martina Deininger, Martin Kada, Margitta Pries and Ursula Voß</td>
 	    	<td>A Sweep-plane Algorithm For The Simplification Of 3D Building Models In The Application Scenario Of Wind Simulations</td>
 	    </tr>
 	    <tr>
@@ -170,22 +170,22 @@ permalink: /papers
 	    <tr>
 	    	<td>36</td>
 	    	<td>Jacynthe Pouliot, Suzie Larrivée, Claire Ellul and Alaa Boudhaim</td>
-	    	<td>Towards Underground Utility 3D Data Interoperability – Helping Organisations Select A Standard</td>
+	    	<td>Exploring Schema Matching To Compare Geospatial Standards: Application To Underground Utility Networks</td>
 	    </tr>
 	    <tr>
 	    	<td>38</td>
-	    	<td>Raphael Sulzer, Michele Palmieri and Pirouz Nourian</td>
+	    	<td>Raphael Sulzer, Pirouz Nourian, Michele Palmieri and Jan van Gemert</td>
 	    	<td>Shape Based Classification Of Seismic Building Structural Types</td>
 	    </tr>
 	    <tr>
 	    	<td>40</td>
-	    	<td>Yunhao Zhang, Jun Zhu, Weilian Li, Junxiao Zhang, Mingwei Liu, Yun Li and Bin Feng</td>
+	    	<td>Yunhao Zhang, Jun Zhu, Qing Zhu, Weilian Li, Junxiao Zhang, Mingwei Liu, Yun Li and Bin Feng</td>
 	    	<td>Optimized Organization And Adaptive Visualization Of Complicated Mountain Disaster 3D Scenes For Diverse Terminals</td>
 	    </tr>
 	    <tr>
 	    	<td>41</td>
-	    	<td>Anna Labetski, Hugo Ledoux and Jantien Stoter</td>
-	    	<td>Refining The Specification Of Roads In CityGML's Transportation Model</td>
+	    	<td>Anna Labetski, Stefan van Gerwen, Guus Tamminga, Hugo Ledoux and Jantien Stoter</td>
+	    	<td>A Proposal For An Improved Transportation Model In CityGML</td>
 	    </tr>
 	    <tr>
 	    	<td>45</td>
@@ -204,23 +204,23 @@ permalink: /papers
 	    </tr>
 	    <tr>
 	    	<td>51</td>
-	    	<td>Alexandre Petrovsky, Malik Doole, Joost Ellerbroek and Jacco Hoekstra</td>
-	    	<td>Digital Obstacle Data For Aviation And CityGML</td>
+	    	<td>Alexandre Petrovsky, Malik Doole, Joost Ellerbroek, Jacco Hoekstra and Filippo Tomasello</td>
+	    	<td>Challenges With Obstacle Data For Manned And Unmanned Aviation</td>
 	    </tr>
 	    <tr>
 	    	<td>54</td>
-	    	<td>Trias Aditya, Dany Laksono and Nur Izzahuddin</td>
-	    	<td>Usability Evaluation On 3D Pedestrian Navigation</td>
+	    	<td>Trias Aditya, Dany Laksono, Heri Sutanta, Nur Izzahuddin and Febrian Fitryanik Susanta</td>
+	    	<td>A Usability Evaluation Of A 3D Map Display For Pedestrian Navigation</td>
 	    </tr>
 	    <tr>
 	    	<td>57</td>
 	    	<td>Nanna Suryana, Muhamad Syaifur Rokman and Fandy Setio Utomo</td>
-	    	<td>Disaster Management Spatial Database Workload Performance Evaluation</td>
+	    	<td>Prediction Based Workload Performance Evaluation For Disaster Management Spatial Database</td>
 	    </tr>
 	    <tr>
 	    	<td>58</td>
 	    	<td>Soo Chin Liew, Xiaojing Huang, Ervine Shengwei Lin, Chenghua Shi, Alex Thiam Koon Yee and Abhishek Tandon</td>
-	    	<td>Integration Of Tree Database Derived From Satellite Imagery And Lidar Point Cloud Data</td>
+	    	<td>Integration Of Tree Database Derived From Satellite Imagery And LiDAR Point Cloud Data</td>
 	    </tr>
 	    <tr>
 	    	<td>59</td>
@@ -234,12 +234,12 @@ permalink: /papers
 	    </tr>
 	    <tr>
 	    	<td>64</td>
-	    	<td>Rob van Son, Jingya Yan, Siow Wei Jaw, Victor Khoo, Richard Loo, Sandy Teo and Gerhard Schrotter</td>
+	    	<td>Rob van Son, Siow Wei Jaw, Jingya Yan, Victor Khoo, Richard Loo, Sandy Teo and Gerhard Schrotter</td>
 	    	<td>A Framework For Reliable Three-dimensional Underground Utility Mapping For Urban Planning</td>
 	    </tr>
 	    <tr>
 	    	<td>65</td>
-	    	<td>Uznir Ujang and Suhaibah Azri</td>
+	    	<td>Uznir Ujang, Suhaibah Azri, M. Zahir, Alias Abdul Rahman and Tan Liat Choon</td>
 	    	<td>Urban Heat Island Micro-mapping Via 3D City Model</td>
 	    </tr>
 	    <tr>
@@ -249,8 +249,8 @@ permalink: /papers
 	    </tr>
 	    <tr>
 	    	<td>69</td>
-	    	<td>Claire Ellul and Jantien Stoter</td>
-	    	<td>Investigating The State-of-play Of GeoBIM In Europe</td>
+	    	<td>Claire Ellul, Jantien Stoter, Lars Harrie, Masoome Shariat, Avril Behan and Maria Pla</td>
+	    	<td>Investigating The State-of-play Of GeoBIM Across Europe</td>
 	    </tr>
 	    <tr>
 	    	<td>72</td>
@@ -259,7 +259,7 @@ permalink: /papers
 	    </tr>
 	    <tr>
 	    	<td>73</td>
-	    	<td>Claudine Metral and Gilles Falquet</td>
+	    	<td>Claudine Métral and Gilles Falquet</td>
 	    	<td>Extension And Contextualisation For Linked Semantic 3D Geodata</td>
 	    </tr>
 	    <tr>
@@ -269,7 +269,7 @@ permalink: /papers
 	    </tr>
 	    <tr>
 	    	<td>76</td>
-	    	<td>Syahiirah Salleh and Uznir Ujang</td>
+	    	<td>Syahiirah Salleh, Uznir Ujang, Suhaibah Azri and Tan Liat Choon</td>
 	    	<td>Cell Complexes Topological Links For Buildings In CityGML</td>
 	    </tr>
 	    <tr>
@@ -336,7 +336,7 @@ permalink: /papers
 	    <tr>
 	    	<td>80</td>
 	    	<td>Lars Harrie, Helen Eriksson, Thomas Lithén, Perola Olsson, Jing Sun, Örjan Falk and Väino Tarandi</td>
-	    	<td>Testbed For Supporting Lifecycle 3D Geodata And Bim-data</td>
+	    	<td>Testbed For Supporting Lifecycle 3D Geodata And BIM-data</td>
 	    </tr>
 	    <tr>
 	    	<td>81</td>
@@ -352,6 +352,16 @@ permalink: /papers
 	    	<td>83</td>
 	    	<td>Tom van Tilburg</td>
 	    	<td>Creating A Simplified Large Scale 3D Model In PostGIS For Noise-calculations, Based On Lidar And Cadastral Data</td>
+	    </tr>
+	    <tr>
+	    	<td>84</td>
+	    	<td>Chris Lucas</td>
+	    	<td>Extracting Building Footprints From Airborne Lidar Data</td>
+	    </tr>
+	    <tr>
+	    	<td>85</td>
+	    	<td>Vincent van Altena, Tom Commandeur and Marc Post</td>
+	    	<td>Development And Applications Of A Nationwide Object Oriented 3D Data Set</td>
 	    </tr>
   	</tbody>
   </table>
