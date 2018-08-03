@@ -281,7 +281,7 @@ permalink: /papers
   </table>
 </div>
 
-### Presentations (so far)
+### Presentations
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
