@@ -30,7 +30,7 @@ permalink: /committee
     </tr>
     <tr>
       <td>
-        Ken Arroyo Ohori
+        Giorgio Agugiaro
       </td>
       <td>
         Delft University of Technology
@@ -38,12 +38,20 @@ permalink: /committee
     </tr>
     <tr>
       <td>
-        Weixiao Gao
+        Ken Arroyo Ohori
       </td>
       <td>
         Delft University of Technology
       </td>
     </tr>
+    <!-- <tr>
+      <td>
+        Weixiao Gao
+      </td>
+      <td>
+        Delft University of Technology
+      </td>
+    </tr> -->
     <tr>
       <td>
         Anna Labetski
@@ -52,7 +60,7 @@ permalink: /committee
         Delft University of Technology
       </td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>
         Hugo Ledoux
       </td>
@@ -67,7 +75,7 @@ permalink: /committee
       <td>
         Delft University of Technology
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td>
         Stelios Vitalis
