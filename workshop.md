@@ -24,6 +24,61 @@ Lunch and coffee will be provided. Also, after the workshop there will be drinks
 
 The workshop fee is €40 and there is a limit of 30 attendees. You can register [here](https://3dgeoinfo.typeform.com/to/G8WwRm). *(Registration form will close as soon as the positions are filled)*
 
+### Timetable
+
+<div class="table-responsive">
+	<table class="table table-hover table-striped table-condensed">
+	  <thead>
+	    <tr>
+	      <th>When</th>
+	      <th>What</th>
+	    </tr>
+	  </thead>
+	  <tbody>
+	  	<tr>
+				<td>8:30 - 9:00</td>
+				<td>Arrival</td>
+	    </tr>
+	    <tr>
+				<td>9:00 - 10:00</td>
+				<td>Intro to 3D City Models + implementations: CityGML and CityJSON</td>
+	    </tr>
+	    <tr>
+				<td>10:00 - 10:15</td>
+				<td>Coffee break</td>
+	    </tr>
+	    <tr>
+				<td>10:15 - 12:15</td>
+				<td>3dfier</td>
+	    </tr>
+	    <tr>
+				<td>12:15 - 13:15</td>
+				<td>Lunch</td>
+	    </tr>
+	    <tr>
+				<td>13:15 - 14:00</td>
+				<td>QGIS and azul</td>
+	    </tr>
+	    <tr>
+				<td>14:00 - 14:45</td>
+				<td>Python programming language (GDAL and cjio)</td>
+	    </tr>
+	    <tr>
+				<td>14:45 - 15:00</td>
+				<td>Coffee Break</td>
+	    </tr>
+	    <tr>
+				<td>15:00 - 17:00</td>
+				<td>Möbius</td>
+	    </tr>
+	    <tr>
+				<td>17:00</td>
+				<td>Drinks and snacks</td>
+	    </tr>
+	  </tbody>
+	</table>
+</div>
+
 ### Workshop Team
 
 <div class="row">
