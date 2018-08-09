@@ -4,6 +4,10 @@ title: 3D GeoInfo 2018
 permalink: /
 ---
 
+<div class="alert alert-blue text-center" role="alert">
+	We are organising a pre-conference workshop on 3D city models construction and manipulation software. <a href="workshop.html#workshop" class="alert-link">More information</a>
+</div>
+
 <div class="well"><b>Recent news</b><br/><br/>
 	{% assign sorted = site.data.news | sort: 'date' | reverse %}
   {% for news in sorted limit:3 %}
