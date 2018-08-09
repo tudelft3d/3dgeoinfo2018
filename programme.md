@@ -27,7 +27,7 @@ The detailed programme will be online later this year. For the time being, you c
 	  <tbody>
 	  	<tr>
 				<th>Sun 30 Sep</th>
-				<td>TBD</td>
+				<td>9:00 - 17:00</td>
 				<td></td>
 				<td class="success"><a href="programme.html#workshop"><div class="white">Pre-conference workshop</div></a></td>
 				<td></td>
