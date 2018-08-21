@@ -307,11 +307,6 @@ permalink: /programme
 	    	<td>Soo Chin Liew, Xiaojing Huang, Ervine Shengwei Lin, Chenghua Shi, Alex Thiam Koon Yee and Abhishek Tandon</td>
 	    	<td>Integration Of Tree Database Derived From Satellite Imagery And LiDAR Point Cloud Data</td>
 	    </tr>
-	    <tr>
-	    	<td>72</td>
-	    	<td>Emre Özdemir and Fabio Remondino</td>
-	    	<td>Segmentation Of 3D Photogrammetric Point Cloud For 3D Building Modeling</td>
-	    </tr>
 	  </tbody>
 	</table>
 </div>
@@ -435,11 +430,6 @@ permalink: /programme
 	    	<td>18</td>
 	    	<td>Amol Konde, Helga Tauscher, Filip Biljecki and James Crawford</td>
 	    	<td>Floor Plans In CityGML</td>
-	    </tr>
-	    <tr>
-	    	<td>31</td>
-	    	<td>Ihab Hijazi, Vanessa Ebert, Andreas Donaubauer and Thomas Kolbe</td>
-	    	<td>Combining Urban Metabolism Methods And Semantic 3D City Models</td>
 	    </tr>
 	    <tr>
 	    	<td>36</td>
@@ -616,6 +606,11 @@ permalink: /programme
 	    	<td>Prediction Based Workload Performance Evaluation For Disaster Management Spatial Database</td>
 	    </tr>
 	    <tr>
+	    	<td>72</td>
+	    	<td>Emre Özdemir and Fabio Remondino</td>
+	    	<td>Segmentation Of 3D Photogrammetric Point Cloud For 3D Building Modeling</td>
+	    </tr>
+	    <tr>
 	    	<td>83</td>
 	    	<td>Tom van Tilburg</td>
 	    	<td>Creating A Simplified Large Scale 3D Model In PostGIS For Noise-calculations, Based On Lidar And Cadastral Data</td>
@@ -657,6 +652,11 @@ permalink: /programme
 	    	<td>17</td>
 	    	<td>George Floros, Claire Ellul and Efi Dimopoulou</td>
 	    	<td>Investigating Interoperability Capabilities Between IFC And CityGML LOD 4 - Retaining Semantic Information</td>
+	    </tr>
+	    <tr>
+	    	<td>31</td>
+	    	<td>Ihab Hijazi, Vanessa Ebert, Andreas Donaubauer and Thomas Kolbe</td>
+	    	<td>Combining Urban Metabolism Methods And Semantic 3D City Models</td>
 	    </tr>
 	    <tr>
 	    	<td>76</td>
