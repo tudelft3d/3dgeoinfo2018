@@ -18,7 +18,7 @@ The intention of this workshop is to guide you through the lifecycle of a 3D Cit
 
 The morning session will start with an introduction to 3D City Models and their implementations: [CityGML](https://www.citygml.org) and [CityJSON](https://www.cityjson.org), and will conclude with the automatic creation of 3D datasets from 2D data and point clouds through [3dfier](https://github.com/tudelft3d/3dfier/wiki).
 
-The afternoon session will focus on the visualisation and manipulation of such models through [QGIS](https://qgis.org/en/site/), [Azul](https://itunes.apple.com/us/app/azul/id1173239678?mt=12) and the Python programming language ([GDAL](http://www.gdal.org) and [cjio](https://github.com/tudelft3d/cjio)). Finally there will be a demo of [Möbius](https://design-automation.github.io/mobius-modeller/), a visual programming environment for creating parametric scripts to generate geometric models with semantics. The workshop is jointly organised by the 3D geoinformation group at TU Delft and Patrick Janssen (of the National University of Singapore and TU Delft).
+The afternoon session will focus on the visualisation and manipulation of such models through [QGIS](https://qgis.org/en/site/), [Azul](https://itunes.apple.com/us/app/azul/id1173239678?mt=12) and the command-line tools of [GDAL](http://www.gdal.org) and [cjio](https://github.com/tudelft3d/cjio), as well as validation through [val3dity](http://geovalidation.bk.tudelft.nl/val3dity/). Finally, there will be a session regarding the visualisation and publication of 3D city models on the web through technologies such as [Cesium](https://cesiumjs.org/) and [three.js](https://threejs.org/) and the manipulation of files with the Python programming language (through [GDAL](http://www.gdal.org) and [cjio](https://github.com/tudelft3d/cjio)).
 
 Lunch and coffee will be provided. Also, after the workshop there will be drinks and snacks.
 
@@ -48,28 +48,28 @@ The workshop fee is €40 and there is a limit of 30 attendees. You can register
 				<td>Coffee break</td>
 	    </tr>
 	    <tr>
-				<td>10:15 - 12:15</td>
+				<td>10:15 - 12:30</td>
 				<td>3dfier</td>
 	    </tr>
 	    <tr>
-				<td>12:15 - 13:15</td>
+				<td>12:30 - 13:30</td>
 				<td>Lunch</td>
 	    </tr>
 	    <tr>
-				<td>13:15 - 14:00</td>
-				<td>QGIS and azul</td>
+				<td>13:30 - 15:30</td>
+				<td>Desktop manipulation and visualisation (QGIS, azul and val3dity)</td>
 	    </tr>
-	    <tr>
-				<td>14:00 - 14:45</td>
-				<td>Python programming language (GDAL and cjio)</td>
-	    </tr>
-	    <tr>
-				<td>14:45 - 15:00</td>
+			<tr>
+				<td>15:30 - 15:45</td>
 				<td>Coffee Break</td>
 	    </tr>
-	    <tr>
-				<td>15:00 - 17:00</td>
-				<td>Möbius</td>
+			<tr>
+				<td>15:45 - 16:30</td>
+				<td>Web visualisation (Cesium/three.js)</td>
+	    </tr>
+			<tr>
+				<td>16:30 - 17:00</td>
+				<td>Python programming language (GDAL and cjio)</td>
 	    </tr>
 	    <tr>
 				<td>17:00</td>
