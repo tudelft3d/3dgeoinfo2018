@@ -16,7 +16,7 @@ permalink: /workshop
 
 The intention of this workshop is to guide you through the lifecycle of a 3D City Model from concept to creation, manipulation and analysis and provide you with a hands-on experience in the process.
 
-The morning session will start with an introduction to 3D City Models and their implementations: [CityGML](https://www.citygml.org) and [CityJSON](https://www.cityjson.org), and will conclude with the automatic creation of 3D datasets from 2D data and point clouds through [3dfier](https://github.com/tudelft3d/3dfier/wiki).
+The morning session will start with an introduction to 3D City Models and their implementations: [CityGML](https://www.citygml.org) and [CityJSON](http://www.cityjson.org), and will conclude with the automatic creation of 3D datasets from 2D data and point clouds through [3dfier](https://github.com/tudelft3d/3dfier/wiki).
 
 The afternoon session will focus on the visualisation and manipulation of such models through [QGIS](https://qgis.org/en/site/), [azul](https://itunes.apple.com/us/app/azul/id1173239678?mt=12) and the command-line tools of [GDAL](http://www.gdal.org) and [cjio](https://github.com/tudelft3d/cjio), as well as validation through [val3dity](http://geovalidation.bk.tudelft.nl/val3dity/). Finally, there will be a session regarding the visualisation and publication of 3D city models on the web through technologies such as [Cesium](https://cesiumjs.org/) and [three.js](https://threejs.org/) and the manipulation of files with the Python programming language (through [GDAL](http://www.gdal.org) and [cjio](https://github.com/tudelft3d/cjio)).
 
