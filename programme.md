@@ -27,14 +27,18 @@ permalink: /programme
 				<th>Sun 30 Sep</th>
 				<td>9:00 - 17:00</td>
 				<td></td>
-				<td class="success"><a href="programme.html#workshop">Pre-conference workshop</a></td>
+				<td class="success"><a href="workshop.html">Pre-conference workshop</a></td>
 				<td></td>
 				<td></td>
 	    </tr>
 	    <tr>
-				<th rowspan="6">Mon 1 Oct</th>
+				<th rowspan="9">Mon 1 Oct</th>
 				<td>9:00 - 10:30</td>
 				<td colspan="4" class="active">Keynote: Dorine Burmanje<br />Special session: Best of the Netherlands</td>
+	    </tr>
+	    <tr>
+				<td>10:30 - 11:00</td>
+				<td colspan="4" class="active">Coffee break ☕</td>
 	    </tr>
 			<tr>
 				<td>11:00 - 12:30</td>
@@ -42,13 +46,21 @@ permalink: /programme
 	      <td class="success"><a href="#vd">Visualisation & dissemination</a></td>
 	      <td></td>
 	      <td></td>
-	    </tr>   
+	    </tr>
+	    <tr>
+				<td>12:30 - 13:30</td>
+				<td colspan="4" class="active">Lunch 🥪</td>
+	    </tr>
 			<tr>
 	      <td>13:30 - 15:00</td>
 	      <td class="info"><div class="text-info">X</div></td>
 	      <td class="success"><a href="#ar">Acquisition & reconstruction</a></td>
 	      <td></td>
 	      <td></td>
+	    </tr>
+	    <tr>
+				<td>15:00 - 15:30</td>
+				<td colspan="4" class="active">Coffee break ☕</td>
 	    </tr>
 	    <tr>
 	      <td>15:30 - 17:00</td>
@@ -66,10 +78,10 @@ permalink: /programme
 	    </tr>
 	    <tr>
 	      <td>18:00 - 19:30</td>
-	      <td colspan="4"  class="active">Welcome reception</td>
+	      <td colspan="4" class="active">Welcome reception 🥂</td>
 	    </tr>
 			<tr>
-	      <th rowspan="7">Tue 2 Oct</th>
+	      <th rowspan="10">Tue 2 Oct</th>
 	      <td>8:00 - 9:00</td>
 	      <td></td>
 	      <td class="success"><a href="#m1">Modelling I</a></td>
@@ -84,15 +96,27 @@ permalink: /programme
 	      <td></td>
 	    </tr>
 	    <tr>
+				<td>10:30 - 11:00</td>
+				<td colspan="4" class="active">Coffee break ☕</td>
+	    </tr>
+	    <tr>
 				<td>11:00 - 12:30</td>
 	      <td class="info"><div class="text-info">X</div></td>
 	      <td class="success"><a href="#a2">Applications II</a></td>
 	      <td></td>
 	      <td></td>
-	    </tr>  
+	    </tr>
+	    <tr>
+				<td>12:30 - 13:30</td>
+				<td colspan="4" class="active">Lunch 🥪</td>
+	    </tr>
 	    <tr>
 	      <td>13:30 - 15:00</td>
 	      <td colspan="4" class="active">Keynote: Claus Nagel<br />Keynote: Rod Thompson</td>
+	    </tr>
+	    <tr>
+				<td>15:00 - 15:30</td>
+				<td colspan="4" class="active">Coffee break ☕</td>
 	    </tr>
 	    <tr>
 	    	<td>15:30 - 17:00</td>
@@ -110,15 +134,19 @@ permalink: /programme
 	    </tr>
 	    <tr>
 	      <td>19:00 - </td>
-	      <td colspan="4" class="active">Conference dinner</td>
+	      <td colspan="4" class="active">Conference dinner 🍽️</td>
 	    </tr>
 			<tr>
-	      <th rowspan="4">Wed 3 Oct</th>
+	      <th rowspan="7">Wed 3 Oct</th>
 	      <td>9:00 - 10:30</td>
 	      <td class="info"><div class="text-info">X</div></td>
 	      <td></td>
 	      <td class="danger"><div class="text-danger">X</div></td>
 	      <td></td>
+	    </tr>
+	    <tr>
+				<td>10:30 - 11:00</td>
+				<td colspan="4" class="active">Coffee break ☕</td>
 	    </tr>
 	    <tr>
 	      <td>11:00 - 12:30</td>
@@ -128,11 +156,19 @@ permalink: /programme
 	      <td></td>
 	    </tr>
 	    <tr>
+				<td>12:30 - 13:30</td>
+				<td colspan="4" class="active">Lunch 🥪</td>
+	    </tr>
+	    <tr>
 	      <td>13:30 - 15:00</td>
 	      <td class="info"><div class="text-info">X</div></td>
 	      <td></td>
 	      <td class="danger"><div class="text-danger">X</div></td>
 	      <td></td>
+	    </tr>
+	    <tr>
+				<td>15:00 - 15:30</td>
+				<td colspan="4" class="active">Coffee break ☕</td>
 	    </tr>
 	    <tr>
 	      <td>15:30 - 17:00</td>
@@ -142,7 +178,7 @@ permalink: /programme
 	      <td></td>
 	    </tr>
 	    <tr>
-	      <th rowspan="5">Thu 4 Oct</th>
+	      <th rowspan="8">Thu 4 Oct</th>
 	      <td>9:00 - 10:30</td>
 	      <td class="info"><div class="text-info">X</div></td>
 	      <td></td>
@@ -150,15 +186,27 @@ permalink: /programme
 	      <td class="warning"><div class="text-warning">X</div></td>
 	    </tr>
 	    <tr>
+				<td>10:30 - 11:00</td>
+				<td colspan="4" class="active">Coffee break ☕</td>
+	    </tr>
+	    <tr>
 	    	<td>11:00 - 12:30</td>
 	      <td colspan="4" class="active">Keynote: Antonio Jara<br />Keynote: Ruizhi Chen</td>
-	    </tr>    
+	    </tr>
+	    <tr>
+				<td>12:30 - 13:30</td>
+				<td colspan="4" class="active">Lunch 🥪</td>
+	    </tr>  
 	    <tr>
 	      <td>13:30 - 15:00</td>
 	      <td class="info"><div class="text-info">X</div></td>
 	      <td></td>
 	      <td></td>
 	      <td class="warning"><div class="text-warning">X</div></td>
+	    </tr>
+	    <tr>
+				<td>15:00 - 15:30</td>
+				<td colspan="4" class="active">Coffee break ☕</td>
 	    </tr>
 	    <tr>
 	      <td>15:30 - 17:00</td>
@@ -169,15 +217,19 @@ permalink: /programme
 	    </tr>
 	    <tr>
 	      <td>19:00 - </td>
-	      <td colspan="4" class="active">Conference dinner</td>
+	      <td colspan="4" class="active">Conference dinner 🍽️</td>
 	    </tr>
 	    <tr>
-	      <th rowspan="4">Fri 5 Oct</th>
+	      <th rowspan="7">Fri 5 Oct</th>
 	      <td>9:00 - 10:30</td>
 	      <td class="info"><div class="text-info">X</div></td>
 	      <td></td>
 	      <td></td>
 	      <td class="warning"><div class="text-warning">X</div></td>
+	    </tr>
+	    <tr>
+				<td>10:30 - 11:00</td>
+				<td colspan="4" class="active">Coffee break ☕</td>
 	    </tr>
 	    <tr>
 	      <td>11:00 - 12:30</td>
@@ -186,12 +238,20 @@ permalink: /programme
 	      <td></td>
 	      <td class="warning"><div class="text-warning">X</div></td>
 	    </tr>
+	    <tr>
+				<td>12:30 - 13:30</td>
+				<td colspan="4" class="active">Lunch 🥪</td>
+	    </tr>
 	     <tr>
 	      <td>13:30 - 15:00</td>
 	      <td class="info"><div class="text-info">X</div></td>
 	      <td></td>
 	      <td></td>
 	      <td class="warning"><div class="text-warning">X</div></td>
+	    </tr>
+	    <tr>
+				<td>15:00 - 15:30</td>
+				<td colspan="4" class="active">Coffee break ☕</td>
 	    </tr>
 	    <tr>
 	    	<td>15:30 - 17:00</td>
