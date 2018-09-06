@@ -10,8 +10,9 @@ permalink: /practicalinfo
 
 ### Venue
 
-The conference will be held at the Aula Congress Centre and at the Faculty of Architecture and the Built Environment within the Delft University of Technology.
-Both buildings are just south of the city centre of Delft (15 minutes by foot from the Markt Square) and a 5-minute walk from each other.
+The conference will be held at the Aula Congress Centre of the Delft University of Technology with the 3D GeoInfo presentations taking place at the Senaatzaal.
+It is located just south of the city centre of Delft, easily accessible as a 20-minute walk from the central <i>Markt</i> square, or by walking (20 minutes) or taking public transit (5 minutes) from the Delft train station.
+It is also reachable by car through the A13 highway (take exits 9 - Delft or 10 - Delft Zuid).
 
 <div class="row">
 	<div class="col-xs-8"><img class="image img-responsive" src="img/csm_Aula_99825cc2fd.jpg" /></div>
@@ -20,18 +21,6 @@ Both buildings are just south of the city centre of Delft (15 minutes by foot fr
 		<address>
 			Mekelweg 5 <br />
 			2628 CC Delft <br />
-		</address>
-	</div>
-</div>
-<br />
-
-<div class="row">
-	<div class="col-xs-8"><img class="image img-responsive" src="img/csm_Gebouw8_Hoofdingang_BK_34ebcc9dcf.jpg" /></div>
-	<div class="col-xs-4">
-		<strong><a href="https://www.tudelft.nl/en/about-tu-delft/contact-and-accessibility/map-and-buildings/building-8/">Faculty of Architecture and the Built Environment</a></strong>
-		<address>
-			Julianalaan 134 <br />
-			2628 BL Delft <br />
 		</address>
 	</div>
 </div>
@@ -62,18 +51,6 @@ Both buildings are just south of the city centre of Delft (15 minutes by foot fr
   var markers = {
     "type": "FeatureCollection",
     "features": [{
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [4.37076537084954, 52.00558317932635],
-      },
-      "properties": {
-        "title": "Faculty of Architecture and the Built Environment",
-        "description": "Julianalaan 134",
-        "icon": "bk.jpg"
-      }
-    },
-    {
     	"type": "Feature",
       "geometry": {
         "type": "Point",
@@ -104,6 +81,13 @@ Both buildings are just south of the city centre of Delft (15 minutes by foot fr
   });
 </script>
 <br />
+
+**From the city centre**: The Aula Congress Centre is a short walk from most of the city centre. Just walk southwards, cross the Sint Sebastiaansbrug and keep going south for 10 more minutes.
+The building will be on your left.
+Maps: [Google](https://www.google.com/maps/place/Delft+University+of+Technology+Auditorium+Conference+Center/@52.0021289,4.3711095,17z/data=!3m1!4b1!4m5!3m4!1s0x47c5b5929cb28153:0xd5b81144a89ac9a7!8m2!3d52.0021256!4d4.3732982) or [Apple](https://maps.apple.com/?ll=52.002199\,4.373416&q=Aula%20Congress%20Centre&_ext=EiQpxhyDfFz/SUAxIASYwAlcEUA5P9PNSQ8CSkBBIBKYwFGbEUA%3D&t=r).
+
+**From the Delft train station**: Buses 40 (Rotterdam Centraal), 55 (Zoetermeer Centrum West), 69 (Delft Technopolis) and 174 (Rotterdam Noord via Berkel) will drop you off at the stop TU - Aula just in front of the venue.
+It is the third stop. [Here](https://www.connexxion.nl/data/upload/Lijnennetkaart%20Delft.pdf) is a public transit map of the area.
 
 ### About Delft
 

@@ -10,6 +10,8 @@ permalink: /programme
 
 ### Timetable
 
+Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all the plenary sessions (keynotes, special session, 3D GeoInfo 2019 announcement, closing session) will be in the Auditorium.
+
 <div class="table-responsive">
 	<table class="table table-bordered table-hover table-condensed">
 	  <thead>
@@ -38,7 +40,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 				<td>10:30 - 11:00</td>
-				<td colspan="4" class="active">Coffee break ☕</td>
+				<td colspan="4" class="active">Coffee break ☕ (Foyer)</td>
 	    </tr>
 			<tr>
 				<td>11:00 - 12:30</td>
@@ -49,7 +51,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 				<td>12:30 - 13:30</td>
-				<td colspan="4" class="active">Lunch 🥪</td>
+				<td colspan="4" class="active">Lunch 🥪 (Foyer)</td>
 	    </tr>
 			<tr>
 	      <td>13:30 - 15:00</td>
@@ -60,7 +62,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 				<td>15:00 - 15:30</td>
-				<td colspan="4" class="active">Coffee break ☕</td>
+				<td colspan="4" class="active">Coffee break ☕ (Foyer)</td>
 	    </tr>
 	    <tr>
 	      <td>15:30 - 16:55</td>
@@ -84,7 +86,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 	      <td>18:00 - 19:30</td>
-	      <td colspan="4" class="active">Welcome reception 🥂</td>
+	      <td colspan="4" class="active">Welcome reception 🥂 (Foyer)</td>
 	    </tr>
 			<tr>
 	      <th rowspan="12">Tue 2 Oct</th>
@@ -109,7 +111,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 				<td>10:30 - 11:00</td>
-				<td colspan="4" class="active">Coffee break ☕</td>
+				<td colspan="4" class="active">Coffee break ☕ (Foyer)</td>
 	    </tr>
 	    <tr>
 				<td>11:00 - 12:30</td>
@@ -120,7 +122,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 				<td>12:30 - 13:30</td>
-				<td colspan="4" class="active">Lunch 🥪</td>
+				<td colspan="4" class="active">Lunch 🥪 (Foyer)</td>
 	    </tr>
 	    <tr>
 	      <td>13:30 - 15:00</td>
@@ -128,7 +130,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 				<td>15:00 - 15:30</td>
-				<td colspan="4" class="active">Coffee break ☕</td>
+				<td colspan="4" class="active">Coffee break ☕ (Foyer)</td>
 	    </tr>
 	    <tr>
 	    	<td>15:30 - 16:55</td>
@@ -151,7 +153,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 	      <td>19:00 - </td>
-	      <td colspan="4" class="active">Conference dinner 🍽️</td>
+	      <td colspan="4" class="active">Conference dinner 🍽️ (Lijm en Cultuur - Rotterdamseweg 272)</td>
 	    </tr>
 			<tr>
 	      <th rowspan="7">Wed 3 Oct</th>
@@ -163,7 +165,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 				<td>10:30 - 11:00</td>
-				<td colspan="4" class="active">Coffee break ☕</td>
+				<td colspan="4" class="active">Coffee break ☕ (Foyer)</td>
 	    </tr>
 	    <tr>
 	      <td>11:00 - 12:30</td>
@@ -174,7 +176,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 				<td>12:30 - 13:30</td>
-				<td colspan="4" class="active">Lunch 🥪</td>
+				<td colspan="4" class="active">Lunch 🥪 (Foyer)</td>
 	    </tr>
 	    <tr>
 	      <td>13:30 - 15:00</td>
@@ -185,7 +187,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 				<td>15:00 - 15:30</td>
-				<td colspan="4" class="active">Coffee break ☕</td>
+				<td colspan="4" class="active">Coffee break ☕ (Foyer)</td>
 	    </tr>
 	    <tr>
 	      <td>15:30 - 17:00</td>
@@ -204,7 +206,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 				<td>10:30 - 11:00</td>
-				<td colspan="4" class="active">Coffee break ☕</td>
+				<td colspan="4" class="active">Coffee break ☕ (Foyer)</td>
 	    </tr>
 	    <tr>
 	    	<td>11:00 - 12:30</td>
@@ -212,7 +214,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 				<td>12:30 - 13:30</td>
-				<td colspan="4" class="active">Lunch 🥪</td>
+				<td colspan="4" class="active">Lunch 🥪 (Foyer)</td>
 	    </tr>  
 	    <tr>
 	      <td>13:30 - 15:00</td>
@@ -223,7 +225,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 				<td>15:00 - 15:30</td>
-				<td colspan="4" class="active">Coffee break ☕</td>
+				<td colspan="4" class="active">Coffee break ☕ (Foyer)</td>
 	    </tr>
 	    <tr>
 	      <td>15:30 - 17:00</td>
@@ -234,7 +236,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 	      <td>19:00 - </td>
-	      <td colspan="4" class="active">Conference dinner 🍽️</td>
+	      <td colspan="4" class="active">Conference dinner 🍽️ (X - Mekelweg 8-10)</td>
 	    </tr>
 	    <tr>
 	      <th rowspan="7">Fri 5 Oct</th>
@@ -246,7 +248,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 				<td>10:30 - 11:00</td>
-				<td colspan="4" class="active">Coffee break ☕</td>
+				<td colspan="4" class="active">Coffee break ☕ (Foyer)</td>
 	    </tr>
 	    <tr>
 	      <td>11:00 - 12:30</td>
@@ -257,7 +259,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 				<td>12:30 - 13:30</td>
-				<td colspan="4" class="active">Lunch 🥪</td>
+				<td colspan="4" class="active">Lunch 🥪 (Foyer)</td>
 	    </tr>
 	     <tr>
 	      <td>13:30 - 15:00</td>
@@ -268,7 +270,7 @@ permalink: /programme
 	    </tr>
 	    <tr>
 				<td>15:00 - 15:30</td>
-				<td colspan="4" class="active">Coffee break ☕</td>
+				<td colspan="4" class="active">Coffee break ☕ (Foyer)</td>
 	    </tr>
 	    <tr>
 	    	<td>15:30 - 17:00</td>
@@ -284,7 +286,7 @@ permalink: /programme
 
 <a name="vd" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### Visualisation & dissemination (Monday 1 October 11:00 - 12:30)
+#### Visualisation & dissemination (Monday 1 October 11:00 - 12:30 @ Senaatzaal)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -337,7 +339,7 @@ permalink: /programme
 
 <a name="ar" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### Acquisition & reconstruction (Monday 1 October 13:30 - 15:00)
+#### Acquisition & reconstruction (Monday 1 October 13:30 - 15:00 @ Senaatzaal)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -390,7 +392,7 @@ permalink: /programme
 
 <a name="nmas1" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### 3D Geoinformation for National and Cadastral Mapping Agencies I (Monday 1 October 15:30 - 16:55)
+#### 3D Geoinformation for National and Cadastral Mapping Agencies I (Monday 1 October 15:30 - 16:55 @ Senaatzaal)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -448,7 +450,7 @@ permalink: /programme
 
 <a name="nmas2" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### 3D Geoinformation for National and Cadastral Mapping Agencies II (Monday 1 October 17:00 - 18:00)
+#### 3D Geoinformation for National and Cadastral Mapping Agencies II (Monday 1 October 17:00 - 18:00 @ Senaatzaal)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -491,7 +493,7 @@ permalink: /programme
 
 <a name="m1" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### Modelling I (Tuesday 2 October 8:00 - 9:00)
+#### Modelling I (Tuesday 2 October 8:00 - 9:00 @ Senaatzaal)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -529,7 +531,7 @@ permalink: /programme
 
 <a name="a1" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### Applications I: General & Heritage (Tuesday 2 October 9:05 - 10:30)
+#### Applications I: General & Heritage (Tuesday 2 October 9:05 - 10:30 @ Senaatzaal)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -587,7 +589,7 @@ permalink: /programme
 
 <a name="a2" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### Applications II: Environment (Tuesday 2 October 11:00 - 12:30)
+#### Applications II: Environment (Tuesday 2 October 11:00 - 12:30 @ Senaatzaal)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -645,7 +647,7 @@ permalink: /programme
 
 <a name="p" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### Processing (Tuesday 2 October 15:30 - 16:55)
+#### Processing (Tuesday 2 October 15:30 - 16:55 @ Senaatzaal)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -703,7 +705,7 @@ permalink: /programme
 
 <a name="m2" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### Modelling II (Tuesday 2 October 17:00 - 18:00)
+#### Modelling II (Tuesday 2 October 17:00 - 18:00 @ Senaatzaal)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
