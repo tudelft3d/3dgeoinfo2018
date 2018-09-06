@@ -8,7 +8,7 @@ permalink: /programme
 
 <a name="timetable" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-### General timetable
+### Timetable
 
 <div class="table-responsive">
 	<table class="table table-bordered table-hover table-condensed">
@@ -32,7 +32,7 @@ permalink: /programme
 				<td></td>
 	    </tr>
 	    <tr>
-				<th rowspan="9">Mon 1 Oct</th>
+				<th rowspan="10">Mon 1 Oct</th>
 				<td>9:00 - 10:30</td>
 				<td colspan="4" class="active">Keynote: Dorine Burmanje<br />Special session: Best of the Netherlands</td>
 	    </tr>
@@ -63,11 +63,17 @@ permalink: /programme
 				<td colspan="4" class="active">Coffee break ☕</td>
 	    </tr>
 	    <tr>
-	      <td>15:30 - 17:00</td>
-	      <td class="info"><div class="text-info">X</div></td>
+	      <td>15:30 - 16:55</td>
+	      <td class="info" rowspan="2"><div class="text-info">X</div></td>
 	      <td class="success"><a href="#nmas1">NMAs I</a></td>
 	      <td></td>
 	      <td></td>
+	    </tr>
+	    <tr>
+				<td>16:55 - 17:00</td>
+				<td class="active">Short break</td>
+				<td></td>
+				<td></td>
 	    </tr>
 	    <tr>
 	      <td>17:00 - 18:00</td>
@@ -81,7 +87,7 @@ permalink: /programme
 	      <td colspan="4" class="active">Welcome reception 🥂</td>
 	    </tr>
 			<tr>
-	      <th rowspan="10">Tue 2 Oct</th>
+	      <th rowspan="12">Tue 2 Oct</th>
 	      <td>8:00 - 9:00</td>
 	      <td></td>
 	      <td class="success"><a href="#m1">Modelling I</a></td>
@@ -89,8 +95,14 @@ permalink: /programme
 	      <td></td>
 	    </tr>
 	    <tr>
-	      <td>9:00 - 10:30</td>
-	      <td class="info"><div class="text-info">X</div></td>
+				<td>9:00 - 9:05</td>
+				<td class="info" rowspan="2"><div class="text-info">X</div></td>
+				<td class="active">Short break</td>
+				<td></td>
+				<td></td>
+	    </tr>
+	    <tr>
+	      <td>9:05 - 10:30</td>
 	      <td class="success"><a href="#a1">Applications I</a></td>
 	      <td></td>
 	      <td></td>
@@ -112,18 +124,23 @@ permalink: /programme
 	    </tr>
 	    <tr>
 	      <td>13:30 - 15:00</td>
-	      <td colspan="4" class="active">Keynote: Claus Nagel<br />Keynote: Rod Thompson</td>
+	      <td colspan="4" class="active">Keynote: Claus Nagel<br />Keynote: Rod Thompson<br />Announcement: 3D GeoInfo 2019 in Singapore 🇸🇬</td>
 	    </tr>
 	    <tr>
 				<td>15:00 - 15:30</td>
 				<td colspan="4" class="active">Coffee break ☕</td>
 	    </tr>
 	    <tr>
-	    	<td>15:30 - 17:00</td>
-	      <td class="info"><div class="text-info">X</div></td>
+	    	<td>15:30 - 16:55</td>
+	      <td class="info" rowspan="2"><div class="text-info">X</div></td>
 	      <td class="success"><a href="#p">Processing</a></td>
-	      <td class="danger"><div class="text-danger">X</div></td>
+	      <td class="danger" rowspan="2"><div class="text-danger">X</div></td>
 	      <td></td>
+	    </tr>
+	    <tr>
+				<td>16:55 - 17:00</td>
+				<td class="active">Short break</td>
+				<td></td>
 	    </tr>
 	    <tr>
 	      <td>17:00 - 18:00</td>
@@ -267,7 +284,7 @@ permalink: /programme
 
 <a name="vd" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### Visualisation & dissemination
+#### Visualisation & dissemination (Monday 1 October 11:00 - 12:30)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -320,7 +337,7 @@ permalink: /programme
 
 <a name="ar" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### Acquisition & reconstruction
+#### Acquisition & reconstruction (Monday 1 October 13:30 - 15:00)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -373,7 +390,7 @@ permalink: /programme
 
 <a name="nmas1" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### 3D Geoinformation for National and Cadastral Mapping Agencies I
+#### 3D Geoinformation for National and Cadastral Mapping Agencies I (Monday 1 October 15:30 - 16:55)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -431,7 +448,7 @@ permalink: /programme
 
 <a name="nmas2" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### 3D Geoinformation for National and Cadastral Mapping Agencies II
+#### 3D Geoinformation for National and Cadastral Mapping Agencies II (Monday 1 October 17:00 - 18:00)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -474,7 +491,7 @@ permalink: /programme
 
 <a name="m1" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### Modelling I
+#### Modelling I (Tuesday 2 October 8:00 - 9:00)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -512,7 +529,7 @@ permalink: /programme
 
 <a name="a1" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### Applications I (General & Heritage)
+#### Applications I: General & Heritage (Tuesday 2 October 9:05 - 10:30)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -570,7 +587,7 @@ permalink: /programme
 
 <a name="a2" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### Applications II (Environment)
+#### Applications II: Environment (Tuesday 2 October 11:00 - 12:30)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -628,7 +645,7 @@ permalink: /programme
 
 <a name="p" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### Processing
+#### Processing (Tuesday 2 October 15:30 - 16:55)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -686,7 +703,7 @@ permalink: /programme
 
 <a name="m2" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### Modelling II
+#### Modelling II (Tuesday 2 October 17:00 - 18:00)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
