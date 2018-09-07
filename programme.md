@@ -287,6 +287,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 <a name="vd" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
 #### Visualisation & dissemination (Monday 1 October 11:00 - 12:30 @ Senaatzaal)
+##### Chair: Stelios Vitalis
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -340,6 +341,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 <a name="ar" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
 #### Acquisition & reconstruction (Monday 1 October 13:30 - 15:00 @ Senaatzaal)
+##### Chair: Liangliang Nan
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -393,6 +395,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 <a name="nmas1" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
 #### 3D Geoinformation for National and Cadastral Mapping Agencies I (Monday 1 October 15:30 - 16:55 @ Senaatzaal)
+##### Chair: Francesca Noardo
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -451,6 +454,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 <a name="nmas2" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
 #### 3D Geoinformation for National and Cadastral Mapping Agencies II (Monday 1 October 17:00 - 18:00 @ Senaatzaal)
+##### Chair: Jantien Stoter
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -494,6 +498,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 <a name="m1" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
 #### Modelling I (Tuesday 2 October 8:00 - 9:00 @ Senaatzaal)
+##### Chair: Kavisha Kumar
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -532,6 +537,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 <a name="a1" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
 #### Applications I: General & Heritage (Tuesday 2 October 9:05 - 10:30 @ Senaatzaal)
+##### Chair: Mila Koeva
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -590,6 +596,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 <a name="a2" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
 #### Applications II: Environment (Tuesday 2 October 11:00 - 12:30 @ Senaatzaal)
+##### Chair: Giorgio Agugiaro
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -648,6 +655,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 <a name="p" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
 #### Processing (Tuesday 2 October 15:30 - 16:55 @ Senaatzaal)
+##### Chair: Ravi Peters
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -706,6 +714,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 <a name="m2" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
 #### Modelling II (Tuesday 2 October 17:00 - 18:00 @ Senaatzaal)
+##### Chair: Ken Arroyo Ohori
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
