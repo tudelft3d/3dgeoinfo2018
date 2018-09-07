@@ -104,7 +104,7 @@ You can read more about the city and its attractions in the [website](https://ww
 Delft is well connected to the rest of the Netherlands by frequent trains, including from the Hague (6 minutes from HS, 12 minutes from Centraal), Rotterdam (10-12 minutes from Centraal), Schiphol Airport (38 minutes), or Amsterdam (45 minutes from Zuid, 1 hour from Centraal).
 From other countries, it is very easy to get to Delft by flying to Amsterdam Schiphol Airport (AMS) or Rotterdam The Hague Airport (RTM).
 It is also close to the ferry terminal in Hoek van Holland (for ferries to United Kingdom).
-Other less convenient options include the airports in Brussels (BRU) and Eindhoven (EIN).
+Other, less convenient options include the airports in Brussels (BRU) and Eindhoven (EIN).
 
 <div class="row" style="padding-right: 20px;">
 	<div class="col-md-12" id="regionmap" style="height: 350px;"></div>
@@ -156,7 +156,7 @@ From the airport, you can take a direct train to Delft every 30 minutes during t
 The train takes 38 minutes.
 
 **Flying to Rotterdam**: Rotterdam The Hague Airport is 10 km south of Delft and has connections to several airports in Europe.
-From the airport, you can take a bus towards Rotterdam Central Station, then a train or bus to Delft.
+From the airport, you can take a bus to Rotterdam Central Station, then a train or bus to Delft.
 The combined trip takes roughly 40 minutes.
 
 <a name="visa" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
