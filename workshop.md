@@ -10,7 +10,7 @@ permalink: /workshop
 
 - **When:** *Sunday, September 30th, 2018*
 - **Where:** *TU Delft, Library (Prometheusplein 1, 2628 ZC Delft)*
-- **How:** *You can register [here](https://3dgeoinfo.typeform.com/to/G8WwRm). The cost is 40€, paid by credit/debit card.*
+- **How:** The workshop is now full. Thank you for your interest!
 
 ### Description
 
@@ -22,7 +22,7 @@ The afternoon session will focus on the visualisation and manipulation of such m
 
 Lunch and coffee will be provided. Also, after the workshop there will be drinks and snacks.
 
-The workshop fee is €40 and there is a limit of 30 attendees. You can register [here](https://3dgeoinfo.typeform.com/to/G8WwRm). *(Registration form will close as soon as the positions are filled)*
+The workshop is now full. Thank you for your interest!
 
 ### Timetable
 
