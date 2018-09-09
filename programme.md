@@ -307,32 +307,32 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>37</td>
 	    	<td>Chen Shechter, Yarin Puor and Sagi Dalyot</td>
-	    	<td>An Augmented Viewshed Analysis Of Complex 3-dimensional Environments</td>
+	    	<td>An Augmented Viewshed Analysis of Complex 3-dimensional Environments</td>
 	    </tr>
 	    <tr>
 	    	<td>40</td>
 	    	<td>Yunhao Zhang, Jun Zhu, Qing Zhu, Weilian Li, Junxiao Zhang, Mingwei Liu, Yun Li and Bin Feng</td>
-	    	<td>Optimized Organization And Adaptive Visualization Of Complicated Mountain Disaster 3D Scenes For Diverse Terminals</td>
+	    	<td>Optimized Organization and Adaptive Visualization of Complicated Mountain Disaster 3D Scenes for Diverse Terminals</td>
 	    </tr>
 	    <tr>
 	    	<td>60</td>
 	    	<td>Johannes Wolf, Sören Discher, Leon Masopust, Sebastian Schulz, Rico Richter and Jürgen Döllner</td>
-	    	<td>Combined Visual Exploration Of 2D Ground Radar And 3D Point Cloud Data For Road Environments</td>
+	    	<td>Combined Visual Exploration of 2D Ground Radar and 3D Point Cloud Data for Road Environments</td>
 	    </tr>
 	    <tr>
 	    	<td>81</td>
 	    	<td>Panagiotis Karydakis</td>
-	    	<td>Visualisation Of BIM Through Hololens</td>
+	    	<td>Visualisation of BIM Through Hololens</td>
 	    </tr>
 	    <tr>
 	    	<td>10</td>
 	    	<td>Ioannis Pispidikis and Efi Dimopoulou</td>
-	    	<td>CityGML Restful Web Service: Automatic Retrieval Of CityGML Data Based On Their Semantics. Principles, Guidelines And Bldg Conceptual Design.</td>
+	    	<td>CityGML Restful Web Service: Automatic Retrieval of CityGML Data Based on Their Semantics. Principles, Guidelines and Bldg Conceptual Design.</td>
 	    </tr>
 	    <tr>
 	    	<td>71</td>
 	    	<td>Ziya Usta, Muhammet Emre Yıldırım and Çetin Cömert</td>
-	    	<td>A 3D Tiling Scheme For Web Based Management Of 3D Spatial Data Using Only Open Source Components And Open Formats</td>
+	    	<td>A 3D Tiling Scheme for Web Based Management of 3D Spatial Data Using Only Open Source Components and Open Formats</td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -356,12 +356,12 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>5</td>
 	    	<td>Yu Feng, Claus Brenner and Monika Sester</td>
-	    	<td>Enhancing The Resolution Of Urban Digital Terrain Models Using Mobile Mapping Systems</td>
+	    	<td>Enhancing the Resolution of Urban Digital Terrain Models Using Mobile Mapping Systems</td>
 	    </tr>
 	    <tr>
 	    	<td>8</td>
 	    	<td>Jorge Chen, Keith Clarke and Omar Mora</td>
-	    	<td>Assessing The Accuracy And Precision Of Imperfect Point Clouds For 3D Indoor Mapping And Modeling</td>
+	    	<td>Assessing the Accuracy and Precision of Imperfect Point Clouds for 3D Indoor Mapping and Modeling</td>
 	    </tr>
 	    <tr>
 	    	<td>12</td>
@@ -371,22 +371,22 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>6</td>
 	    	<td>Jiaqiang Li, Biao Xiong, Filip Biljecki and Gerhard Schrotter</td>
-	    	<td>A Sliding Window Method For Detecting Corners Of Openings From Terrestrial LiDAR Data</td>
+	    	<td>A Sliding Window Method for Detecting Corners of Openings From Terrestrial LiDAR Data</td>
 	    </tr>
 	    <tr>
 	    	<td>21</td>
 	    	<td>Maria Gkeli and Charalabos Ioannidis</td>
-	    	<td>Automatic 3D Reconstruction Of Buildings Roof Tops In Densely Urbanized Areas</td>
+	    	<td>Automatic 3D Reconstruction of Buildings Roof Tops in Densely Urbanized Areas</td>
 	    </tr>
 	    <tr>
 	    	<td>32</td>
 	    	<td>Like Gobeawan, Ervine Shengwei Lin, Abhishek Tandon, Alex Thiam Koon Yee, Victor Hock Soon Khoo, Sandy Shen Ni Teo, Su Yi, Chi Wan Calvin Lim, Sum Thai Wong, Daniel J Wise, Peng Cheng, Soo Chin Liew, Xiaojing Huang, Qihua Li, Lip Seng Teo, Gyula Szabolcs Fekete and Marton Polo</td>
-	    	<td>Modeling Trees For Virtual Singapore: From Data Acquisition To CityGML Models</td>
+	    	<td>Modeling Trees for Virtual Singapore: From Data Acquisition to CityGML Models</td>
 	    </tr>
 	    <tr>
 	    	<td>58</td>
 	    	<td>Soo Chin Liew, Xiaojing Huang, Ervine Shengwei Lin, Chenghua Shi, Alex Thiam Koon Yee and Abhishek Tandon</td>
-	    	<td>Integration Of Tree Database Derived From Satellite Imagery And LiDAR Point Cloud Data</td>
+	    	<td>Integration of Tree Database Derived From Satellite Imagery and LiDAR Point Cloud Data</td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -410,42 +410,42 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>7</td>
 	    	<td>Jens Ingensand, Marion Nappez, Timothée Produit and Thibaud Chassin</td>
-	    	<td>Automated Reconstruction Of 3D Buildings In Historic City Centers From LIDAR Data And 2D Building Footprints</td>
+	    	<td>Automated Reconstruction of 3D Buildings in Historic City Centers From LIDAR Data and 2D Building Footprints</td>
 	    </tr>
 	    <tr>
 	    	<td>14</td>
 	    	<td>Monika Swiderska and Claire Ellul</td>
-	    	<td>How Can 3D GIS Be Used To Better Store, Integrate And Communicate Results Of Environmental Impact Assessments?</td>
+	    	<td>How Can 3D GIS Be Used to Better Store, Integrate and Communicate Results of Environmental Impact Assessments?</td>
 	    </tr>
 	    <tr>
 	    	<td>23</td>
 	    	<td>Kelvin Wong and Claire Ellul</td>
-	    	<td>User Requirements Gathering For A National 3D Mapping Product In The United Kingdom</td>
+	    	<td>User Requirements Gathering for a National 3D Mapping Product in the United Kingdom</td>
 	    </tr>
 	    <tr>
 	    	<td>24</td>
 	    	<td>Eria Aroni and Charalambos Ioannidis</td>
-	    	<td>Automated Building Detection In Dense Point Cloud And Update Of Open Source Data Bases</td>
+	    	<td>Automated Building Detection in Dense Point Cloud and Update of Open Source Data Bases</td>
 	    </tr>
 	    <tr>
 	    	<td>28</td>
 	    	<td>Ioannis Pispidikis, Eva Tsiliakou, Dimitrios Kitsakis, Katerina Athanasiou, Eftychia Kalogianni, Tassos Labropoulos and Efi Dimopoulou</td>
-	    	<td>Combining Methodological Tools For The Optimum 3D Modelling Of NTUA Campus</td>
+	    	<td>Combining Methodological Tools for the Optimum 3D Modelling of NTUA Campus</td>
 	    </tr>
 	    <tr>
 	    	<td>46</td>
 	    	<td>Helen Eriksson, Lars Harrie and Jesper Paasch</td>
-	    	<td>What Is The Need For Building Parts? - A Comparison Of CityGML, INSPIRE Building And A Swedish Building Standard</td>
+	    	<td>What Is the Need for Building Parts? - A Comparison of CityGML, INSPIRE Building and a Swedish Building Standard</td>
 	    </tr>
 	    <tr>
 	    	<td>49</td>
 	    	<td>Ruba Jaljolie, Yerach Doytsher, Kirsikka Riekkinen and Sagi Dalyot</td>
-	    	<td>An Applicative Approach For Spatial Relationships Determination Of 3D Volumetric Parcels In 3D Cadastral Systems</td>
+	    	<td>An Applicative Approach for Spatial Relationships Determination of 3D Volumetric Parcels in 3D Cadastral Systems</td>
 	    </tr>
 	    <tr>
 	    	<td>51</td>
 	    	<td>Alexandre Petrovsky, Malik Doole, Joost Ellerbroek, Jacco Hoekstra and Filippo Tomasello</td>
-	    	<td>Challenges With Obstacle Data For Manned And Unmanned Aviation</td>
+	    	<td>Challenges with Obstacle Data for Manned and Unmanned Aviation</td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -469,27 +469,27 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>66</td>
 	    	<td>Estibaliz Muñumer Herrero, Claire Ellul and Jeremy Morley</td>
-	    	<td>Testing The Impact Of 2D Generalisation On 3D City Models – Exploring Analysis Options With An Off-the-shelf Software Package</td>
+	    	<td>Testing the Impact of 2D Generalisation on 3D City Models – Exploring Analysis Options with an Off-the-shelf Software Package</td>
 	    </tr>
 	    <tr>
 	    	<td>69</td>
 	    	<td>Claire Ellul, Jantien Stoter, Lars Harrie, Masoome Shariat, Avril Behan and Maria Pla</td>
-	    	<td>Investigating The State-of-play Of GeoBIM Across Europe</td>
+	    	<td>Investigating the State-of-play of GeoBIM across Europe</td>
 	    </tr>
 	    <tr>
 	    	<td>80</td>
 	    	<td>Lars Harrie, Helen Eriksson, Thomas Lithén, Perola Olsson, Jing Sun, Örjan Falk and Väino Tarandi</td>
-	    	<td>Testbed For Supporting Lifecycle 3D Geodata And BIM-data</td>
+	    	<td>Testbed for Supporting Lifecycle 3D Geodata and BIM-data</td>
 	    </tr>
 	    <tr>
 	    	<td>82</td>
 	    	<td>Gabriele Murchio and Cecilia Sciarretta</td>
-	    	<td>Stand Alone Presentation - Satellite, Airborne And Close Range Photogrammetry In Heracles Project</td>
+	    	<td>Stand Alone Presentation - Satellite, Airborne and Close Range Photogrammetry in Heracles Project</td>
 	    </tr>
 	    <tr>
 	    	<td>85</td>
 	    	<td>Vincent van Altena, Tom Commandeur and Marc Post</td>
-	    	<td>Development And Applications Of A Nationwide Object Oriented 3D Data Set</td>
+	    	<td>Development and Applications of a Nationwide Object Oriented 3D Data Set</td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -513,22 +513,22 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>18</td>
 	    	<td>Amol Konde, Helga Tauscher, Filip Biljecki and James Crawford</td>
-	    	<td>Floor Plans In CityGML</td>
+	    	<td>Floor Plans in CityGML</td>
 	    </tr>
 	    <tr>
 	    	<td>36</td>
 	    	<td>Jacynthe Pouliot, Suzie Larrivée, Claire Ellul and Alaa Boudhaim</td>
-	    	<td>Exploring Schema Matching To Compare Geospatial Standards: Application To Underground Utility Networks</td>
+	    	<td>Exploring Schema Matching to Compare Geospatial Standards: Application to Underground Utility Networks</td>
 	    </tr>
 	    <tr>
 	    	<td>41</td>
 	    	<td>Anna Labetski, Stefan van Gerwen, Guus Tamminga, Hugo Ledoux and Jantien Stoter</td>
-	    	<td>A Proposal For An Improved Transportation Model In CityGML</td>
+	    	<td>A Proposal for an Improved Transportation Model in CityGML</td>
 	    </tr>
 	    <tr>
 	    	<td>73</td>
 	    	<td>Claudine Métral and Gilles Falquet</td>
-	    	<td>Extension And Contextualisation For Linked Semantic 3D Geodata</td>
+	    	<td>Extension and Contextualisation for Linked Semantic 3D Geodata</td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -552,22 +552,22 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td></td>
 	    	<td>Jane Hermans-van Ree </td>
-	    	<td>The Rotterdam 3D City Model, from innovation to implementation</td>
+	    	<td>The Rotterdam 3D City Model, from Innovation to Implementation</td>
 	    </tr>
 	    <tr>
 	    	<td>52</td>
 	    	<td>Katerina Mekhlis</td>
-	    	<td>New Approaches To Data Visualisation, Automated Object Recognition And Urban Management Based On Laser Scanning And Photo Panoramas</td>
+	    	<td>New Approaches to Data Visualisation, Automated Object Recognition and Urban Management Based on Laser Scanning and Photo Panoramas</td>
 	    </tr>
 	    <tr>
 	    	<td>64</td>
 	    	<td>Rob van Son, Siow Wei Jaw, Jingya Yan, Victor Khoo, Richard Loo, Sandy Teo and Gerhard Schrotter</td>
-	    	<td>A Framework For Reliable Three-dimensional Underground Utility Mapping For Urban Planning</td>
+	    	<td>A Framework for Reliable Three-dimensional Underground Utility Mapping for Urban Planning</td>
 	    </tr>
 	    <tr>
 	    	<td>68</td>
 	    	<td>Eri Kawanago, Koutarou Ishizaki, Nobuaki Nagai and Yuji Yoshimura</td>
-	    	<td>3D City Models And Pedstrian Flow Data Analysis System For Shopping Street Revitalization</td>
+	    	<td>3D City Models and Pedestrian Flow Data Analysis System for Shopping Street Revitalization</td>
 	    </tr>
 	    <tr>
 	    	<td>74</td>
@@ -577,17 +577,17 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>9</td>
 	    	<td>Benshuo Wang, Gamze Z. Dane and Bauke de Vries</td>
-	    	<td>Increasing Awareness For Urban Cultural Heritage Based On 3D Narrative System</td>
+	    	<td>Increasing Awareness for Urban Cultural Heritage Based on 3D Narrative System</td>
 	    </tr>
 	    <tr>
 	    	<td>59</td>
 	    	<td>Daniel Navas-Carrillo, Blanca Del Espino Hidalgo, Francisco Javier Navarro de Pablos and María Teresa Pérez Cano</td>
-	    	<td>The Urban Heritage Characterization Using 3D Geographic Information Systems. The System Of Medium-sized Cities In Andalusia.</td>
+	    	<td>The Urban Heritage Characterization Using 3D Geographic Information Systems. The System of Medium-sized Cities in Andalusia.</td>
 	    </tr>
 	    <tr>
 	    	<td>78</td>
 	    	<td>Andrea Scianna and Marcello La Guardia</td>
-	    	<td>Globe Based 3D GIS Solutions For Virtual Heritage</td>
+	    	<td>Globe Based 3D GIS Solutions for Virtual Heritage</td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -611,42 +611,42 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>19</td>
 	    	<td>Marc-Oliver Löwner and Yahya Ghassoun</td>
-	    	<td>The Influence Of Levels Of Detail (LOD0-2) And Buffer Sizes On Parameter Effectiveness For Fine Dust Distribution Modelling</td>
+	    	<td>The Influence of Levels of Detail (LOD0-2) and Buffer Sizes on Parameter Effectiveness for Fine Dust Distribution Modelling</td>
 	    </tr>
 	    <tr>
 	    	<td>34</td>
 	    	<td>Oren Gal and Yerach Doytsher</td>
-	    	<td>Visible Routes In 3D Dense City Using Reinforcement Learning</td>
+	    	<td>Visible Routes in 3D Dense City Using Reinforcement Learning</td>
 	    </tr>
 	    <tr>
 	    	<td>45</td>
 	    	<td>Bruno Willenborg, Martin Pültz and Thomas H. Kolbe</td>
-	    	<td>Integration Of Semantic 3D City Models And 3D Mesh Models For Accuracy Improvements Of Solar Potential Analyses</td>
+	    	<td>Integration of Semantic 3D City Models and 3D Mesh Models for Accuracy Improvements of Solar Potential Analyses</td>
 	    </tr>
 	    <tr>
 	    	<td>48</td>
 	    	<td>Kavisha Kumar, Hugo Ledoux and Jantien Stoter</td>
-	    	<td>Dynamic 3D Visualization Of Floods: Case Of The Netherlands</td>
+	    	<td>Dynamic 3D Visualization of Floods: Case of the Netherlands</td>
 	    </tr>
 	    <tr>
 	    	<td>53</td>
 	    	<td>Stylianos Providakis, Christopher Rogers and David Chapman</td>
-	    	<td>Tunnelling-induced Ground Settlement Risk Assessment Based On The Integration Of BIM With 3D Geospatial Modelling Tools</td>
+	    	<td>Tunnelling-induced Ground Settlement Risk Assessment Based on the Integration of BIM with 3D Geospatial Modelling Tools</td>
 	    </tr>
 	    <tr>
 	    	<td>54</td>
 	    	<td>Trias Aditya, Dany Laksono, Heri Sutanta, Nur Izzahuddin and Febrian Fitryanik Susanta</td>
-	    	<td>A Usability Evaluation Of A 3D Map Display For Pedestrian Navigation</td>
+	    	<td>A Usability Evaluation of a 3D Map Display for Pedestrian Navigation</td>
 	    </tr>
 	    <tr>
 	    	<td>61</td>
 	    	<td>Sven Briels</td>
-	    	<td>Asbestos Roof Detection In RGB Aerial Imagery</td>
+	    	<td>Asbestos Roof Detection in RGB Aerial Imagery</td>
 	    </tr>
 	    <tr>
 	    	<td>65</td>
 	    	<td>Uznir Ujang, Suhaibah Azri, M. Zahir, Alias Abdul Rahman and Tan Liat Choon</td>
-	    	<td>Urban Heat Island Micro-mapping Via 3D City Model</td>
+	    	<td>Urban Heat Island Micro-mapping via 3D City Model</td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -670,37 +670,37 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>2</td>
 	    	<td>Ali Jamali and Francesc Antón Castro</td>
-	    	<td>Topological 3D Elevation Data Interpolation Of ASTER GDEM Based On Continuous Deformation</td>
+	    	<td>Topological 3D Elevation Data Interpolation of ASTER GDEM Based on Continuous Deformation</td>
 	    </tr>
 	    <tr>
 	    	<td>33</td>
 	    	<td>Raul Piepereit, Martina Deininger, Martin Kada, Margitta Pries and Ursula Voß</td>
-	    	<td>A Sweep-plane Algorithm For The Simplification Of 3D Building Models In The Application Scenario Of Wind Simulations</td>
+	    	<td>A Sweep-plane Algorithm for the Simplification of 3D Building Models in the Application Scenario of Wind Simulations</td>
 	    </tr>
 	    <tr>
 	    	<td>38</td>
 	    	<td>Raphael Sulzer, Pirouz Nourian, Michele Palmieri and Jan van Gemert</td>
-	    	<td>Shape Based Classification Of Seismic Building Structural Types</td>
+	    	<td>Shape Based Classification of Seismic Building Structural Types</td>
 	    </tr>
 	    <tr>
 	    	<td>44</td>
 	    	<td>Weixiao Gao, Malgorzata Jarzabek-Rychard, Hugo Ledoux, Thijs van Lankveld, Jantien Stoter and Martin Kada</td>
-	    	<td>Contextual Classification Of 3D Textured Meshes For Urban Scene Interpretation</td>
+	    	<td>Contextual Classification of 3D Textured Meshes for Urban Scene Interpretation</td>
 	    </tr>
 	    <tr>
 	    	<td>57</td>
 	    	<td>Nanna Suryana, Muhamad Syaifur Rokman and Fandy Setio Utomo</td>
-	    	<td>Prediction Based Workload Performance Evaluation For Disaster Management Spatial Database</td>
+	    	<td>Prediction Based Workload Performance Evaluation for Disaster Management Spatial Database</td>
 	    </tr>
 	    <tr>
 	    	<td>72</td>
 	    	<td>Emre Özdemir and Fabio Remondino</td>
-	    	<td>Segmentation Of 3D Photogrammetric Point Cloud For 3D Building Modeling</td>
+	    	<td>Segmentation of 3D Photogrammetric Point Cloud for 3D Building Modeling</td>
 	    </tr>
 	    <tr>
 	    	<td>83</td>
 	    	<td>Tom van Tilburg</td>
-	    	<td>Creating A Simplified Large Scale 3D Model In PostGIS For Noise-calculations, Based On Lidar And Cadastral Data</td>
+	    	<td>Creating a Simplified Large Scale 3D Model in PostGIS for Noise-calculations, Based on Lidar and Cadastral Data</td>
 	    </tr>
 	    <tr>
 	    	<td>84</td>
@@ -729,27 +729,27 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>15</td>
 	    	<td>Stelios Vitalis, Ken Arroyo Ohori and Jantien Stoter</td>
-	    	<td>A Framework For The Representation Of Two Versions Of A 3D City Model In 4D Space</td>
+	    	<td>A Framework for the Representation of Two Versions of a 3D City Model in 4D Space</td>
 	    </tr>
 	    <tr>
 	    	<td>16</td>
 	    	<td>John Samuel, Sylvie Servigne and Gilles Gesquière</td>
-	    	<td>UrbanCo2Fab: Comprehension Of Concurrent Viewpoints Of Urban Fabric Based On GIT</td>
+	    	<td>UrbanCo2Fab: Comprehension of Concurrent Viewpoints of Urban Fabric Based on GIT</td>
 	    </tr>
 	    <tr>
 	    	<td>17</td>
 	    	<td>George Floros, Claire Ellul and Efi Dimopoulou</td>
-	    	<td>Investigating Interoperability Capabilities Between IFC And CityGML LOD 4 - Retaining Semantic Information</td>
+	    	<td>Investigating Interoperability Capabilities Between IFC and CityGML LOD 4 - Retaining Semantic Information</td>
 	    </tr>
 	    <tr>
 	    	<td>31</td>
 	    	<td>Ihab Hijazi, Vanessa Ebert, Andreas Donaubauer and Thomas Kolbe</td>
-	    	<td>Combining Urban Metabolism Methods And Semantic 3D City Models</td>
+	    	<td>Combining Urban Metabolism Methods and Semantic 3D City Models</td>
 	    </tr>
 	    <tr>
 	    	<td>76</td>
 	    	<td>Syahiirah Salleh, Uznir Ujang, Suhaibah Azri and Tan Liat Choon</td>
-	    	<td>Cell Complexes Topological Links For Buildings In CityGML</td>
+	    	<td>Cell Complexes Topological Links for Buildings in CityGML</td>
 	    </tr>
 	  </tbody>
 	</table>
