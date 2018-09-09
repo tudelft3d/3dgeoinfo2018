@@ -322,7 +322,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>81</td>
 	    	<td>Panagiotis Karydakis</td>
-	    	<td>Visualisation of BIM Through Hololens</td>
+	    	<td>Visualisation of BIM through Hololens</td>
 	    </tr>
 	    <tr>
 	    	<td>10</td>
@@ -366,12 +366,12 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>12</td>
 	    	<td>Styliani Verykokou and Charalabos Ioannidis</td>
-	    	<td>A Photogrammetry-based Structure From Motion Algorithm Using Robust Iterative Bundle Adjustment Techniques</td>
+	    	<td>A Photogrammetry-based Structure from Motion Algorithm Using Robust Iterative Bundle Adjustment Techniques</td>
 	    </tr>
 	    <tr>
 	    	<td>6</td>
 	    	<td>Jiaqiang Li, Biao Xiong, Filip Biljecki and Gerhard Schrotter</td>
-	    	<td>A Sliding Window Method for Detecting Corners of Openings From Terrestrial LiDAR Data</td>
+	    	<td>A Sliding Window Method for Detecting Corners of Openings from Terrestrial LiDAR Data</td>
 	    </tr>
 	    <tr>
 	    	<td>21</td>
@@ -386,7 +386,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>58</td>
 	    	<td>Soo Chin Liew, Xiaojing Huang, Ervine Shengwei Lin, Chenghua Shi, Alex Thiam Koon Yee and Abhishek Tandon</td>
-	    	<td>Integration of Tree Database Derived From Satellite Imagery and LiDAR Point Cloud Data</td>
+	    	<td>Integration of Tree Database Derived from Satellite Imagery and LiDAR Point Cloud Data</td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -410,7 +410,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>7</td>
 	    	<td>Jens Ingensand, Marion Nappez, Timothée Produit and Thibaud Chassin</td>
-	    	<td>Automated Reconstruction of 3D Buildings in Historic City Centers From LIDAR Data and 2D Building Footprints</td>
+	    	<td>Automated Reconstruction of 3D Buildings in Historic City Centers from LIDAR Data and 2D Building Footprints</td>
 	    </tr>
 	    <tr>
 	    	<td>14</td>
@@ -705,7 +705,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>84</td>
 	    	<td>Chris Lucas</td>
-	    	<td>Extracting Building Footprints From Airborne Lidar Data</td>
+	    	<td>Extracting Building Footprints from Airborne Lidar Data</td>
 	    </tr>
 	  </tbody>
 	</table>
