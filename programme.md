@@ -67,7 +67,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	      <td>15:30 - 16:55</td>
 	      <td class="info" rowspan="2"><div class="text-info">X</div></td>
-	      <td class="success"><a href="#nmas1">NMAs I</a></td>
+	      <td class="success"><a href="#nmas1">NMAs I (EuroSDR/Volta)</a></td>
 	      <td></td>
 	      <td></td>
 	    </tr>
@@ -80,7 +80,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	      <td>17:00 - 18:00</td>
 	      <td></td>
-	      <td class="success"><a href="#nmas2">NMAs II</a></td>
+	      <td class="success"><a href="#nmas2">NMAs II (EuroSDR/Volta)</a></td>
 	      <td></td>
 	      <td></td>
 	    </tr>
@@ -394,7 +394,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 
 <a name="nmas1" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### 3D Geoinformation for National and Cadastral Mapping Agencies I (Monday 1 October 15:30 - 16:55 @ Senaatzaal)
+#### EuroSDR/Volta session: 3D Geoinformation for National and Cadastral Mapping Agencies I (Monday 1 October 15:30 - 16:55 @ Senaatzaal)
 ##### Chair: Francesca Noardo
 
 <div class="table-responsive">
@@ -453,7 +453,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 
 <a name="nmas2" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-#### 3D Geoinformation for National and Cadastral Mapping Agencies II (Monday 1 October 17:00 - 18:00 @ Senaatzaal)
+#### EuroSDR/Volta session: 3D Geoinformation for National and Cadastral Mapping Agencies II (Monday 1 October 17:00 - 18:00 @ Senaatzaal)
 ##### Chair: Jantien Stoter
 
 <div class="table-responsive">
