@@ -576,13 +576,13 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    </tr>
 	    <tr>
 	    	<td>9</td>
-	    	<td>Benshuo Wang, Gamze Z. Dane and Bauke de Vries <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-215-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
-	    	<td>Increasing Awareness for Urban Cultural Heritage Based on 3D Narrative System</td>
+	    	<td>Benshuo Wang, Gamze Z. Dane and Bauke de Vries</td>
+	    	<td>Increasing Awareness for Urban Cultural Heritage Based on 3D Narrative System <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-215-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>59</td>
-	    	<td>Daniel Navas-Carrillo, Blanca Del Espino Hidalgo, Francisco Javier Navarro de Pablos and María Teresa Pérez Cano <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-127-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
-	    	<td>The Urban Heritage Characterization Using 3D Geographic Information Systems. The System of Medium-sized Cities in Andalusia.</td>
+	    	<td>Daniel Navas-Carrillo, Blanca Del Espino Hidalgo, Francisco Javier Navarro de Pablos and María Teresa Pérez Cano</td>
+	    	<td>The Urban Heritage Characterization Using 3D Geographic Information Systems. The System of Medium-sized Cities in Andalusia. <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-127-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>78</td>
