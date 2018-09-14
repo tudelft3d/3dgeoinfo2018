@@ -302,22 +302,22 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>27</td>
 	    	<td>Ian Lochhead and Nick Hedley</td>
-	    	<td>Communicating Multilevel Evacuation Context Using Situated Augmented Reality</td>
+	    	<td>Communicating Multilevel Evacuation Context Using Situated Augmented Reality <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-33-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>37</td>
 	    	<td>Chen Shechter, Yarin Puor and Sagi Dalyot</td>
-	    	<td>An Augmented Viewshed Analysis of Complex 3-dimensional Environments</td>
+	    	<td>An Augmented Viewshed Analysis of Complex 3-Dimensional Environments</td>
 	    </tr>
 	    <tr>
 	    	<td>40</td>
 	    	<td>Yunhao Zhang, Jun Zhu, Qing Zhu, Weilian Li, Junxiao Zhang, Mingwei Liu, Yun Li and Bin Feng</td>
-	    	<td>Optimized Organization and Adaptive Visualization of Complicated Mountain Disaster 3D Scenes for Diverse Terminals</td>
+	    	<td>Optimized Organization and Adaptive Visualization of Complicated Mountain Disaster 3D Scenes for Diverse Terminals <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-237-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>60</td>
 	    	<td>Johannes Wolf, Sören Discher, Leon Masopust, Sebastian Schulz, Rico Richter and Jürgen Döllner</td>
-	    	<td>Combined Visual Exploration of 2D Ground Radar and 3D Point Cloud Data for Road Environments</td>
+	    	<td>Combined Visual Exploration of 2D Ground Radar and 3D Point Cloud Data for Road Environments <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-231-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>81</td>
@@ -327,7 +327,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>10</td>
 	    	<td>Ioannis Pispidikis and Efi Dimopoulou</td>
-	    	<td>CityGML Restful Web Service: Automatic Retrieval of CityGML Data Based on Their Semantics. Principles, Guidelines and Bldg Conceptual Design.</td>
+	    	<td>CityGML Restful Web Service: Automatic Retrieval of CityGML Data Based on Their Semantics. Principles, Guidelines and Bldg Conceptual Design. <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-49-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>71</td>
@@ -356,37 +356,37 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>5</td>
 	    	<td>Yu Feng, Claus Brenner and Monika Sester</td>
-	    	<td>Enhancing the Resolution of Urban Digital Terrain Models Using Mobile Mapping Systems</td>
+	    	<td>Enhancing the Resolution of Urban Digital Terrain Models Using Mobile Mapping Systems <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-11-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>8</td>
 	    	<td>Jorge Chen, Keith Clarke and Omar Mora</td>
-	    	<td>Assessing the Accuracy and Precision of Imperfect Point Clouds for 3D Indoor Mapping and Modeling</td>
+	    	<td>Assessing the Accuracy and Precision of Imperfect Point Clouds for 3D Indoor Mapping and Modeling <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-3-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>12</td>
 	    	<td>Styliani Verykokou and Charalabos Ioannidis</td>
-	    	<td>A Photogrammetry-based Structure from Motion Algorithm Using Robust Iterative Bundle Adjustment Techniques</td>
+	    	<td>A Photogrammetry-based Structure from Motion Algorithm Using Robust Iterative Bundle Adjustment Techniques <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-73-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>6</td>
 	    	<td>Jiaqiang Li, Biao Xiong, Filip Biljecki and Gerhard Schrotter</td>
-	    	<td>A Sliding Window Method for Detecting Corners of Openings from Terrestrial LiDAR Data</td>
+	    	<td>A Sliding Window Method for Detecting Corners of Openings from Terrestrial LiDAR Data <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-97-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>21</td>
 	    	<td>Maria Gkeli and Charalabos Ioannidis</td>
-	    	<td>Automatic 3D Reconstruction of Buildings Roof Tops in Densely Urbanized Areas</td>
+	    	<td>Automatic 3D Reconstruction of Buildings Roof Tops in Densely Urbanized Areas <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-47-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>32</td>
 	    	<td>Like Gobeawan, Ervine Shengwei Lin, Abhishek Tandon, Alex Thiam Koon Yee, Victor Hock Soon Khoo, Sandy Shen Ni Teo, Su Yi, Chi Wan Calvin Lim, Sum Thai Wong, Daniel J Wise, Peng Cheng, Soo Chin Liew, Xiaojing Huang, Qihua Li, Lip Seng Teo, Gyula Szabolcs Fekete and Marton Polo</td>
-	    	<td>Modeling Trees for Virtual Singapore: From Data Acquisition to CityGML Models</td>
+	    	<td>Modeling Trees for Virtual Singapore: From Data Acquisition to CityGML Models <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-55-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>58</td>
 	    	<td>Soo Chin Liew, Xiaojing Huang, Ervine Shengwei Lin, Chenghua Shi, Alex Thiam Koon Yee and Abhishek Tandon</td>
-	    	<td>Integration of Tree Database Derived from Satellite Imagery and LiDAR Point Cloud Data</td>
+	    	<td>Integration of Tree Database Derived from Satellite Imagery and LiDAR Point Cloud Data <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-105-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -410,32 +410,32 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>7</td>
 	    	<td>Jens Ingensand, Marion Nappez, Timothée Produit and Thibaud Chassin</td>
-	    	<td>Automated Reconstruction of 3D Buildings in Historic City Centers from LIDAR Data and 2D Building Footprints</td>
+	    	<td>Automated Reconstruction of 3D Buildings in Historic City Centers from LIDAR Data and 2D Building Footprints <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-19-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>14</td>
 	    	<td>Monika Swiderska and Claire Ellul</td>
-	    	<td>How Can 3D GIS Be Used to Better Store, Integrate and Communicate Results of Environmental Impact Assessments?</td>
+	    	<td>How Can 3D GIS Be Used to Better Store, Integrate and Communicate Results of Environmental Impact Assessments? <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-193-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>23</td>
 	    	<td>Kelvin Wong and Claire Ellul</td>
-	    	<td>User Requirements Gathering for a National 3D Mapping Product in the United Kingdom</td>
+	    	<td>User Requirements Gathering for a National 3D Mapping Product in the United Kingdom <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-89-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>24</td>
 	    	<td>Eria Aroni and Charalambos Ioannidis</td>
-	    	<td>Automated Building Detection in Dense Point Cloud and Update of Open Source Data Bases</td>
+	    	<td>Automated Building Detection in Dense Point Cloud and Update of Open Source Data Bases <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-11-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>28</td>
 	    	<td>Ioannis Pispidikis, Eva Tsiliakou, Dimitrios Kitsakis, Katerina Athanasiou, Eftychia Kalogianni, Tassos Labropoulos and Efi Dimopoulou</td>
-	    	<td>Combining Methodological Tools for the Optimum 3D Modelling of NTUA Campus</td>
+	    	<td>Combining Methodological Tools for the Optimum 3D Modelling of NTUA Campus <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-57-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>46</td>
 	    	<td>Helen Eriksson, Lars Harrie and Jesper Paasch</td>
-	    	<td>What Is the Need for Building Parts? - A Comparison of CityGML, INSPIRE Building and a Swedish Building Standard</td>
+	    	<td>What Is the Need for Building Parts? - A Comparison of CityGML, INSPIRE Building and a Swedish Building Standard <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-27-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>49</td>
@@ -445,7 +445,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>51</td>
 	    	<td>Alexandre Petrovsky, Malik Doole, Joost Ellerbroek, Jacco Hoekstra and Filippo Tomasello</td>
-	    	<td>Challenges with Obstacle Data for Manned and Unmanned Aviation</td>
+	    	<td>Challenges with Obstacle Data for Manned and Unmanned Aviation <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-143-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -469,12 +469,12 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>66</td>
 	    	<td>Estibaliz Muñumer Herrero, Claire Ellul and Jeremy Morley</td>
-	    	<td>Testing the Impact of 2D Generalisation on 3D City Models – Exploring Analysis Options with an Off-the-shelf Software Package</td>
+	    	<td>Testing the Impact of 2D Generalisation on 3D City Models – Exploring Analysis Options With an Off-The-Shelf Software Package <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-119-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>69</td>
 	    	<td>Claire Ellul, Jantien Stoter, Lars Harrie, Masoome Shariat, Avril Behan and Maria Pla</td>
-	    	<td>Investigating the State-of-play of GeoBIM across Europe</td>
+	    	<td>Investigating the State-of-play of GeoBIM across Europe <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-19-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>80</td>
@@ -513,22 +513,22 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>18</td>
 	    	<td>Amol Konde, Helga Tauscher, Filip Biljecki and James Crawford</td>
-	    	<td>Floor Plans in CityGML</td>
+	    	<td>Floor Plans in CityGML <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-25-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>36</td>
 	    	<td>Jacynthe Pouliot, Suzie Larrivée, Claire Ellul and Alaa Boudhaim</td>
-	    	<td>Exploring Schema Matching to Compare Geospatial Standards: Application to Underground Utility Networks</td>
+	    	<td>Exploring Schema Matching to Compare Geospatial Standards: Application to Underground Utility Networks <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-157-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>41</td>
 	    	<td>Anna Labetski, Stefan van Gerwen, Guus Tamminga, Hugo Ledoux and Jantien Stoter</td>
-	    	<td>A Proposal for an Improved Transportation Model in CityGML</td>
+	    	<td>A Proposal for an Improved Transportation Model in CityGML <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-89-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>73</td>
 	    	<td>Claudine Métral and Gilles Falquet</td>
-	    	<td>Extension and Contextualisation for Linked Semantic 3D Geodata</td>
+	    	<td>Extension and Contextualisation for Linked Semantic 3D Geodata <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-113-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -562,7 +562,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>64</td>
 	    	<td>Rob van Son, Siow Wei Jaw, Jingya Yan, Victor Khoo, Richard Loo, Sandy Teo and Gerhard Schrotter</td>
-	    	<td>A Framework for Reliable Three-dimensional Underground Utility Mapping for Urban Planning</td>
+	    	<td>A Framework for Reliable Three-Dimensional Underground Utility Mapping for Urban Planning <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-209-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>68</td>
@@ -572,22 +572,22 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>74</td>
 	    	<td>Hamid Kiavarz, Mojgan Jadidi, Abbas Rajabifard and Gunho Sohn</td>
-	    	<td>BIM-GIS Oriented Intelligent Knowledge Discovery</td>
+	    	<td>BIM-GIS Oriented Intelligent Knowledge Discovery <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-79-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>9</td>
-	    	<td>Benshuo Wang, Gamze Z. Dane and Bauke de Vries</td>
+	    	<td>Benshuo Wang, Gamze Z. Dane and Bauke de Vries <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-215-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    	<td>Increasing Awareness for Urban Cultural Heritage Based on 3D Narrative System</td>
 	    </tr>
 	    <tr>
 	    	<td>59</td>
-	    	<td>Daniel Navas-Carrillo, Blanca Del Espino Hidalgo, Francisco Javier Navarro de Pablos and María Teresa Pérez Cano</td>
+	    	<td>Daniel Navas-Carrillo, Blanca Del Espino Hidalgo, Francisco Javier Navarro de Pablos and María Teresa Pérez Cano <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-127-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    	<td>The Urban Heritage Characterization Using 3D Geographic Information Systems. The System of Medium-sized Cities in Andalusia.</td>
 	    </tr>
 	    <tr>
 	    	<td>78</td>
 	    	<td>Andrea Scianna and Marcello La Guardia</td>
-	    	<td>Globe Based 3D GIS Solutions for Virtual Heritage</td>
+	    	<td>Globe Based 3D GIS Solutions for Virtual Heritage <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-171-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -611,22 +611,22 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>19</td>
 	    	<td>Marc-Oliver Löwner and Yahya Ghassoun</td>
-	    	<td>The Influence of Levels of Detail (LOD0-2) and Buffer Sizes on Parameter Effectiveness for Fine Dust Distribution Modelling</td>
+	    	<td>The Influence of Levels of Detail (LOD0-2) and Buffer Sizes on Parameter Effectiveness for Fine Dust Distribution Modelling <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-41-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>34</td>
 	    	<td>Oren Gal and Yerach Doytsher</td>
-	    	<td>Visible Routes in 3D Dense City Using Reinforcement Learning</td>
+	    	<td>Visible Routes in 3D Dense City Using Reinforcement Learning <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-41-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>45</td>
 	    	<td>Bruno Willenborg, Martin Pültz and Thomas H. Kolbe</td>
-	    	<td>Integration of Semantic 3D City Models and 3D Mesh Models for Accuracy Improvements of Solar Potential Analyses</td>
+	    	<td>Integration of Semantic 3D City Models and 3D Mesh Models for Accuracy Improvements of Solar Potential Analyses <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-223-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>48</td>
 	    	<td>Kavisha Kumar, Hugo Ledoux and Jantien Stoter</td>
-	    	<td>Dynamic 3D Visualization of Floods: Case of the Netherlands</td>
+	    	<td>Dynamic 3D Visualization of Floods: Case of the Netherlands <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-83-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>53</td>
@@ -636,7 +636,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>54</td>
 	    	<td>Trias Aditya, Dany Laksono, Heri Sutanta, Nur Izzahuddin and Febrian Fitryanik Susanta</td>
-	    	<td>A Usability Evaluation of a 3D Map Display for Pedestrian Navigation</td>
+	    	<td>A Usability Evaluation of a 3D Map Display for Pedestrian Navigation <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-3-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>61</td>
@@ -646,7 +646,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>65</td>
 	    	<td>Uznir Ujang, Suhaibah Azri, M. Zahir, Alias Abdul Rahman and Tan Liat Choon</td>
-	    	<td>Urban Heat Island Micro-mapping via 3D City Model</td>
+	    	<td>Urban Heat Island Micro-mapping via 3D City Model <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-201-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -670,17 +670,17 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>2</td>
 	    	<td>Ali Jamali and Francesc Antón Castro</td>
-	    	<td>Topological 3D Elevation Data Interpolation of ASTER GDEM Based on Continuous Deformation</td>
+	    	<td>Topological 3D Elevation Data Interpolation of ASTER GDEM Based on Continuous Deformation <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-71-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>33</td>
 	    	<td>Raul Piepereit, Martina Deininger, Martin Kada, Margitta Pries and Ursula Voß</td>
-	    	<td>A Sweep-plane Algorithm for the Simplification of 3D Building Models in the Application Scenario of Wind Simulations</td>
+	    	<td>A Sweep-plane Algorithm for the Simplification of 3D Building Models in the Application Scenario of Wind Simulations <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-151-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>38</td>
 	    	<td>Raphael Sulzer, Pirouz Nourian, Michele Palmieri and Jan van Gemert</td>
-	    	<td>Shape Based Classification of Seismic Building Structural Types</td>
+	    	<td>Shape Based Classification of Seismic Building Structural Types <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-179-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>44</td>
@@ -690,12 +690,12 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>57</td>
 	    	<td>Nanna Suryana, Muhamad Syaifur Rokman and Fandy Setio Utomo</td>
-	    	<td>Prediction Based Workload Performance Evaluation for Disaster Management Spatial Database</td>
+	    	<td>Prediction Based Workload Performance Evaluation for Disaster Management Spatial Database <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-187-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>72</td>
 	    	<td>Emre Özdemir and Fabio Remondino</td>
-	    	<td>Segmentation of 3D Photogrammetric Point Cloud for 3D Building Modeling</td>
+	    	<td>Segmentation of 3D Photogrammetric Point Cloud for 3D Building Modeling <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-135-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>83</td>
@@ -729,27 +729,27 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>15</td>
 	    	<td>Stelios Vitalis, Ken Arroyo Ohori and Jantien Stoter</td>
-	    	<td>A Framework for the Representation of Two Versions of a 3D City Model in 4D Space</td>
+	    	<td>A Framework for the Representation of Two Versions of a 3D City Model in 4D Space <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-81-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>16</td>
 	    	<td>John Samuel, Sylvie Servigne and Gilles Gesquière</td>
-	    	<td>UrbanCo2Fab: Comprehension of Concurrent Viewpoints of Urban Fabric Based on GIT</td>
+	    	<td>UrbanCo2Fab: Comprehension of Concurrent Viewpoints of Urban Fabric Based on GIT <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-65-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>17</td>
 	    	<td>George Floros, Claire Ellul and Efi Dimopoulou</td>
-	    	<td>Investigating Interoperability Capabilities Between IFC and CityGML LOD 4 - Retaining Semantic Information</td>
+	    	<td>Investigating Interoperability Capabilities Between IFC and CityGML LOD 4 - Retaining Semantic Information <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-33-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>31</td>
 	    	<td>Ihab Hijazi, Vanessa Ebert, Andreas Donaubauer and Thomas Kolbe</td>
-	    	<td>Combining Urban Metabolism Methods and Semantic 3D City Models</td>
+	    	<td>Combining Urban Metabolism Methods and Semantic 3D City Models <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-63-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>76</td>
 	    	<td>Syahiirah Salleh, Uznir Ujang, Suhaibah Azri and Tan Liat Choon</td>
-	    	<td>Cell Complexes Topological Links for Buildings in CityGML</td>
+	    	<td>Cell Complexes Topological Links for Buildings in CityGML <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-165-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	  </tbody>
 	</table>
