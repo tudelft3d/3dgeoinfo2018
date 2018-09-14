@@ -6,9 +6,9 @@ permalink: /papers
 
 <a name="accepted" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-## Accepted papers, abstracts and presentations
+## Accepted papers and presentations
 
-### Full papers for ISPRS Annals
+### Full papers in ISPRS Annals Volume IV-4/W6 (2018)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -22,69 +22,69 @@ permalink: /papers
     <tbody>
 	    <tr>
 	    	<td>5</td>
-	    	<td>Yu Feng, Claus Brenner and Monika Sester</td>
-	    	<td>Enhancing The Resolution Of Urban Digital Terrain Models Using Mobile Mapping Systems</td>
+	    	<td>Y. Feng, C. Brenner, and M. Sester</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-11-2018">Enhancing the Resolution of Urban Digital Terrain Models Using Mobile Mapping Systems</a></td>
 	    </tr>
 	    <tr>
 	    	<td>7</td>
-	    	<td>Jens Ingensand, Marion Nappez, Timothée Produit and Thibaud Chassin</td>
-	    	<td>Automated Reconstruction Of 3D Buildings In Historic City Centers From LIDAR Data And 2D Building Footprints</td>
+	    	<td>J. Ingensand, M. Nappez, T. Produit, and T. Chassin</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-19-2018">Automated Reconstruction of 3D Buildings in Historic City Centers From LIDAR Data and 2D Building Footprints</a></td>
 	    </tr>
 	    <tr>
 	    	<td>8</td>
-	    	<td>Jorge Chen, Keith Clarke and Omar Mora</td>
-	    	<td>Assessing The Accuracy And Precision Of Imperfect Point Clouds For 3D Indoor Mapping And Modeling</td>
+	    	<td>J. Chen, O. E. Mora, and K. C. Clarke</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-3-2018">Assessing the Accuracy and Precision of Imperfect Point Clouds for 3D Indoor Mapping and Modeling</a></td>
 	    </tr>
 	    <tr>
 	    	<td>10</td>
-	    	<td>Ioannis Pispidikis and Efi Dimopoulou</td>
-	    	<td>CityGML Restful Web Service: Automatic Retrieval Of CityGML Data Based On Their Semantics. Principles, Guidelines And Bldg Conceptual Design.</td>
+	    	<td>I. Pispidikis and E. Dimopoulou</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-49-2018">CityGML Restful Web Service: Automatic Retrieval of CityGML Data Based on Their Semantics. Principles, Guidelines and Bldg Conceptual Design.</a></td>
 	    </tr>
 	    <tr>
 	    	<td>12</td>
-	    	<td>Styliani Verykokou and Charalabos Ioannidis</td>
-	    	<td>A Photogrammetry-based Structure From Motion Algorithm Using Robust Iterative Bundle Adjustment Techniques</td>
+	    	<td>S. Verykokou and C. Ioannidis</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-73-2018">A Photogrammetry-Based Structure From Motion Algorithm Using Robust Iterative Bundle Adjustment Techniques</a></td>
 	    </tr>
 	    <tr>
 	    	<td>15</td>
-	    	<td>Stelios Vitalis, Ken Arroyo Ohori and Jantien Stoter</td>
-	    	<td>A Framework For The Representation Of Two Versions Of A 3D City Model In 4D Space</td>
+	    	<td>S. Vitalis, K. Arroyo Ohori, and J. Stoter</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-81-2018">A Framework For The Representation Of Two Versions Of A 3D City Model In 4D Space</a></td>
 	    </tr>
 	    <tr>
 	    	<td>16</td>
-	    	<td>John Samuel, Sylvie Servigne and Gilles Gesquière</td>
-	    	<td>UrbanCo2Fab: Comprehension Of Concurrent Viewpoints Of Urban Fabric Based On GIT</td>
+	    	<td>J. Samuel, S. Servigne, and G. Gesquière</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-65-2018">UrbanCo2Fab: Comprehension of Concurrent Viewpoints of Urban Fabric Based on GIT</a></td>
 	    </tr>
 	    <tr>
 	    	<td>18</td>
-	    	<td>Amol Konde, Helga Tauscher, Filip Biljecki and James Crawford</td>
-	    	<td>Floor Plans In CityGML</td>
+	    	<td>A. Konde, H. Tauscher, F. Biljecki, and J. Crawford</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-25-2018">Floor Plans in CityGML</a></td>
 	    </tr>
 	    <tr>
 	    	<td>19</td>
-	    	<td>Marc-Oliver Löwner and Yahya Ghassoun</td>
-	    	<td>The Influence Of Levels Of Detail (LOD0-2) And Buffer Sizes On Parameter Effectiveness For Fine Dust Distribution Modelling</td>
+	    	<td>M.-O. Löwner and Y. Ghassoun</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-41-2018">The Influence of Levels of Detail (LOD0-2) and Buffer Sizes on Parameter Effectiveness for Fine Dust Distribution Modelling</a></td>
 	    </tr>
 	    <tr>
 	    	<td>23</td>
-	    	<td>Kelvin Wong and Claire Ellul</td>
-	    	<td>User Requirements Gathering For A National 3D Mapping Product In The United Kingdom</td>
+	    	<td>K. Wong and C. Ellul</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-89-2018">User Requirements Gathering for a National 3D Mapping Product in the United Kingdom</a></td>
 	    </tr>
 	    <tr>
 	    	<td>27</td>
-	    	<td>Ian Lochhead and Nick Hedley</td>
-	    	<td>Communicating Multilevel Evacuation Context Using Situated Augmented Reality</td>
+	    	<td>I. Lochhead and N. Hedley</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-33-2018">Communicating Multilevel Evacuation Context Using Situated Augmented Reality</a></td>
 	    </tr>
 	    <tr>
 	    	<td>28</td>
-	    	<td>Ioannis Pispidikis, Eva Tsiliakou, Dimitrios Kitsakis, Katerina Athanasiou, Eftychia Kalogianni, Tassos Labropoulos and Efi Dimopoulou</td>
-	    	<td>Combining Methodological Tools For The Optimum 3D Modelling Of NTUA Campus</td>
+	    	<td>I. Pispidikis, E. Tsiliakou, D. Kitsakis, K. Athanasiou, E. Kalogianni, T. Labropoulos, and E. Dimopoulou</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-57-2018">Combining Methodological Tools for the Optimum 3D Modelling of NTUA Campus</a></td>
 	    </tr>
   	</tbody>
   </table>
 </div>
 
-### Full papers for ISPRS Archives
+### Full papers in ISPRS Archives Volume XLII-4/W10 (2018)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -98,54 +98,54 @@ permalink: /papers
     <tbody>
 	    <tr>
 	    	<td>2</td>
-	    	<td>Ali Jamali and Francesc Antón Castro</td>
-	    	<td>Topological 3D Elevation Data Interpolation Of ASTER GDEM Based On Continuous Deformation</td>
+	    	<td>A. Jamali and F. A. Castro</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-71-2018">Topological 3D Elevation Data Interpolation Of ASTER GDEM Based On Continuous Deformation</a></td>
 	    </tr>
 	    <tr>
 	    	<td>6</td>
-	    	<td>Jiaqiang Li, Biao Xiong, Filip Biljecki and Gerhard Schrotter</td>
-	    	<td>A Sliding Window Method For Detecting Corners Of Openings From Terrestrial LiDAR Data</td>
+	    	<td>J. Li, B. Xiong, F. Biljecki, and G. Schrotter</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-97-2018">A Sliding Window Method for Detecting Corners of Openings From Terrestrial LiDAR Data</a></td>
 	    </tr>
 	    <tr>
 	    	<td>9</td>
-	    	<td>Benshuo Wang, Gamze Z. Dane and Bauke de Vries</td>
-	    	<td>Increasing Awareness For Urban Cultural Heritage Based On 3D Narrative System</td>
+	    	<td>B. Wang, G. Z. Dane, and B. de Vries</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-215-2018">Increasing Awareness for Urban Cultural Heritage Based on 3D Narrative System</a></td>
 	    </tr>
 	    <tr>
 	    	<td>14</td>
-	    	<td>Monika Swiderska and Claire Ellul</td>
-	    	<td>How Can 3D GIS Be Used To Better Store, Integrate And Communicate Results Of Environmental Impact Assessments?</td>
+	    	<td>M. A. Swiderska and C. Ellul</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-193-2018">How Can 3D GIS Be Used to Better Store, Integrate and Communicate Results of Environmental Impact Assessments?</a></td>
 	    </tr>
 	    <tr>
 	    	<td>17</td>
-	    	<td>George Floros, Claire Ellul and Efi Dimopoulou</td>
-	    	<td>Investigating Interoperability Capabilities Between IFC And CityGML LOD 4 - Retaining Semantic Information</td>
+	    	<td>G. S. Floros, C. Ellul, and E. Dimopoulou</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-33-2018">Investigating Interoperability Capabilities Between IFC And CityGML LOD 4 - Retaining Semantic Information</a></td>
 	    </tr>
 	    <tr>
 	    	<td>21</td>
-	    	<td>Maria Gkeli and Charalabos Ioannidis</td>
-	    	<td>Automatic 3D Reconstruction Of Buildings Roof Tops In Densely Urbanized Areas</td>
+	    	<td>M. Gkeli and C. Ioannidis</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-47-2018">Automatic 3D Reconstruction Of Buildings Roof Tops In Densely Urbanized Areas</a></td>
 	    </tr>
 	    <tr>
 	    	<td>24</td>
-	    	<td>Eria Aroni and Charalambos Ioannidis</td>
-	    	<td>Automated Building Detection In Dense Point Cloud And Update Of Open Source Data Bases</td>
+	    	<td>E. Aroni and C. Ioannidis</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-11-2018">Automated Building Detection in Dense Point Cloud and Update of Open Source Data Bases</a></td>
 	    </tr>
 	    <tr>
 	    	<td>31</td>
-	    	<td>Ihab Hijazi, Vanessa Ebert, Andreas Donaubauer and Thomas Kolbe</td>
-	    	<td>Combining Urban Metabolism Methods And Semantic 3D City Models</td>
+	    	<td>I. Hijazi, V. Ebert, A. Donaubauer, and T. H. Kolbe</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-63-2018">Combining Urban Metabolism Methods And Semantic 3D City Models</a></td>
 	    </tr>
 	    <tr>
 	    	<td>32</td>
-	    	<td>Like Gobeawan, Ervine Shengwei Lin, Abhishek Tandon, Alex Thiam Koon Yee, Victor Hock Soon Khoo, Sandy Shen Ni Teo, Su Yi, Chi Wan Calvin Lim, Sum Thai Wong, Daniel J Wise, Peng Cheng, Soo Chin Liew, Xiaojing Huang, Qihua Li, Lip Seng Teo, Gyula Szabolcs Fekete and Marton Polo</td>
-	    	<td>Modeling Trees For Virtual Singapore: From Data Acquisition To CityGML Models</td>
+	    	<td>L. Gobeawan, E. S. Lin, A. Tandon, A. T. K. Yee, V. H. S. Khoo, S. N. Teo, S. Yi, C. W. Lim, S. T. Wong, D. J. Wise, P. Cheng, S. C. Liew, X. Huang, Q. H. Li, L. S. Teo, G. S. Fekete, and M. T. Poto</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-55-2018">Modeling Trees For Virtual Singapore: From Data Acquisition To CityGML Models</a></td>
 	    </tr>
   	</tbody>
   </table>
 </div>
 
-### Extended abstracts for ISPRS Archives
+### Extended abstracts in ISPRS Archives Volume XLII-4/W10 (2018)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -159,123 +159,123 @@ permalink: /papers
     <tbody>
 	    <tr>
 	    	<td>33</td>
-	    	<td>Raul Piepereit, Martina Deininger, Martin Kada, Margitta Pries and Ursula Voß</td>
-	    	<td>A Sweep-plane Algorithm For The Simplification Of 3D Building Models In The Application Scenario Of Wind Simulations</td>
+	    	<td>R. Piepereit, M. Deininger, M. Kada, M. Pries, and U. Voß</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-151-2018">A Sweep-Plane Algorithm for the Simplification of 3D Building Models in the Application Scenario of Wind Simulations</a></td>
 	    </tr>
 	    <tr>
 	    	<td>34</td>
-	    	<td>Oren Gal and Yerach Doytsher</td>
-	    	<td>Visible Routes In 3D Dense City Using Reinforcement Learning</td>
+	    	<td>O. Gal and Y. Doytsher</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-41-2018">Visible Routes In 3D Dense City Using Reinforcement Learning</a></td>
 	    </tr>
 	    <tr>
 	    	<td>36</td>
-	    	<td>Jacynthe Pouliot, Suzie Larrivée, Claire Ellul and Alaa Boudhaim</td>
-	    	<td>Exploring Schema Matching To Compare Geospatial Standards: Application To Underground Utility Networks</td>
+	    	<td>J. Pouliot, S. Larrivée, C. Ellul, and A. Boudhaim</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-157-2018">Exploring Schema Matching To Compare Geospatial Standards: Application To Underground Utility Networks</a></td>
 	    </tr>
 	    <tr>
 	    	<td>38</td>
-	    	<td>Raphael Sulzer, Pirouz Nourian, Michele Palmieri and Jan van Gemert</td>
-	    	<td>Shape Based Classification Of Seismic Building Structural Types</td>
+	    	<td>R. Sulzer, P. Nourian, M. Palmieri, and J. C. van Gemert</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-179-2018">Shape Based Classification of Seismic Building Structural Types</a></td>
 	    </tr>
 	    <tr>
 	    	<td>40</td>
-	    	<td>Yunhao Zhang, Jun Zhu, Qing Zhu, Weilian Li, Junxiao Zhang, Mingwei Liu, Yun Li and Bin Feng</td>
-	    	<td>Optimized Organization And Adaptive Visualization Of Complicated Mountain Disaster 3D Scenes For Diverse Terminals</td>
+	    	<td>Y. H. Zhang, J. Zhu, Q. Zhu, W. L. Li, J. X. Zhang, M. W. Liu, Y. Li, and B. Feng</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-237-2018">Optimized Organization and Adaptive Visualization of Complicated Mountain Disaster 3D Scenes for Diverse Terminals</a></td>
 	    </tr>
 	    <tr>
 	    	<td>41</td>
-	    	<td>Anna Labetski, Stefan van Gerwen, Guus Tamminga, Hugo Ledoux and Jantien Stoter</td>
-	    	<td>A Proposal For An Improved Transportation Model In CityGML</td>
+	    	<td>A. Labetski, S. van Gerwen, G. Tamminga, H. Ledoux, and J. Stoter</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-89-2018">A Proposal For An Improved Transportation Model In CityGML</a></td>
 	    </tr>
 	    <tr>
 	    	<td>45</td>
-	    	<td>Bruno Willenborg, Martin Pültz and Thomas H. Kolbe</td>
-	    	<td>Integration Of Semantic 3D City Models And 3D Mesh Models For Accuracy Improvements Of Solar Potential Analyses</td>
+	    	<td>B. Willenborg, M. Pültz, and T. H. Kolbe</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-223-2018">Integration of Semantic 3D City Models and 3D Mesh Models for Accuracy Improvements of Solar Potential Analyses</a></td>
 	    </tr>
 	    <tr>
 	    	<td>46</td>
-	    	<td>Helen Eriksson, Lars Harrie and Jesper Paasch</td>
-	    	<td>What Is The Need For Building Parts? - A Comparison Of CityGML, INSPIRE Building And A Swedish Building Standard</td>
+	    	<td>H. Eriksson, L. Harrie, and J. M. Paasch</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-27-2018">What Is The Need For Building Parts? - A Comparison Of CityGML, INSPIRE Building And A Swedish Building Standard</a></td>
 	    </tr>
 	    <tr>
 	    	<td>48</td>
-	    	<td>Kavisha Kumar, Hugo Ledoux and Jantien Stoter</td>
-	    	<td>Dynamic 3D Visualization Of Floods: Case Of The Netherlands</td>
+	    	<td>K. Kumar, H. Ledoux, and J. Stoter</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-83-2018">Dynamic 3D Visualization of Floods: Case of the Netherlands</a></td>
 	    </tr>
 	    <tr>
 	    	<td>51</td>
-	    	<td>Alexandre Petrovsky, Malik Doole, Joost Ellerbroek, Jacco Hoekstra and Filippo Tomasello</td>
-	    	<td>Challenges With Obstacle Data For Manned And Unmanned Aviation</td>
+	    	<td>A. Petrovsky, M. Doole, J. Ellerbroek, J. M. Hoekstra, and F. Tomasello</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-143-2018">Challenges With Obstacle Data for Manned and Unmanned Aviation</a></td>
 	    </tr>
 	    <tr>
 	    	<td>54</td>
-	    	<td>Trias Aditya, Dany Laksono, Heri Sutanta, Nur Izzahuddin and Febrian Fitryanik Susanta</td>
-	    	<td>A Usability Evaluation Of A 3D Map Display For Pedestrian Navigation</td>
+	    	<td>T. Aditya, D. Laksono, H. Sutanta, N. Izzahudin, and F. Susanta</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-3-2018">A Usability Evaluation of a 3D Map Display for Pedestrian Navigation</a></td>
 	    </tr>
 	    <tr>
 	    	<td>57</td>
-	    	<td>Nanna Suryana, Muhamad Syaifur Rokman and Fandy Setio Utomo</td>
-	    	<td>Prediction Based Workload Performance Evaluation For Disaster Management Spatial Database</td>
+	    	<td>N. Suryana, M. S. Rohman, and F. S. Utomo</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-187-2018">Prediction Based Workload Performance Evaluation for Disaster Management Spatial Database</a></td>
 	    </tr>
 	    <tr>
 	    	<td>58</td>
-	    	<td>Soo Chin Liew, Xiaojing Huang, Ervine Shengwei Lin, Chenghua Shi, Alex Thiam Koon Yee and Abhishek Tandon</td>
-	    	<td>Integration Of Tree Database Derived From Satellite Imagery And LiDAR Point Cloud Data</td>
+	    	<td>S. C. Liew, X. Huang, E. S. Lin, C. Shi, A. T. K. Yee, and A. Tandon</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-105-2018">Integration Of Tree Database Derived From Satellite Imagery And LiDAR Point Cloud Data</a></td>
 	    </tr>
 	    <tr>
 	    	<td>59</td>
-	    	<td>Daniel Navas-Carrillo, Blanca Del Espino Hidalgo, Francisco Javier Navarro de Pablos and María Teresa Pérez Cano</td>
-	    	<td>The Urban Heritage Characterization Using 3D Geographic Information Systems. The System Of Medium-sized Cities In Andalusia.</td>
+	    	<td>D. Navas-Carrillo, B. Del Espino Hidalgo, F. J. Navarro-de Pablos, and M. T. Pérez Cano</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-127-2018">The Urban Heritage Characterization Using 3D Geographic Information Systems. The System of Medium-Sized Cities in Andalusia.</a></td>
 	    </tr>
 	    <tr>
 	    	<td>60</td>
-	    	<td>Johannes Wolf, Sören Discher, Leon Masopust, Sebastian Schulz, Rico Richter and Jürgen Döllner</td>
-	    	<td>Combined Visual Exploration Of 2D Ground Radar And 3D Point Cloud Data For Road Environments</td>
+	    	<td>J. Wolf, S. Discher, L. Masopust, S. Schulz, R. Richter, and J. Döllner</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-231-2018">Combined Visual Exploration of 2D Ground Radar and 3D Point Cloud Data for Road Environments</a></td>
 	    </tr>
 	    <tr>
 	    	<td>64</td>
-	    	<td>Rob van Son, Siow Wei Jaw, Jingya Yan, Victor Khoo, Richard Loo, Sandy Teo and Gerhard Schrotter</td>
-	    	<td>A Framework For Reliable Three-dimensional Underground Utility Mapping For Urban Planning</td>
+	    	<td>R. van Son, S. W. Jaw, J. Yan, V. Khoo, R. Loo, S. Teo, and G. Schrotter</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-209-2018">A Framework For Reliable Three-dimensional Underground Utility Mapping For Urban Planning</a></td>
 	    </tr>
 	    <tr>
 	    	<td>65</td>
-	    	<td>Uznir Ujang, Suhaibah Azri, M. Zahir, Alias Abdul Rahman and Tan Liat Choon</td>
-	    	<td>Urban Heat Island Micro-mapping Via 3D City Model</td>
+	    	<td>U. Ujang, S. Azri, M. Zahir, A. Abdul Rahman, and T. L. Choon</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-201-2018">Urban Heat Island Micro-mapping Via 3D City Model</a></td>
 	    </tr>
 	    <tr>
 	    	<td>66</td>
-	    	<td>Estibaliz Muñumer Herrero, Claire Ellul and Jeremy Morley</td>
-	    	<td>Testing The Impact Of 2D Generalisation On 3D City Models – Exploring Analysis Options With An Off-the-shelf Software Package</td>
+	    	<td>E. Muñumer Herrero, C. Ellul, and J. Morley</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-119-2018">Testing the Impact of 2D Generalisation on 3D City Models – Exploring Analysis Options With an Off-The-Shelf Software Package</a></td>
 	    </tr>
 	    <tr>
 	    	<td>69</td>
-	    	<td>Claire Ellul, Jantien Stoter, Lars Harrie, Masoome Shariat, Avril Behan and Maria Pla</td>
-	    	<td>Investigating The State-of-play Of GeoBIM Across Europe</td>
+	    	<td>C. Ellul, J. Stoter, L. Harrie, M. Shariat, A. Behan, and M. Pla</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-19-2018">Investigating the State of Play of GeoBIM Across Europe</a></td>
 	    </tr>
 	    <tr>
 	    	<td>72</td>
-	    	<td>Emre Özdemir and Fabio Remondino</td>
-	    	<td>Segmentation Of 3D Photogrammetric Point Cloud For 3D Building Modeling</td>
+	    	<td>E. Özdemir and F. Remondino</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-135-2018">Segmentation of 3D Photogrammetric Point Cloud for 3D Building Modeling</a></td>
 	    </tr>
 	    <tr>
 	    	<td>73</td>
-	    	<td>Claudine Métral and Gilles Falquet</td>
-	    	<td>Extension And Contextualisation For Linked Semantic 3D Geodata</td>
+	    	<td>C. Métral and G. Falquet</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-113-2018">Extension And Contextualisation For Linked Semantic 3D Geodata</a></td>
 	    </tr>
 	    <tr>
 	    	<td>74</td>
-	    	<td>Hamid Kiavarz, Mojgan Jadidi, Abbas Rajabifard and Gunho Sohn</td>
-	    	<td>BIM-GIS Oriented Intelligent Knowledge Discovery</td>
+	    	<td>H. Kiavarz, M. Jadidi, A. Rajabifard, and G. Sohn</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-79-2018">BIM-GIS Oriented Intelligent Knowledge Discovery</a></td>
 	    </tr>
 	    <tr>
 	    	<td>76</td>
-	    	<td>Syahiirah Salleh, Uznir Ujang, Suhaibah Azri and Tan Liat Choon</td>
-	    	<td>Cell Complexes Topological Links For Buildings In CityGML</td>
+	    	<td>S. Salleh, U. Ujang, S. Azri, and T. L. Choon</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-165-2018">Cell Complexes Topological Links for Buildings in CityGML</a></td>
 	    </tr>
 	    <tr>
 	    	<td>78</td>
-	    	<td>Andrea Scianna and Marcello La Guardia</td>
-	    	<td>Globe Based 3D GIS Solutions For Virtual Heritage</td>
+	    	<td>A. Scianna and M. La Guardia</td>
+	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-171-2018">Globe Based 3D GIS Solutions For Virtual Heritage</a></td>
 	    </tr>
   	</tbody>
   </table>
