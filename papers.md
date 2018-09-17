@@ -8,7 +8,7 @@ permalink: /papers
 
 ## Accepted papers and presentations
 
-### Full papers in [ISPRS Annals Volume IV-4/W6 (2018)](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-4-W6/index.html)
+### Full papers in [ISPRS Annals Volume IV-4/W6](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-4-W6/index.html)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -84,7 +84,7 @@ permalink: /papers
   </table>
 </div>
 
-### Full papers in [ISPRS Archives Volume XLII-4/W10 (2018)](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4-W10/index.html)
+### Full papers in [ISPRS Archives Volume XLII-4/W10](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4-W10/index.html)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
@@ -145,7 +145,7 @@ permalink: /papers
   </table>
 </div>
 
-### Extended abstracts in [ISPRS Archives Volume XLII-4/W10 (2018)](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4-W10/index.html)
+### Extended abstracts in [ISPRS Archives Volume XLII-4/W10](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4-W10/index.html)
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
