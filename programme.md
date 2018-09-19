@@ -483,8 +483,8 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    </tr>
 	    <tr>
 	    	<td>82</td>
-	    	<td>Gabriele Murchio and Cecilia Sciarretta</td>
-	    	<td>Stand Alone Presentation - Satellite, Airborne and Close Range Photogrammetry in Heracles Project</td>
+	    	<td>Gabriele Murchio</td>
+	    	<td>Integration of Satellite, Airborne and In-Situ techniques in Heracles Project</td>
 	    </tr>
 	    <tr>
 	    	<td>85</td>

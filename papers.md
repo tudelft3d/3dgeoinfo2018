@@ -345,8 +345,8 @@ permalink: /papers
 	    </tr>
 	    <tr>
 	    	<td>82</td>
-	    	<td>Gabriele Murchio and Cecilia Sciarretta</td>
-	    	<td>Stand Alone Presentation - Satellite, Airborne And Close Range Photogrammetry In Heracles Project</td>
+	    	<td>Gabriele Murchio</td>
+	    	<td>Integration of Satellite, Airborne and In-Situ techniques in Heracles Project</td>
 	    </tr>
 	    <tr>
 	    	<td>83</td>
