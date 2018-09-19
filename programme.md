@@ -511,6 +511,11 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	  </thead>
     <tbody>
     	<tr>
+	    	<td>16</td>
+	    	<td>John Samuel, Sylvie Servigne and Gilles Gesquière</td>
+	    	<td>UrbanCo2Fab: Comprehension of Concurrent Viewpoints of Urban Fabric Based on GIT <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-65-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
+	    </tr>
+    	<tr>
 	    	<td>18</td>
 	    	<td>Amol Konde, Helga Tauscher, Filip Biljecki and James Crawford</td>
 	    	<td>Floor Plans in CityGML <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-25-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
@@ -730,11 +735,6 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    	<td>15</td>
 	    	<td>Stelios Vitalis, Ken Arroyo Ohori and Jantien Stoter</td>
 	    	<td>A Framework for the Representation of Two Versions of a 3D City Model in 4D Space <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-81-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
-	    </tr>
-	    <tr>
-	    	<td>16</td>
-	    	<td>John Samuel, Sylvie Servigne and Gilles Gesquière</td>
-	    	<td>UrbanCo2Fab: Comprehension of Concurrent Viewpoints of Urban Fabric Based on GIT <a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-65-2018"><span class="glyphicon glyphicon glyphicon-file" aria-hidden="true"></span></a></td>
 	    </tr>
 	    <tr>
 	    	<td>17</td>
