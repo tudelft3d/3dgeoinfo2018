@@ -77,7 +77,7 @@ There is no need to download it as you may use its online version from [here](ht
 [GDAL](https://www.gdal.org) will be used for the manipulation and transformation of *CityGML* data. Binaries can we found through it's [download page](https://trac.osgeo.org/gdal/wiki/DownloadingGdalBinaries).
 
 In order to simplify the process, we would suggest the following:
-- For **Windows** better use the OSGeo4W Network installer suggester before. As soon as you have installed QGIS 3 through it, there is no need for further action here.
+- For **Windows** better use the OSGeo4W Network installer suggested before. As soon as you have installed QGIS 3 through it, there is no need for further action here.
 - For **macOS** you can download the package from [here](http://www.kyngchaos.com/software:frameworks) or install it through ```homebrew```. In case ```homebrew``` was used to install QGIS3, GDAL 2 must be already installed.
 
 <a name="python-cjio" style="display: block; position: relative; top: -70px; visibility: hidden;"></a>
