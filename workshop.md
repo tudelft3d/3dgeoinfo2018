@@ -39,7 +39,7 @@ Lunch and coffee will be provided. Also, after the workshop there will be drinks
 	  <tbody>
 	  	<tr>
 				<td>8:30 - 9:00</td>
-				<td>Arrival</td>
+				<td>Registration Open</td>
 	    </tr>
 	    <tr>
 				<td>9:00 - 10:00</td>
