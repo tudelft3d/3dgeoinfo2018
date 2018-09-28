@@ -31,7 +31,7 @@ A list of software is required in order to follow the workshop. You may find det
 [3dfier](https://github.com/tudelft3d/3dfier) will be used for the creation of a 3D city model. You have to download the software as well as the example data.
 
 The software can be downloaded from the following links:
-- For **Windows 7/8/10 64-bit** you can download [3dfier 1.0.2](https://github.com/tudelft3d/3dfier/releases/download/v1.0.2/3dfier-windows-x64-v1.0.2.zip)
+- For **Windows 7/8/10 64-bit** you can download [3dfier 1.0.3](https://github.com/tudelft3d/3dfier/releases/download/v1.0.3/3dfier-windows-x64-v1.0.3.zip)
 - For **macOS** you can download [3dfier 0.9.7](https://github.com/tudelft3d/3dfier/releases/download/v0.9.7/3dfier-OSX-0.9.7.zip)
 - For **Linux** or other versions of Windows you can follow the instruction on the 3dfier [wiki](https://github.com/tudelft3d/3dfier/wiki).
 
