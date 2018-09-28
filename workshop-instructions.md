@@ -35,7 +35,7 @@ The software can be downloaded from the following links:
 - For **macOS** you can download [3dfier 0.9.7](https://github.com/tudelft3d/3dfier/releases/download/v0.9.7/3dfier-OSX-0.9.7.zip)
 - For **Linux** or other versions of Windows you can follow the instruction on the 3dfier [wiki](https://github.com/tudelft3d/3dfier/wiki).
 
-The example data is included in the Windows package. If you downloaded the macOS package, you will find the example data as an individual archive [here](https://github.com/tudelft3d/3dfier/releases/download/example_data/example_data.zip).
+You will find the example data as an individual archive [here](https://github.com/tudelft3d/3dfier/releases/download/example_data/example_data.zip).
 
 <a name="meshlab" style="display: block; position: relative; top: -70px; visibility: hidden;"></a>
 
