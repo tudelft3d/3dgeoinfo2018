@@ -68,7 +68,8 @@ The [azul](https://github.com/tudelft3d/azul) 3D viewer will be used for the vis
 
 For the validation of the 3D geometries we will use [val3dity](http://geovalidation.bk.tudelft.nl/val3dity/docs/).
 
-There is no need to download it as you may use its online version from [here](http://geovalidation.bk.tudelft.nl/val3dity/).
+- For **Windows 7/8/10 64-bit** you can download [val3dity 2.1.0](https://github.com/tudelft3d/val3dity/releases/download/2.1.0/val3dity-2.1.0-windows-x64.zip)
+- For **macOS** you can download [val3dity 2.1.0](https://github.com/tudelft3d/val3dity/releases/download/2.1.0/val3dity-2.1.0-OSX.zip)
 
 <a name="gdal" style="display: block; position: relative; top: -70px; visibility: hidden;"></a>
 
