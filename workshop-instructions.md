@@ -32,7 +32,7 @@ A list of software is required in order to follow the workshop. You may find det
 
 The software can be downloaded from the following links:
 - For **Windows 7/8/10 64-bit** you can download [3dfier 1.0.3](https://github.com/tudelft3d/3dfier/releases/download/v1.0.3/3dfier-windows-x64-v1.0.3.zip)
-- For **macOS** you can download [3dfier 0.9.7](https://github.com/tudelft3d/3dfier/releases/download/v0.9.7/3dfier-OSX-0.9.7.zip)
+- For **macOS** you can download [3dfier 1.0.3](https://github.com/tudelft3d/3dfier/releases/download/v1.0.3/3dfier-OSX-v1.0.3.zip)
 - For **Linux** or other versions of Windows you can follow the instruction on the 3dfier [wiki](https://github.com/tudelft3d/3dfier/wiki).
 
 You will find the example data as an individual archive [here](https://github.com/tudelft3d/3dfier/releases/download/example_data/example_data.zip).
