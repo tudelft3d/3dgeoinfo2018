@@ -43,7 +43,7 @@ Lunch and coffee will be provided. Also, after the workshop there will be drinks
 	    </tr>
 	    <tr>
 				<td>9:00 - 10:00</td>
-				<td>Intro to 3D City Models + implementations: CityGML and CityJSON</td>
+				<td>Intro to 3D City Models + implementations: CityGML and CityJSON (<a href="https://speakerdeck.com/liberostelios/3d-city-models-introduction">Presentation</a>)</td>
 	    </tr>
 	    <tr>
 				<td>10:00 - 10:15</td>
