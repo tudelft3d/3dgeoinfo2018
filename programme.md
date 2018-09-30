@@ -153,7 +153,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    </tr>
 	    <tr>
 	      <td>19:00 - </td>
-	      <td colspan="4" class="active">Conference dinner 🍽️ (Lijm en Cultuur - Rotterdamseweg 272)</td>
+	      <td colspan="4" class="active"><a href="practicalinfo.html#dinner">Conference dinner 🍽️</a></td>
 	    </tr>
 			<tr>
 	      <th rowspan="7">Wed 3 Oct</th>

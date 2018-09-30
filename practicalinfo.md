@@ -95,8 +95,10 @@ It is the third stop. [Here](https://www.connexxion.nl/data/upload/Lijnennetkaar
 
 <a name="dinner" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-The 3D GeoInfo conference dinner on Tueday at 19:00 will take place at [Lijm & Cultuur](https://www.lijmencultuur.nl), which is located a short walk (10 minutes) from the Aula Congress Centre.
+The 3D GeoInfo conference dinner on Tueday at 19:00 will take place at [Lijm & Cultuur](https://www.lijmencultuur.nl), which is located a short walk (10 minutes) from the Aula Congress Centre or a longer walk (20-30 minutes) from the station or city centre.
+The address is Rotterdamseweg 272, 2628 AT Delft.
 
+Maps: [Google](https://www.google.com/maps/place/Lijm+%26+Cultuur/@51.9958346,4.368133,17z/data=!3m1!4b1!4m5!3m4!1s0x47c5b591a969c633:0x943dcb3079db9b89!8m2!3d51.9958346!4d4.3703217) or [Apple](https://maps.apple.com/?address=Rotterdamseweg%20272\,%202628%20AT%20Delft\,%20Netherlands&auid=1402297984407520423&ll=51.996290\,4.369960&lsp=9902&q=Lijm%20%26%20Cultuur%20Holding%20B.V.&_ext=ChkKBQgEELABCgQIBRADCgQIBhAXCgQIChAAEiQpu78wQPP+SUAxI2M0eV5zEUA5OZVWnBkASkBB7zxyHU+CEUA%3D).
 
 ### About Delft
 
