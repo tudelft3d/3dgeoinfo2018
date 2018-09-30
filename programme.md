@@ -85,7 +85,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	      <td></td>
 	    </tr>
 	    <tr>
-	      <td>18:00 - 19:30</td>
+	      <td>18:30 - 20:30</td>
 	      <td colspan="4" class="active">Welcome reception 🥂 (Foyer)</td>
 	    </tr>
 			<tr>
