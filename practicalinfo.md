@@ -91,6 +91,13 @@ Maps: [Google](https://www.google.com/maps/place/Delft+University+of+Technology+
 Alternatively, buses 40 (Rotterdam Centraal), 55 (Zoetermeer Centrum West), 69 (Delft Technopolis) and 174 (Rotterdam Noord via Berkel) will drop you off at the stop TU - Aula just in front of the venue.
 It is the third stop. [Here](https://www.connexxion.nl/data/upload/Lijnennetkaart%20Delft.pdf) is a public transit map of the area.
 
+### Dinner venue
+
+<a name="dinner" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
+
+The 3D GeoInfo conference dinner on Tueday at 19:00 will take place at [Lijm & Cultuur](https://www.lijmencultuur.nl), which is located a short walk (10 minutes) from the Aula Congress Centre.
+
+
 ### About Delft
 
 Delft is a small university city located about 60 km south-west of Amsterdam, very close to The Hague and Rotterdam.
