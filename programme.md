@@ -498,7 +498,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 <a name="m1" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
 #### Modelling I (Tuesday 2 October 8:00 - 9:00 @ Senaatzaal)
-##### Chair: Kavisha Kumar
+##### Chair: <s>Kavisha Kumar</s> Weixiao Gao
 
 <div class="table-responsive">
 	<table class="table table-hover table-condensed">
