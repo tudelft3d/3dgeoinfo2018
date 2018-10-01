@@ -95,10 +95,86 @@ It is the third stop. [Here](https://www.connexxion.nl/data/upload/Lijnennetkaar
 
 <a name="dinner" style="display: block; position: relative; top: -50px; visibility: hidden;"></a>
 
-The 3D GeoInfo conference dinner on Tueday at 19:00 will take place at [Lijm & Cultuur](https://www.lijmencultuur.nl), which is located a short walk (10 minutes) from the Aula Congress Centre or a longer walk (20-30 minutes) from the station or city centre.
-The address is Rotterdamseweg 272, 2628 AT Delft.
+The 3D GeoInfo conference dinner on Tueday at 19:00 will take place at Lijm & Cultuur, which is located a short walk (10 minutes) from the Aula Congress Centre or a longer walk (20-30 minutes) from the station or city centre. Maps: [Google](https://www.google.com/maps/place/Lijm+%26+Cultuur/@51.9958346,4.368133,17z/data=!3m1!4b1!4m5!3m4!1s0x47c5b591a969c633:0x943dcb3079db9b89!8m2!3d51.9958346!4d4.3703217) or [Apple](https://maps.apple.com/?address=Rotterdamseweg%20272\,%202628%20AT%20Delft\,%20Netherlands&auid=1402297984407520423&ll=51.996290\,4.369960&lsp=9902&q=Lijm%20%26%20Cultuur%20Holding%20B.V.&_ext=ChkKBQgEELABCgQIBRADCgQIBhAXCgQIChAAEiQpu78wQPP+SUAxI2M0eV5zEUA5OZVWnBkASkBB7zxyHU+CEUA%3D).
 
-Maps: [Google](https://www.google.com/maps/place/Lijm+%26+Cultuur/@51.9958346,4.368133,17z/data=!3m1!4b1!4m5!3m4!1s0x47c5b591a969c633:0x943dcb3079db9b89!8m2!3d51.9958346!4d4.3703217) or [Apple](https://maps.apple.com/?address=Rotterdamseweg%20272\,%202628%20AT%20Delft\,%20Netherlands&auid=1402297984407520423&ll=51.996290\,4.369960&lsp=9902&q=Lijm%20%26%20Cultuur%20Holding%20B.V.&_ext=ChkKBQgEELABCgQIBRADCgQIBhAXCgQIChAAEiQpu78wQPP+SUAxI2M0eV5zEUA5OZVWnBkASkBB7zxyHU+CEUA%3D).
+<div class="row">
+  <div class="col-xs-8"><img class="image img-responsive" src="img/lenc.png" /></div>
+  <div class="col-xs-4">
+    <strong><a href="https://www.lijmencultuur.nl">Lijm & Cultuur</a></strong>
+    <address>
+      Rotterdamseweg 272 <br />
+      2628 AT Delft <br />
+    </address>
+  </div>
+</div>
+<br />
+
+<style>
+.marker {
+    display: block;
+    border: solid red;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+}
+</style>
+
+<div class="row" style="padding-right: 20px;">
+  <div class="col-xs-12" id="dinnermap" style="height: 350px;"></div>
+</div>
+
+<script>
+  mapboxgl.accessToken = 'pk.eyJ1Ijoia2Vub2hvcmkiLCJhIjoiY2pnNnc1bDJkMjcxNzMzeGZjOGI4aW5ibyJ9.gonBY78tu7tCtqUAQr5YfA';
+  var venuemap = new mapboxgl.Map({
+    container: 'dinnermap',
+    style: 'mapbox://styles/kenohori/civ755tht00282il15wzp492x',
+    center: [4.3720975, 52.007],
+    zoom: 12.25
+  });
+  var markers = {
+    "type": "FeatureCollection",
+    "features": [{
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.3702754, 51.9958293],
+      },
+      "properties": {
+        "title": "Lijm & Cultuur",
+        "description": "Rotterdamseweg 272",
+        "icon": "lencs.png"
+      }
+    }, {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.373491558788913, 52.002213201776584],
+      },
+      "properties": {
+        "title": "Aula Congress Centre",
+        "description": "Mekelweg 5",
+        "icon": "aula.jpg"
+      }
+    }]
+  }
+  // add markers to map
+  markers.features.forEach(function(marker) {
+    // create a DOM element for the marker
+    var el = document.createElement('div');
+    el.className = 'marker';
+    el.style.backgroundImage = 'url(img/' + marker.properties.icon + ')';
+    el.style.width = '50px';
+    el.style.height = '50px';
+
+    // add marker to map
+    new mapboxgl.Marker(el, {offset: [-25, -25]})
+      .setLngLat(marker.geometry.coordinates)
+      .setPopup(new mapboxgl.Popup({ offset: 25 })
+      .setHTML('<strong>' + marker.properties.title + '</strong><p>' + marker.properties.description + '</p>'))
+      .addTo(venuemap);
+  });
+</script>
+<br />
 
 ### About Delft
 
