@@ -693,9 +693,9 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    	<td>Contextual Classification of 3D Textured Meshes for Urban Scene Interpretation [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/44%20Contextual%20Classification%20of%203D%20Textured%20Meshes%20for%20Urban%20Scene%20Interpretation.pdf"><i class="far fa-image"></i> Slides</a>] [<a href="https://vimeo.com/146221307"><i class="fas fa-video"></i> Video</a>]</td>
 	    </tr>
 	    <tr>
-	    	<td>57</td>
-	    	<td>Nanna Suryana, Muhamad Syaifur Rokman and Fandy Setio Utomo</td>
-	    	<td>Prediction Based Workload Performance Evaluation for Disaster Management Spatial Database [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-187-2018"><i class="far fa-file-alt"></i> Paper</a>] (Absent at event)</td>
+	    	<td><s>57</s></td>
+	    	<td><s>Nanna Suryana, Muhamad Syaifur Rokman and Fandy Setio Utomo</s></td>
+	    	<td><s>Prediction Based Workload Performance Evaluation for Disaster Management Spatial Database</s> (Absent at event)</td>
 	    </tr>
 	    <tr>
 	    	<td>72</td>
