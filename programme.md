@@ -646,7 +646,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>61</td>
 	    	<td>Sven Briels</td>
-	    	<td>Asbestos Roof Detection in RGB Aerial Imagery</td>
+	    	<td>Asbestos Roof Detection in RGB Aerial Imagery [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/61%20Asbestos%20Roof%20Detection%20in%20RGB%20Aerial%20Imagery.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>65</td>
@@ -734,7 +734,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>15</td>
 	    	<td>Stelios Vitalis, Ken Arroyo Ohori and Jantien Stoter</td>
-	    	<td>A Framework for the Representation of Two Versions of a 3D City Model in 4D Space [<a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-81-2018"><i class="far fa-file-alt"></i> Paper</a>]</td>
+	    	<td>A Framework for the Representation of Two Versions of a 3D City Model in 4D Space [<a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-81-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/15%20A%20Framework%20for%20the%20Representation%20of%20Two%20Versions%20of%20a%203D%20City%20Model%20in%204D%20Space.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>17</td>
