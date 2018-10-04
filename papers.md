@@ -8,7 +8,7 @@ permalink: /papers
 
 ## Accepted papers and presentations
 
-Note: you can access the slides from the authors who have agreed to make their presentations public in the <a href="programme.html#timetable">programme</a> page.
+Note: you can access the slides and videos from the authors who have agreed to make their presentations public in the <a href="programme.html#timetable">programme</a> page.
 
 ### Full papers in [ISPRS Annals Volume IV-4/W6](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-4-W6/index.html)
 
