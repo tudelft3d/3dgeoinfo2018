@@ -690,7 +690,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>44</td>
 	    	<td>Weixiao Gao, Malgorzata Jarzabek-Rychard, Hugo Ledoux, Thijs van Lankveld, Jantien Stoter and Martin Kada</td>
-	    	<td>Contextual Classification of 3D Textured Meshes for Urban Scene Interpretation</td>
+	    	<td>Contextual Classification of 3D Textured Meshes for Urban Scene Interpretation [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/44%20Contextual%20Classification%20of%203D%20Textured%20Meshes%20for%20Urban%20Scene%20Interpretation.pdf"><i class="far fa-image"></i> Slides</a>] [<a href="https://vimeo.com/146221307"><i class="fas fa-video"></i> Video</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>57</td>
