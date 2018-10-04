@@ -528,7 +528,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>41</td>
 	    	<td>Anna Labetski, Stefan van Gerwen, Guus Tamminga, Hugo Ledoux and Jantien Stoter</td>
-	    	<td>A Proposal for an Improved Transportation Model in CityGML [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-89-2018"><i class="far fa-file-alt"></i> Paper</a>]</td>
+	    	<td>A Proposal for an Improved Transportation Model in CityGML [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-89-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/41%20A%20Proposal%20for%20an%20Improved%20Transportation%20Model%20in%20CityGML.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>73</td>
