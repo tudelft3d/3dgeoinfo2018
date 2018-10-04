@@ -44,14 +44,6 @@ permalink: /committee
         Delft University of Technology
       </td>
     </tr>
-    <!-- <tr>
-      <td>
-        Weixiao Gao
-      </td>
-      <td>
-        Delft University of Technology
-      </td>
-    </tr> -->
     <tr>
       <td>
         Anna Labetski
@@ -60,22 +52,6 @@ permalink: /committee
         Delft University of Technology
       </td>
     </tr>
-    <!-- <tr>
-      <td>
-        Hugo Ledoux
-      </td>
-      <td>
-        Delft University of Technology
-      </td>
-    </tr>
-    <tr>
-      <td>
-        Liangliang Nan
-      </td>
-      <td>
-        Delft University of Technology
-      </td>
-    </tr> -->
     <tr>
       <td>
         Stelios Vitalis
