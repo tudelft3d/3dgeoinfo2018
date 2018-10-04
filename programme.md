@@ -631,7 +631,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>48</td>
 	    	<td>Kavisha Kumar, Hugo Ledoux and Jantien Stoter</td>
-	    	<td>Dynamic 3D Visualization of Floods: Case of the Netherlands [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-83-2018"><i class="far fa-file-alt"></i> Paper</a>]</td>
+	    	<td>Dynamic 3D Visualization of Floods: Case of the Netherlands [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-83-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/48%20Dynamic%203D%20Visualization%20of%20Floods-%20Case%20of%20the%20Netherlands.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>53</td>
