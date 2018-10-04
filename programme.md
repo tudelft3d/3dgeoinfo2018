@@ -533,7 +533,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>73</td>
 	    	<td>Claudine Métral and Gilles Falquet</td>
-	    	<td>Extension and Contextualisation for Linked Semantic 3D Geodata [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-113-2018"><i class="far fa-file-alt"></i> Paper</a>]</td>
+	    	<td>Extension and Contextualisation for Linked Semantic 3D Geodata [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-113-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/73%20Extension%20and%20Contextualisation%20for%20Linked%20Semantic%203D%20Geodata.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	  </tbody>
 	</table>
