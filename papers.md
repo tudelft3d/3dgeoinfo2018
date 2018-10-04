@@ -8,6 +8,8 @@ permalink: /papers
 
 ## Accepted papers and presentations
 
+Note: you can access the slides from the authors who have agreed to make their presentations public in the <a href="programme.html#timetable">programme</a> page.
+
 ### Full papers in [ISPRS Annals Volume IV-4/W6](https://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/IV-4-W6/index.html)
 
 <div class="table-responsive">
@@ -138,7 +140,7 @@ permalink: /papers
 	    </tr>
 	    <tr>
 	    	<td>32</td>
-	    	<td>L. Gobeawan, E. S. Lin, A. Tandon, A. T. K. Yee, V. H. S. Khoo, S. N. Teo, S. Yi, C. W. Lim, S. T. Wong, D. J. Wise, P. Cheng, S. C. Liew, X. Huang, Q. H. Li, L. S. Teo, G. S. Fekete, and M. T. Poto</td>
+	    	<td>L. Gobeawan, E. S. Lin, A. Tandon, A. T. K. Yee, V. H. S. Khoo, S. N. Teo, Su Y., C. W. Lim, S. T. Wong, D. J. Wise, P. Cheng, S. C. Liew, X. Huang, Q. H. Li, L. S. Teo, G. S. Fekete, and M. T. Poto</td>
 	    	<td><a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-55-2018">Modeling Trees For Virtual Singapore: From Data Acquisition To CityGML Models</a></td>
 	    </tr>
   	</tbody>
