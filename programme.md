@@ -322,7 +322,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>81</td>
 	    	<td>Panagiotis Karydakis</td>
-	    	<td>Visualisation of BIM through Hololens</td>
+	    	<td>Visualisation of BIM through Hololens <a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/81%20Visualisation%20of%20BIM%20through%20Hololens.pdf"><i class="far fa-image"></i></a></td>
 	    </tr>
 	    <tr>
 	    	<td>10</td>
