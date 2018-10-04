@@ -695,7 +695,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>57</td>
 	    	<td>Nanna Suryana, Muhamad Syaifur Rokman and Fandy Setio Utomo</td>
-	    	<td>Prediction Based Workload Performance Evaluation for Disaster Management Spatial Database [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-187-2018"><i class="far fa-file-alt"></i> Paper</a>]</td>
+	    	<td>Prediction Based Workload Performance Evaluation for Disaster Management Spatial Database [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-187-2018"><i class="far fa-file-alt"></i> Paper</a>] (Absent at event)</td>
 	    </tr>
 	    <tr>
 	    	<td>72</td>
