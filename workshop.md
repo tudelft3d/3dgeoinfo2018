@@ -51,7 +51,7 @@ Lunch and coffee will be provided. Also, after the workshop there will be drinks
 	    </tr>
 	    <tr>
 				<td>10:15 - 12:30</td>
-				<td>3dfier</td>
+				<td>3dfier (<a href="https://speakerdeck.com/liberostelios/3d-geoinfo-pre-conference-workshop-3dfier">Presentation</a>)</td>
 	    </tr>
 	    <tr>
 				<td>12:30 - 13:30</td>
@@ -59,7 +59,7 @@ Lunch and coffee will be provided. Also, after the workshop there will be drinks
 	    </tr>
 	    <tr>
 				<td>13:30 - 15:30</td>
-				<td>Desktop manipulation and visualisation (QGIS, azul and val3dity)</td>
+				<td>Desktop manipulation and visualisation (Presentations for: <a href="https://speakerdeck.com/liberostelios/3d-geoinfo-pre-conference-workshop-val3dity">val3dity</a>, <a href="https://speakerdeck.com/liberostelios/3d-geoinfo-pre-conference-workshop-gdal">GDAL</a>, <a href="https://speakerdeck.com/liberostelios/3d-geoinfo-pre-conference-workshop-cjio">cjio</a>)</td>
 	    </tr>
 			<tr>
 				<td>15:30 - 15:45</td>
