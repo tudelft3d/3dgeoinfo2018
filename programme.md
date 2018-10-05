@@ -744,7 +744,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>31</td>
 	    	<td>Ihab Hijazi, Vanessa Ebert, Andreas Donaubauer and Thomas Kolbe</td>
-	    	<td>Combining Urban Metabolism Methods and Semantic 3D City Models [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-63-2018"><i class="far fa-file-alt"></i> Paper</a>]</td>
+	    	<td>Combining Urban Metabolism Methods and Semantic 3D City Models [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-63-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/31%20Combining%20Urban%20Metabolism%20Methods%20and%20Semantic%203D%20City%20Models.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>76</td>
