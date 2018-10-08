@@ -312,22 +312,22 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>40</td>
 	    	<td>Yunhao Zhang, Jun Zhu, Qing Zhu, Weilian Li, Junxiao Zhang, Mingwei Liu, Yun Li and Bin Feng</td>
-	    	<td>Optimized Organization and Adaptive Visualization of Complicated Mountain Disaster 3D Scenes for Diverse Terminals [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-237-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/40%20Optimized%20Organization%20and%20Adaptive%20Visualization%20of%20Complicated%20Mountain%20Disaster%203D%20Scenes%20for%20Diverse%20Terminals.pdf"><i class="far fa-image"></i> Slides</a>]</td>
+	    	<td>Optimized Organization and Adaptive Visualization of Complicated Mountain Disaster 3D Scenes for Diverse Terminals [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-237-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/40%20Optimized%20Organization%20and%20Adaptive%20Visualization%20of%20Complicated%20Mountain%20Disaster%203D%20Scenes%20for%20Diverse%20Terminals.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>60</td>
 	    	<td>Johannes Wolf, Sören Discher, Leon Masopust, Sebastian Schulz, Rico Richter and Jürgen Döllner</td>
-	    	<td>Combined Visual Exploration of 2D Ground Radar and 3D Point Cloud Data for Road Environments [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-231-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/60%20Combined%20Visual%20Exploration%20of%202D%20Ground%20Radar%20and%203D%20Point%20Cloud%20Data%20for%20Road%20Environments.pdf"><i class="far fa-image"></i> Slides</a>]</td>
+	    	<td>Combined Visual Exploration of 2D Ground Radar and 3D Point Cloud Data for Road Environments [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-231-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/60%20Combined%20Visual%20Exploration%20of%202D%20Ground%20Radar%20and%203D%20Point%20Cloud%20Data%20for%20Road%20Environments.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>81</td>
 	    	<td>Panagiotis Karydakis</td>
-	    	<td>Visualisation of BIM through Hololens [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/81%20Visualisation%20of%20BIM%20through%20Hololens.pdf"><i class="far fa-image"></i> Slides</a>]</td>
+	    	<td>Visualisation of BIM through Hololens [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/81%20Visualisation%20of%20BIM%20through%20Hololens.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>10</td>
 	    	<td>Ioannis Pispidikis and Efi Dimopoulou</td>
-	    	<td>CityGML Restful Web Service: Automatic Retrieval of CityGML Data Based on Their Semantics. Principles, Guidelines and Bldg Conceptual Design. [<a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-49-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/10%20CityGML%20Restful%20Web%20Service.pdf"><i class="far fa-image"></i> Slides</a>]</td>
+	    	<td>CityGML Restful Web Service: Automatic Retrieval of CityGML Data Based on Their Semantics. Principles, Guidelines and Bldg Conceptual Design. [<a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-49-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/10%20CityGML%20Restful%20Web%20Service.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>71</td>
@@ -430,7 +430,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>28</td>
 	    	<td>Ioannis Pispidikis, Eva Tsiliakou, Dimitrios Kitsakis, Katerina Athanasiou, Eftychia Kalogianni, Tassos Labropoulos and Efi Dimopoulou</td>
-	    	<td>Combining Methodological Tools for the Optimum 3D Modelling of NTUA Campus [<a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-57-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/28%20Combining%20Methodological%20Tools%20for%20the%20Optimum%203D%20Modelling%20of%20NTUA%20Campus.pdf"><i class="far fa-image"></i> Slides</a>] [<a href="https://vimeo.com/293320895"><i class="fas fa-video"></i> Video 1</a>] [<a href="https://vimeo.com/293320856"><i class="fas fa-video"></i> Video 2</a>]</td>
+	    	<td>Combining Methodological Tools for the Optimum 3D Modelling of NTUA Campus [<a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-57-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/28%20Combining%20Methodological%20Tools%20for%20the%20Optimum%203D%20Modelling%20of%20NTUA%20Campus.pdf"><i class="far fa-image"></i> Slides</a>] [<a href="https://vimeo.com/293320895"><i class="fas fa-video"></i> Video 1</a>] [<a href="https://vimeo.com/293320856"><i class="fas fa-video"></i> Video 2</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>46</td>
@@ -440,7 +440,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>49</td>
 	    	<td>Ruba Jaljolie, Yerach Doytsher, Kirsikka Riekkinen and Sagi Dalyot</td>
-	    	<td>An Applicative Approach for Spatial Relationships Determination of 3D Volumetric Parcels in 3D Cadastral Systems [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/49%20An%20Applicative%20Approach%20for%20Spatial%20Relationships%20Determination%20of%203D%20Volumetric%20Parcels%20in%203D%20Cadastral%20Systems.pdf"><i class="far fa-image"></i> Slides</a>]</td>
+	    	<td>An Applicative Approach for Spatial Relationships Determination of 3D Volumetric Parcels in 3D Cadastral Systems [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/49%20An%20Applicative%20Approach%20for%20Spatial%20Relationships%20Determination%20of%203D%20Volumetric%20Parcels%20in%203D%20Cadastral%20Systems.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>51</td>
@@ -528,12 +528,12 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>41</td>
 	    	<td>Anna Labetski, Stefan van Gerwen, Guus Tamminga, Hugo Ledoux and Jantien Stoter</td>
-	    	<td>A Proposal for an Improved Transportation Model in CityGML [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-89-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/41%20A%20Proposal%20for%20an%20Improved%20Transportation%20Model%20in%20CityGML.pdf"><i class="far fa-image"></i> Slides</a>]</td>
+	    	<td>A Proposal for an Improved Transportation Model in CityGML [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-89-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/41%20A%20Proposal%20for%20an%20Improved%20Transportation%20Model%20in%20CityGML.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>73</td>
 	    	<td>Claudine Métral and Gilles Falquet</td>
-	    	<td>Extension and Contextualisation for Linked Semantic 3D Geodata [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-113-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/73%20Extension%20and%20Contextualisation%20for%20Linked%20Semantic%203D%20Geodata.pdf"><i class="far fa-image"></i> Slides</a>]</td>
+	    	<td>Extension and Contextualisation for Linked Semantic 3D Geodata [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-113-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/73%20Extension%20and%20Contextualisation%20for%20Linked%20Semantic%203D%20Geodata.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -631,7 +631,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>48</td>
 	    	<td>Kavisha Kumar, Hugo Ledoux and Jantien Stoter</td>
-	    	<td>Dynamic 3D Visualization of Floods: Case of the Netherlands [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-83-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/48%20Dynamic%203D%20Visualization%20of%20Floods-%20Case%20of%20the%20Netherlands.pdf"><i class="far fa-image"></i> Slides</a>]</td>
+	    	<td>Dynamic 3D Visualization of Floods: Case of the Netherlands [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-83-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/48%20Dynamic%203D%20Visualization%20of%20Floods-%20Case%20of%20the%20Netherlands.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>53</td>
@@ -646,7 +646,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>61</td>
 	    	<td>Sven Briels</td>
-	    	<td>Asbestos Roof Detection in RGB Aerial Imagery [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/61%20Asbestos%20Roof%20Detection%20in%20RGB%20Aerial%20Imagery.pdf"><i class="far fa-image"></i> Slides</a>]</td>
+	    	<td>Asbestos Roof Detection in RGB Aerial Imagery [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/61%20Asbestos%20Roof%20Detection%20in%20RGB%20Aerial%20Imagery.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>65</td>
@@ -690,7 +690,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>44</td>
 	    	<td>Weixiao Gao, Malgorzata Jarzabek-Rychard, Hugo Ledoux, Thijs van Lankveld, Jantien Stoter and Martin Kada</td>
-	    	<td>Contextual Classification of 3D Textured Meshes for Urban Scene Interpretation [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/44%20Contextual%20Classification%20of%203D%20Textured%20Meshes%20for%20Urban%20Scene%20Interpretation.pdf"><i class="far fa-image"></i> Slides</a>] [<a href="https://vimeo.com/146221307"><i class="fas fa-video"></i> Video</a>]</td>
+	    	<td>Contextual Classification of 3D Textured Meshes for Urban Scene Interpretation [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/44%20Contextual%20Classification%20of%203D%20Textured%20Meshes%20for%20Urban%20Scene%20Interpretation.pdf"><i class="far fa-image"></i> Slides</a>] [<a href="https://vimeo.com/146221307"><i class="fas fa-video"></i> Video</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td><s>57</s></td>
@@ -734,7 +734,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>15</td>
 	    	<td>Stelios Vitalis, Ken Arroyo Ohori and Jantien Stoter</td>
-	    	<td>A Framework for the Representation of Two Versions of a 3D City Model in 4D Space [<a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-81-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/15%20A%20Framework%20for%20the%20Representation%20of%20Two%20Versions%20of%20a%203D%20City%20Model%20in%204D%20Space.pdf"><i class="far fa-image"></i> Slides</a>]</td>
+	    	<td>A Framework for the Representation of Two Versions of a 3D City Model in 4D Space [<a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-81-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/15%20A%20Framework%20for%20the%20Representation%20of%20Two%20Versions%20of%20a%203D%20City%20Model%20in%204D%20Space.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>17</td>
@@ -744,7 +744,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>31</td>
 	    	<td>Ihab Hijazi, Vanessa Ebert, Andreas Donaubauer and Thomas Kolbe</td>
-	    	<td>Combining Urban Metabolism Methods and Semantic 3D City Models [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-63-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/31%20Combining%20Urban%20Metabolism%20Methods%20and%20Semantic%203D%20City%20Models.pdf"><i class="far fa-image"></i> Slides</a>]</td>
+	    	<td>Combining Urban Metabolism Methods and Semantic 3D City Models [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-63-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/31%20Combining%20Urban%20Metabolism%20Methods%20and%20Semantic%203D%20City%20Models.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>76</td>
