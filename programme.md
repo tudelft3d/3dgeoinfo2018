@@ -616,7 +616,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>19</td>
 	    	<td>Marc-Oliver Löwner and Yahya Ghassoun</td>
-	    	<td>The Influence of Levels of Detail (LOD0-2) and Buffer Sizes on Parameter Effectiveness for Fine Dust Distribution Modelling [<a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-41-2018"><i class="far fa-file-alt"></i> Paper</a>]</td>
+	    	<td>The Influence of Levels of Detail (LOD0-2) and Buffer Sizes on Parameter Effectiveness for Fine Dust Distribution Modelling [<a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-41-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/19%20The%20Influence%20of%20Levels%20of%20Detail%20%28LOD0-2%29%20and%20Buffer%20Sizes%20on%20Parameter%20Effectiveness%20for%20Fine%20Dust%20Distribution%20Modelling.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>34</td>
