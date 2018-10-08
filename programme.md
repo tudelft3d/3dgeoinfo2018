@@ -474,7 +474,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>69</td>
 	    	<td>Claire Ellul, Jantien Stoter, Lars Harrie, Masoome Shariat, Avril Behan and Maria Pla</td>
-	    	<td>Investigating the State-of-play of GeoBIM across Europe [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-19-2018"><i class="far fa-file-alt"></i> Paper</a>]</td>
+	    	<td>Investigating the State-of-play of GeoBIM across Europe [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-19-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/69%20Investigating%20the%20State-of-play%20of%20GeoBIM%20across%20Europe.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>80</td>
