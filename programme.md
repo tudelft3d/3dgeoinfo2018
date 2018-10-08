@@ -557,7 +557,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td></td>
 	    	<td>Jane Hermans-van Ree </td>
-	    	<td>The Rotterdam 3D City Model, from Innovation to Implementation</td>
+	    	<td>The Rotterdam 3D City Model, from Innovation to Implementation [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/0%20The%20Rotterdam%203D%20City%20Model%2C%20from%20Innovation%20to%20Implementation.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>52</td>
