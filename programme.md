@@ -312,7 +312,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>40</td>
 	    	<td>Yunhao Zhang, Jun Zhu, Qing Zhu, Weilian Li, Junxiao Zhang, Mingwei Liu, Yun Li and Bin Feng</td>
-	    	<td>Optimized Organization and Adaptive Visualization of Complicated Mountain Disaster 3D Scenes for Diverse Terminals [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-237-2018"><i class="far fa-file-alt"></i> Paper</a>]</td>
+	    	<td>Optimized Organization and Adaptive Visualization of Complicated Mountain Disaster 3D Scenes for Diverse Terminals [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-237-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/40%20Optimized%20Organization%20and%20Adaptive%20Visualization%20of%20Complicated%20Mountain%20Disaster%203D%20Scenes%20for%20Diverse%20Terminals.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>60</td>
@@ -440,7 +440,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>49</td>
 	    	<td>Ruba Jaljolie, Yerach Doytsher, Kirsikka Riekkinen and Sagi Dalyot</td>
-	    	<td>An Applicative Approach for Spatial Relationships Determination of 3D Volumetric Parcels in 3D Cadastral Systems</td>
+	    	<td>An Applicative Approach for Spatial Relationships Determination of 3D Volumetric Parcels in 3D Cadastral Systems [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018/49%20An%20Applicative%20Approach%20for%20Spatial%20Relationships%20Determination%20of%203D%20Volumetric%20Parcels%20in%203D%20Cadastral%20Systems.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>51</td>
