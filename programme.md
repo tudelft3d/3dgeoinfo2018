@@ -484,7 +484,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>82</td>
 	    	<td>Gabriele Murchio</td>
-	    	<td>Integration of Satellite, Airborne and In-Situ techniques in Heracles Project</td>
+	    	<td>Integration of Satellite, Airborne and In-Situ techniques in Heracles Project [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/82%20Integration%20of%20Satellite%2C%20Airborne%20and%20In-Situ%20techniques%20in%20Heracles%20Project.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>85</td>
