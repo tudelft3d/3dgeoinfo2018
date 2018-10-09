@@ -518,7 +518,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>18</td>
 	    	<td>Amol Konde, Helga Tauscher, Filip Biljecki and James Crawford</td>
-	    	<td>Floor Plans in CityGML [<a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-25-2018"><i class="far fa-file-alt"></i> Paper</a>]</td>
+	    	<td>Floor Plans in CityGML [<a href="https://doi.org/10.5194/isprs-annals-IV-4-W6-25-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/18%20Floor%20Plans%20in%20CityGML.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>36</td>
