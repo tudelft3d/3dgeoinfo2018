@@ -386,7 +386,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>58</td>
 	    	<td>Soo Chin Liew, Xiaojing Huang, Ervine Shengwei Lin, Chenghua Shi, Alex Thiam Koon Yee and Abhishek Tandon</td>
-	    	<td>Integration of Tree Database Derived from Satellite Imagery and LiDAR Point Cloud Data [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-105-2018"><i class="far fa-file-alt"></i> Paper</a>]</td>
+	    	<td>Integration of Tree Database Derived from Satellite Imagery and LiDAR Point Cloud Data [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-105-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/58%20Integration%20of%20Tree%20Database%20Derived%20from%20Satellite%20Imagery%20and%20LiDAR%20Point%20Cloud%20Data.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	  </tbody>
 	</table>
@@ -700,7 +700,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>72</td>
 	    	<td>Emre Özdemir and Fabio Remondino</td>
-	    	<td>Segmentation of 3D Photogrammetric Point Cloud for 3D Building Modeling [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-135-2018"><i class="far fa-file-alt"></i> Paper</a>]</td>
+	    	<td>Segmentation of 3D Photogrammetric Point Cloud for 3D Building Modeling [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-135-2018"><i class="far fa-file-alt"></i> Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/72%20Segmentation%20of%203D%20Photogrammetric%20Point%20Cloud%20for%203D%20Building%20Modeling.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>83</td>
