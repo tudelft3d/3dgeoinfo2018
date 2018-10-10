@@ -572,7 +572,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
 	    <tr>
 	    	<td>68</td>
 	    	<td>Eri Kawanago, Koutarou Ishizaki, Nobuaki Nagai and Yuji Yoshimura</td>
-	    	<td>3D City Models and Pedestrian Flow Data Analysis System for Shopping Street Revitalization</td>
+	    	<td>3D City Models and Pedestrian Flow Data Analysis System for Shopping Street Revitalization [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/68%203D%20City%20Models%20and%20Pedestrian%20Flow%20Data%20Analysis%20System%20for%20Shopping%20Street%20Revitalization.pdf"><i class="far fa-image"></i> Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>74</td>
