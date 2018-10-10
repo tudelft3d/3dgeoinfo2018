@@ -4,9 +4,9 @@ title: 3D GeoInfo 2018
 permalink: /
 ---
 
-<!-- <div class="alert alert-blue text-center" role="alert">
-	We are organising a pre-conference workshop on 3D city models construction and manipulation software. <a href="workshop.html#workshop" class="alert-link">More information</a>
-</div> -->
+<div class="alert text-center" style="background-color: #2c3e50; color: white;" role="alert">
+	The conference has been a great success. Thanks for coming and see you in <a href="https://www.3dgeoinfo2019.com/" style="color: #30bfeb;">Singapore</a>!
+</div>
 
 <div class="well"><b>Recent news</b><br/><br/>
 	{% assign sorted = site.data.news | sort: 'date' | reverse %}
@@ -16,10 +16,12 @@ permalink: /
   <a href="news.html">All news</a>
 </div>
 
-We are pleased to invite you to the 2018 3D GeoInfo Conference hosted in Delft, Netherlands! Aiming to bring together international researchers from academia, industry and government in the field of 3D geoinformation, the conference offers an interdisciplinary forum to researchers in the fields of data collection, advanced modelling approaches, data analysis and visualisation.
+<img class="image img-responsive" src="img/IMG-0199.JPG" />
 
-The conference will focus on developments and applications in advanced 3D data and technologies as well as provide a platform for these topics to be discussed and for research ideas to be exchanged. There will also be opportunities to promote international collaboration in geoinformation, 3D data analysis and visualisations. The conference is part of the joint event [Geo Delft 2018](https://www.tudelft.nl/geodelft2018/), taking place October 1-5.
+We were glad to host the 2018 3D GeoInfo Conference in Delft, Netherlands! Aiming to bring together international researchers from academia, industry and government in the field of 3D geoinformation, the conference offered an interdisciplinary forum to researchers in the fields of data collection, advanced modelling approaches, data analysis and visualisation.
 
-In case of general questions, you can contact [us](mailto:info@3dgeoinfo2018.nl).
+The conference focused on developments and applications in advanced 3D data and technologies, as well as provided a platform for these topics to be discussed and for research ideas to be exchanged. There were also opportunities to promote international collaboration in geoinformation, 3D data analysis and visualisations. The conference was part of the joint event [Geo Delft 2018](https://www.tudelft.nl/geodelft2018/), which took place October 1-5, 2018.
 
-<img class="image img-responsive" src="img/Delft-Hall.jpg" /><br />
+<!-- In case of general questions, you can contact [us](mailto:info@3dgeoinfo2018.nl). -->
+
+<!-- <img class="image img-responsive" src="img/Delft-Hall.jpg" /><br /> -->
