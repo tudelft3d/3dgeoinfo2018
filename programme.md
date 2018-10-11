@@ -469,7 +469,7 @@ Note: all the 3D GeoInfo presentations will take place at the Senaatzaal and all
     	<tr>
 	    	<td>66</td>
 	    	<td>Estibaliz Muñumer Herrero, Claire Ellul and Jeremy Morley</td>
-	    	<td>Testing the Impact of 2D Generalisation on 3D City Models – Exploring Analysis Options With an Off-The-Shelf Software Package [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-119-2018"><i class="far fa-file-alt"></i>&nbsp;Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/65%20Urban%20Heat%20Island%20Micro-mapping%20via%203D%20City%20Model.pdf"><i class="far fa-image"></i>&nbsp;Slides</a>]</td>
+	    	<td>Testing the Impact of 2D Generalisation on 3D City Models – Exploring Analysis Options With an Off-The-Shelf Software Package [<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W10-119-2018"><i class="far fa-file-alt"></i>&nbsp;Paper</a>] [<a href="https://3d.bk.tudelft.nl/pdfs/3dgeoinfo2018presentations/66%20Testing%20the%20Impact%20of%202D%20Generalisation%20on%203D%20City%20Models%20–%20Exploring%20Analysis%20Options%20With%20an%20Off-The-Shelf%20Software%20Package.pdf"><i class="far fa-image"></i>&nbsp;Slides</a>]</td>
 	    </tr>
 	    <tr>
 	    	<td>69</td>
