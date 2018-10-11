@@ -8,6 +8,8 @@ permalink: /
 	The conference has been a great success. Thanks for coming and see you in <a href="https://www.3dgeoinfo2019.com/" style="color: #30bfeb;">Singapore</a>!
 </div>
 
+<img class="image img-responsive" src="img/IMG-0199.JPG" />
+
 <div class="well"><b>Recent news</b><br/><br/>
 	{% assign sorted = site.data.news | sort: 'date' | reverse %}
   {% for news in sorted limit:3 %}
@@ -15,8 +17,6 @@ permalink: /
   {% endfor %}
   <a href="news.html">All news</a>
 </div>
-
-<img class="image img-responsive" src="img/IMG-0199.JPG" />
 
 We were glad to host the 2018 3D GeoInfo Conference in Delft, Netherlands! Aiming to bring together international researchers from academia, industry and government in the field of 3D geoinformation, the conference offered an interdisciplinary forum to researchers in the fields of data collection, advanced modelling approaches, data analysis and visualisation.
 
