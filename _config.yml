@@ -4,8 +4,8 @@ title: 3D GeoInfo 2018
 description: > # this means to ignore newlines until "baseurl:"
   3D GeoInfo conference 2018
 
-baseurl: ""
-url: "http://3dgeoinfo2018.nl" # the base hostname & protocol for your site
+baseurl: "/events/3dgeoinfo2018"
+url: "https://3d.bk.tudelft.nl" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
 # github_username:  jekyll
